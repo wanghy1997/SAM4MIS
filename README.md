@@ -1,117 +1,102 @@
 # Segment Anything Model / Foundation Models for Medical Image Segmentation (SAM4MIS)
 
-*  Due to the inherent flexibility of prompting, foundation models have emerged as the predominant force in the fields of natural language processing and computer vision. The introduction of the Segment Anything Model (SAM) [(paper)](https://arxiv.org/pdf/2304.02643.pdf) and subsequent SAM2 [(paper)](https://arxiv.org/pdf/2408.00714) & SAM3 [(paper)](https://arxiv.org/pdf/2511.16719) signifies a noteworthy expansion of the prompt-driven paradigm into the domain of image/video segmentation, introducing a plethora of previously unexplored capabilities.
 
-*  This repo will continue to track and summarize the latest research progress of SAM & Foundation Models in medical image segmentation to support ongoing research endeavors. If you find this project helpful, please consider stars or citing. Feel free to contact for any suggestions. If you would like to contribute, please open an issue.
+This project is inspired by [SAM4MIS](https://github.com/YichiZhang98/SAM4MIS).  
+I forked the original repository as a starting point for my own exploration and would like to sincerely thank the original authors for their valuable work in organizing research on SAM and foundation models for medical image segmentation.
 
-*  [24.1] We provide a comprehensive survey of recent endeavors aimed at extending the efficacy of SAM to medical image segmentation tasks, encompassing both empirical benchmarking and methodological adaptations. Additionally, we explore potential avenues for future research directions in SAM's role within medical image segmentation. Please refer to the paper [(CIBM'24)](https://arxiv.org/pdf/2401.03495.pdf) for more details.
+Based on the original project, this repository focuses more on:
 
-*  [26.4] Our latest survey on the development, adaptation, and application of generalist segmentation foundation models in biomedical image and video analysis is published online at [(IRAD'26)](https://onlinelibrary.wiley.com/doi/10.1002/ird3.70061).
+- Continuous tracking and supplementation of the latest relevant literature
+- More granular task classification and method organization
+- Experimental records and extended analysis for individual research needs
 
-```
-@article{SAM4MIS,
-  title={Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions},
-  author={Zhang, Yichi and Shen, Zhenrong and Jiao, Rushi},
-  journal={Computers in Biology and Medicine},
-  volume={171},
-  pages={108238},
-  year={2024}
-}
-
-@article{zhang2026gsfm,
-  title={Unleashing the Potential of Generalist Segmentation Foundation Models for Biomedical Image and Video Analysis},
-  author={Zhang, Yichi and Shen, Zhenrong and Li, Lanlan and Zhang, Wenbo and Xue, Le},
-  journal={iRadiology},
-  year={2026}
-}
-```
-
-*  Last update 2026-4-2
 
 
 ## Table of Contents
 
-- [Introduction: About Segment Anything Model (SAM)](#introduction)
-- [Literature Reviews of SAM 2/3 Adaptions for Medical Image Segmentation](#sam24mis)
+- [[#^Introduction|Introduction: About Segment Anything Model (SAM)]]
+- [[#^sam24mis|Literature Reviews of SAM 2/3 Adaptions for Medical Image Segmentation]]
 - [Literature Reviews of Foundation Models / SAM for Medical Image Segmentation](#sam4mis)
 - [Datasets for Development and Validation of Medical Foundation Models](#dataset)
 - [CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation](#cvpr25)
 - [CVPR2024 Workshop: Segment Anything in Medical Images on Laptop](#cvpr24)
+- [[#^articledetails|Article Details]]
 
 
-
-## About Segment Anything Model (SAM) <div id="introduction"></div>
+## About Segment Anything Model (SAM) 
+^Introduction
 
 Segment Anything Model (SAM) uses vision transformer-based image encoder to extract image features and compute an image embedding, and prompt encoder to embed prompts and incorporate user interactions. Then extranted information from two encoders are combined to alightweight mask decoder to generate segmentation results based on the image embedding, prompt embedding, and output token. For more details, please refer to the [original paper of SAM](https://arxiv.org/pdf/2304.02643.pdf).
 
-![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM_v2.jpg)
+![image](SAM_v2.jpg)
 
-![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/SAM2-Framework.png)
+![image](SAM2-Framework.png)
 
 A brief chronology of Segment Anything Model (SAM) and its variants for medical image segmentation in 2023.
 
-![image](https://github.com/YichiZhang98/SAM4MIS/blob/main/timeline.png)
+![image](timeline.png)
 
 
 
 
 
 ## Literature Reviews of SAM 2/3 Adaptions for Medical Image Segmentation. <div id="sam24mis"></div>
+^sam24mis
 
-|Date|Authors|Title|Code|
-|---|---|---|---|
-|202602|R. Zhai et al.|SAM2-driven dual-teacher framework using hierarchical cross-slice context for semi-supervised 3D medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005047)|None|
-|202511|W. Su et al.|Zero-Shot Capillary Segmentation in Dermoscopy Images via SAM2: A Case Study on Oral Mucosa [(paper)](https://ieeexplore.ieee.org/document/11224518)|None|
-|202511|H. Buyukpatpat et al.|A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/article/10.1007/s10278-025-01778-y)|None|
-|202511|S. Chakrabarty et al.|Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](https://arxiv.org/pdf/2511.21926)|None|
-|202511|A. Liu et al.|MedSAM3: Delving into Segment Anything with Medical Concepts [(paper)](https://arxiv.org/pdf/2511.19046)|[Code](https://github.com/Joey-S-Liu/MedSAM3)|
-|202511|M. Shokri et al.|Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://dl.acm.org/doi/abs/10.1145/3746252.3760872)|None|
-|202511|X. Yao et al.|Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://arxiv.org/pdf/2511.05731)|None|
-|202510|L. Guo et al.|ESAM2-BLS: Enhanced Segment Anything Model 2 for Efficient Breast Lesion Segmentation in Ultrasound Imaging [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001636)|None|
-|202508|M. Fernandez et al.|SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/abstract/document/11084376)|[Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)|
-|202508|Y. Chen et al.|SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)|None|
-|202508|Z. Wu et al.|Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11107345)|None|
-|202508|J. He et al.|Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2 [(paper)](https://ieeexplore.ieee.org/abstract/document/11113315)|None|
-|202507|C. Wang et al.|FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)|None|
-|202507|G. Xu et al.|Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2507.14613)|[Code](https://github.com/apple1986/DD-SAM2)|
-|202507|E. Chukwujindu et al.|Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)|[Code](https://github.com/RadSam2/rad_sam2)|
-|202507|B. Podvin et al.|SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)|None|
-|202506|X. Yu et al.|CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://arxiv.org/pdf/2506.23121)|[Code](https://github.com/YU-deep/CRISP_SAM2.git)|
-|202505|M. Mansoori et al.|Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)|[Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)|
-|202505|G. Huo et al.|SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304)|None|
-|202504|Y. Chen et al.|Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)|None|
-|202504|Y. Yamagishi et al.|Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)|None|
-|202504|J. Ma et al.|MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)|[Code](https://github.com/bowang-lab/MedSAM2)|
-|202504|JD. Gutiérrez et al.|Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227)|None|
-|202504|A. Kazemi et al.|Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)|None|
-|202503|S. Wei et al.|Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344)|None|
-|202503|H. Zu et al.|Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/pdf/2503.04826)|None|
-|202502|X. Wang et al.|Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501)|None|
-|202502|B. Xie et al.|RFMedSAM2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2502.02741)|None|
-|202501|G. Hoyer et al.|Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility [(paper)](https://arxiv.org/pdf/2501.13376)|None|
-|202501|X. He et al.|Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)|None|
-|202411|Z. Li et al.|Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059)|None|
-|202408|M. Mansoori et al.|Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)|[Code](https://github.com/sajjad-sh33/YOLO_SAM2)|
-|202408|X. Chen et al.|SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)|[Code](https://github.com/ShellRedia/SAM-OCTA2)|
-|202408|L. Zhao et al.|Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)|None|
-|202408|Z. Yildiz et al.|SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)|[Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)|
-|202408|Y. He et al.|A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)|[Code](https://github.com/Project-MONAI/VISTA)|
-|202408|X. Xiong et al.|SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2408.08870)|[Code](https://github.com/WZH0120/SAM2-UNet)|
-|202408|H. Liu et al.|Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)|[Code](https://github.com/jinlab-imvr/Surgical-SAM-2)|
-|202408|Y. Yamagishi et al.|Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)|None|
-|202408|M. Mansoori et al.|Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)|[Code](https://github.com/sajjad-sh33/Polyp-SAM-2)|
-|202408|AS. Yu et al.|Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)|None|
-|202408|J. Yu et al.|SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)|None|
-|202408|T. Chen et al.|SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)|None|
-|202408|S. Sengupta et al.|Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)|None|
-|202408|Y. Shen et al.|Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)|None|
-|202408|M. Zhang et al.|SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology [(paper)](https://arxiv.org/pdf/2408.03651)|[Code](https://github.com/simzhangbest/SAM2PATH)|
-|202408|J. Ma et al.|Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)|[Code](https://github.com/bowang-lab/MedSAM)|
-|202408|Z. Yan et al.|Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)|[Code](https://github.com/ZhilingYan/Biomedical-SAM-2)|
-|202408|C. Shen et al.|Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)|[Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)|
-|202408|A. Lou et al.|Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)|[Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)|
-|202408|J. Zhu et al.|Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)|[Code](https://github.com/MedicineToken/Medical-SAM2)|
-|202408|H. Dong et al.|Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/pdf/2408.00756)|None|
+| Date   | Authors               | Title                                                                                                                                                                                                                                                                                                   | Code                                                             |
+| ------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 202602 | R. Zhai et al.        | [[#^zhai202602\|SAM2-driven]] dual-teacher framework using hierarchical cross-slice context for semi-supervised 3D medical image segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005047)                                                                        | None                                                             |
+| 202511 | W. Su et al.          | Zero-Shot Capillary Segmentation in Dermoscopy Images via SAM2: A Case Study on Oral Mucosa [(paper)](https://ieeexplore.ieee.org/document/11224518)                                                                                                                                                    | None                                                             |
+| 202511 | H. Buyukpatpat et al. | A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/article/10.1007/s10278-025-01778-y)                                                                                                                 | None                                                             |
+| 202511 | S. Chakrabarty et al. | Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](https://arxiv.org/pdf/2511.21926)                                                                                                                                                                                     | None                                                             |
+| 202511 | A. Liu et al.         | MedSAM3: Delving into Segment Anything with Medical Concepts [(paper)](https://arxiv.org/pdf/2511.19046)                                                                                                                                                                                                | [Code](https://github.com/Joey-S-Liu/MedSAM3)                    |
+| 202511 | M. Shokri et al.      | Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://dl.acm.org/doi/abs/10.1145/3746252.3760872)                                                                                                                                                                  | None                                                             |
+| 202511 | X. Yao et al.         | Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://arxiv.org/pdf/2511.05731)                                                                                                                                  | None                                                             |
+| 202510 | L. Guo et al.         | ESAM2-BLS: Enhanced Segment Anything Model 2 for Efficient Breast Lesion Segmentation in Ultrasound Imaging [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001636)                                                                                                          | None                                                             |
+| 202508 | M. Fernandez et al.   | SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/abstract/document/11084376)                                                                                                                                     | [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)   |
+| 202508 | Y. Chen et al.        | SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)                                                                                                                                         | None                                                             |
+| 202508 | Z. Wu et al.          | Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/abstract/document/11107345)                                                                                                            | None                                                             |
+| 202508 | J. He et al.          | Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2 [(paper)](https://ieeexplore.ieee.org/abstract/document/11113315)                                                                                                                                                          | None                                                             |
+| 202507 | C. Wang et al.        | FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)                                                                                                                         | None                                                             |
+| 202507 | G. Xu et al.          | Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2507.14613)                                                                                                                                    | [Code](https://github.com/apple1986/DD-SAM2)                     |
+| 202507 | E. Chukwujindu et al. | Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325)                                                                                   | [Code](https://github.com/RadSam2/rad_sam2)                      |
+| 202507 | B. Podvin et al.      | SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf) | None                                                             |
+| 202506 | X. Yu et al.          | CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://arxiv.org/pdf/2506.23121)                                                                                                                                                          | [Code](https://github.com/YU-deep/CRISP_SAM2.git)                |
+| 202505 | M. Mansoori et al.    | Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://arxiv.org/pdf/2505.19779)                                                                                                                                                           | [Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning) |
+| 202505 | G. Huo et al.         | SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304)                                                                                                                                                  | None                                                             |
+| 202504 | Y. Chen et al.        | Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://arxiv.org/pdf/2505.01854)                                                                                                                                                                                | None                                                             |
+| 202504 | Y. Yamagishi et al.   | Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109)                                            | None                                                             |
+| 202504 | J. Ma et al.          | MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/pdf/2504.03600)                                                                                                                                                                                                   | [Code](https://github.com/bowang-lab/MedSAM2)                    |
+| 202504 | JD. Gutiérrez et al.  | Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227)                                                                                                                             | None                                                             |
+| 202504 | A. Kazemi et al.      | Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)            | None                                                             |
+| 202503 | S. Wei et al.         | Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344)                                                                                                                                                                                   | None                                                             |
+| 202503 | H. Zu et al.          | Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/pdf/2503.04826)                                                                                                                          | None                                                             |
+| 202502 | X. Wang et al.        | Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501)                                                                                                                                                                      | None                                                             |
+| 202502 | B. Xie et al.         | RFMedSAM2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2502.02741)                                                                                                                                                        | None                                                             |
+| 202501 | G. Hoyer et al.       | Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility [(paper)](https://arxiv.org/pdf/2501.13376)                                                                                                                          | None                                                             |
+| 202501 | X. He et al.          | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2501.09138)                                                                                                                                                                     | None                                                             |
+| 202411 | Z. Li et al.          | Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059)                                                                                                                                                    | None                                                             |
+| 202408 | M. Mansoori et al.    | Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://arxiv.org/pdf/2409.09484)                                                                                                                                                                              | [Code](https://github.com/sajjad-sh33/YOLO_SAM2)                 |
+| 202408 | X. Chen et al.        | SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2409.09286)                                                                                                                                                                        | [Code](https://github.com/ShellRedia/SAM-OCTA2)                  |
+| 202408 | L. Zhao et al.        | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://arxiv.org/pdf/2408.08813)                                                                                                                                                                              | None                                                             |
+| 202408 | Z. Yildiz et al.      | SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224)                                                                                                                                                                            | [Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)   |
+| 202408 | Y. He et al.          | A Short Review and Evaluation of SAM2’s Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/pdf/2408.11210)                                                                                                                                                                             | [Code](https://github.com/Project-MONAI/VISTA)                   |
+| 202408 | X. Xiong et al.       | SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2408.08870)                                                                                                                                                               | [Code](https://github.com/WZH0120/SAM2-UNet)                     |
+| 202408 | H. Liu et al.         | Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/pdf/2408.07931)                                                                                                                                                                     | [Code](https://github.com/jinlab-imvr/Surgical-SAM-2)            |
+| 202408 | Y. Yamagishi et al.   | Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/pdf/2408.06170)                                                                                                       | None                                                             |
+| 202408 | M. Mansoori et al.    | Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://arxiv.org/pdf/2408.05892)                                                                                                                                                                          | [Code](https://github.com/sajjad-sh33/Polyp-SAM-2)               |
+| 202408 | AS. Yu et al.         | Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://arxiv.org/pdf/2408.04762)                                                                                                                                                           | None                                                             |
+| 202408 | J. Yu et al.          | SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04593)                                                                                                                                          | None                                                             |
+| 202408 | T. Chen et al.        | SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579)                                                                                                                        | None                                                             |
+| 202408 | S. Sengupta et al.    | Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://arxiv.org/pdf/2408.04212)                                                                                                                                                                                                     | None                                                             |
+| 202408 | Y. Shen et al.        | Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation [(paper)](https://arxiv.org/pdf/2408.04098)                                                                                                                                                   | None                                                             |
+| 202408 | M. Zhang et al.       | SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology [(paper)](https://arxiv.org/pdf/2408.03651)                                                                                                                                                                   | [Code](https://github.com/simzhangbest/SAM2PATH)                 |
+| 202408 | J. Ma et al.          | Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/pdf/2408.03322)                                                                                                                                                                                     | [Code](https://github.com/bowang-lab/MedSAM)                     |
+| 202408 | Z. Yan et al.         | Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/pdf/2408.03286)                                                                                                                                                                                          | [Code](https://github.com/ZhilingYan/Biomedical-SAM-2)           |
+| 202408 | C. Shen et al.        | Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/pdf/2408.02635)                                                                                                                                                                                                        | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)          |
+| 202408 | A. Lou et al.         | Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.01648)                                                                                                                                                                      | [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)        |
+| 202408 | J. Zhu et al.         | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/pdf/2408.00874)                                                                                                                                                                                 | [Code](https://github.com/MedicineToken/Medical-SAM2)            |
+| 202408 | H. Dong et al.        | Segment anything model 2: an application to 2D and 3D medical images [(paper)](https://arxiv.org/pdf/2408.00756)                                                                                                                                                                                        | None                                                             |
 
 
 
@@ -513,3 +498,23 @@ The rapid development of biomedical imaging technologies has led to ever-increas
 The field of medical image segmentation is currently experiencing a paradigm shift, moving from specialized models designed for individual tasks to foundation models capable of managing a multitude of segmentation scenarios. This challenge seeks universal promptable medical image segmentation models that are deployable on laptops or other edge devices without reliance on GPUs.
 
 
+## Article Details
+^articledetails
+
+
+### 1. SAM2-driven dual-teacher framework using hierarchical cross-slice context for semi-supervised 3D medical image segmentation
+^zhai202602
+**Journal / Conference:** Neurocomputing 2026
+**Authors:** Rui Zhai et al. School of Software, Henan University, Kaifeng, 475000, Henan, China
+**Abstract**:
+Semi-supervised learning (SSL) has emerged as an effective paradigm to alleviate the dependency on large-scale annotated data for 3D medical image segmentation. Large-scale foundation models, such as the Segment Anything Model (SAM), exhibit strong generalization on natural images. However, exploiting volumetric context efficiently in 3D data remains difficult, and transferring foundation models directly to medical imaging often yields substantial performance degradation due to the domain gap. In this paper, we propose HCCP-SAM2, a semi-supervised framework that integrates Hierarchical Cross-Slice Context Modeling and Class-Aware Prompting with SAM2 for 3D medical image segmentation. First, we introduce a Hierarchical Hybrid Attention (HHA) mechanism. This hierarchical design efficiently fuses cross-slice context while preserving both fine-grained features and maintaining computational efficiency. Second, we design a Class-aware Promptable Embedding (CPE) module that automatically generates high-quality prompts for the SAM2, significantly enhancing pseudo-label reliability. Third, we propose an Uncertainty-guided Hybrid Distillation (UHD) strategy, which enables the student network to dynamically learn from the SAM2 teacher based on its predictive uncertainty, facilitating efficient and robust knowledge transfer. Extensive experiments on multiple public 3D medical segmentation datasets demonstrate that our proposed model significantly outperforms state-of-the-art semi-supervised methods.
+
+![[Pasted image 20260410152146.png]]
+  
+**Summary:**  
+This paper proposes a SAM2-driven dual-teacher framework for semi-supervised 3D medical image segmentation. The method leverages hierarchical cross-slice contextual information to improve representation consistency across volumetric slices, enhancing segmentation quality under limited annotations.
+
+---
+
+
+  
