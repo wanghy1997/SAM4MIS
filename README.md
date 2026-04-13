@@ -14,14 +14,20 @@ Based on the original project, this repository focuses more on:
 
 ## Table of Contents
 
-- [Introduction: About Segment Anything Model (SAM)](#Introduction)
-- [Literature Reviews of SAM 2/3 Adaptions for Medical Image Segmentation](#sam234mis) ([SAM2/3 4SSLMIS](#sam234sslmis), [SAM2/3 4Zero-ShotMIS](#sam234zsmis))
+- [About Segment Anything Model (SAM)](#Introduction)
+- [Literature Reviews of SAM 2/3 Adaptions for Medical Image Segmentation](#sam234mis)
+  - [SAM2/3 4Zero-ShotMIS](#sam234zsmis)
+  - [SAM2/3 4Few-ShotMIS](#sam234fsmis)
+  - [SAM2/3 4InteractiveMIS](#sam234iwmis)
+  - [SAM2/3 4OtherMIS](#sam234others)
 - [Literature Reviews of Foundation Models / SAM for Medical Image Segmentation](#sam4mis)
+  - [SAM 4SSLMIS](#samsslmis)
+  - [SAM 4Zero-ShotMIS](#samzsmis)
+  - [SAM 4Few-ShotMIS](#samfsmis)
+  - [SAM 4Weakly-SupervisedMIS](#samwsmis)
+  - [SAM 4InteractiveMIS](#samiwmis)
+  - [SAM 4OtherMIS](#samothers)
 - [Article Details](#articledetails)
-<!-- - [Datasets for Development and Validation of Medical Foundation Models](#dataset)
-- [CVPR2025 Workshop: Foundation Models for Interactive 3D Biomedical Image Segmentation](#cvpr25)
-- [CVPR2024 Workshop: Segment Anything in Medical Images on Laptop](#cvpr24) -->
-
 
 ## <div id="Introduction">About Segment Anything Model (SAM)</div>
 
