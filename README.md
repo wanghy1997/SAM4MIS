@@ -40,74 +40,74 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202511 | H. Buyukpatpat et al. | Journal of Imaging Informatics in Medicine 2025 | A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://doi.org/10.1007/s10278-025-01778-y) [(details)](#a-comparative-evaluation-of-zero-shot-performanc-64e730af) | None |
-| 202511 | S. Chakrabarty et al. | arXiv (Cornell University) 2025 | Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](http://arxiv.org/abs/2511.21926) [(details)](#comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129) | None |
-| 202511 | M. Shokri et al. | 2025 | Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://doi.org/10.1145/3746252.3760872) [(details)](#zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2) | None |
-| 202511 | X. Yao et al. | arXiv (Cornell University) 2025 | Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://doi.org/10.48550/arxiv.2511.05731) [(details)](#towards-better-ultrasound-video-segmentation-fou-27091b1b) | None |
-| 202508 | M. Fernandez et al. | 2025 | SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://doi.org/10.1109/icip55913.2025.11084376) [(details)](#sam-2-driven-self-training-for-mammogram-segment-a7b605d7) | [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM) |
-| 202508 | J. He et al. | IEEE Transactions on Biomedical Engineering 2025 | Training-Free Breast Ultrasound Image Segmentation With Retrieval-Based SAM2 [(paper)](https://doi.org/10.1109/tbme.2025.3595981) [(details)](#training-free-breast-ultrasound-image-segmentati-816e6d33) | None |
-| 202504 | Y. Yamagishi et al. | JMIR AI 2025 | Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://doi.org/10.2196/72109) [(details)](#using-segment-anything-model-2-for-zero-shot-3d-406bff6d) | None |
+| 202511 | H. Buyukpatpat et al. | Journal of Imaging Informatics in Medicine 2025 | A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/10.1007/s10278-025-01778-y) [(details)](#a-comparative-evaluation-of-zero-shot-performanc-64e730af) | None |
+| 202511 | S. Chakrabarty et al. | arXiv.org 2025 | Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](https://arxiv.org/abs/2511.21926) [(details)](#comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129) | None |
+| 202511 | M. Shokri et al. | 34th ACM International Conference on Information and Knowledge Management 2025 | Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://dl.acm.org/doi/10.1145/3746252.3760872) [(details)](#zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2) | None |
+| 202511 | X. Yao et al. | arXiv.org 2025 | Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://arxiv.org/abs/2511.05731) [(details)](#towards-better-ultrasound-video-segmentation-fou-27091b1b) | None |
+| 202508 | M. Fernandez et al. | 2025 IEEE International Conference on Image Processing (ICIP) | SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/document/11084376/) [(details)](#sam-2-driven-self-training-for-mammogram-segment-a7b605d7) | [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM) |
+| 202508 | J. He et al. | IEEE Transactions on Biomedical Engineering 2026 | Training-Free Breast Ultrasound Image Segmentation With Retrieval-Based SAM2 [(paper)](https://ieeexplore.ieee.org/document/11113315/) [(details)](#training-free-breast-ultrasound-image-segmentati-816e6d33) | None |
+| 202504 | Y. Yamagishi et al. | JMIR AI 2025 | Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109) [(details)](#using-segment-anything-model-2-for-zero-shot-3d-406bff6d) | None |
 | 202503 | H. Zu et al. | arXiv.org 2025 | Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/abs/2503.04826) [(details)](#rethinking-few-shot-medical-image-segmentation-b-e1f08ac9) | None |
-| 202502 | B. Xie et al. | ArXiv.org 2025 | RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](http://arxiv.org/abs/2502.02741) [(details)](#rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca) | None |
-| 202501 | X. He et al. | ArXiv.org 2025 | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67) | None |
-| 202408 | Y. He et al. | arXiv (Cornell University) 2024 | A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation [(paper)](http://arxiv.org/abs/2408.11210) [(details)](#a-short-review-and-evaluation-of-sam2-s-performa-d5027d82) | [Code](https://github.com/Project-MONAI/VISTA) |
-| 202408 | Y. Yamagishi et al. | arXiv (Cornell University) 2024 | Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](http://arxiv.org/abs/2408.06170) [(details)](#zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501) | None |
-| 202408 | M. Mansoori et al. | arXiv (Cornell University) 2024 | Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](http://arxiv.org/abs/2408.05892) [(details)](#polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c) | [Code](https://github.com/sajjad-sh33/Polyp-SAM-2) |
-| 202408 | AS. Yu et al. | arXiv (Cornell University) 2024 | Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](http://arxiv.org/abs/2408.04762) [(details)](#novel-adaptation-of-video-segmentation-to-3d-mri-24039159) | None |
-| 202408 | J. Yu et al. | Lecture notes in computer science 2026 | SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://doi.org/10.1007/978-3-032-13961-0_18) [(details)](#sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b) | None |
-| 202408 | S. Sengupta et al. | arXiv (Cornell University) 2024 | Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](http://arxiv.org/abs/2408.04212) [(details)](#is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e) | None |
-| 202408 | Y. Shen et al. | arXiv.org 2025 | Performance and nonadversarial robustness of the segment anything model 2 in surgical video segmentation [(paper)](https://doi.org/10.1117/12.3047383) [(details)](#performance-and-nonadversarial-robustness-of-the-cfdbb3ed) | None |
-| 202408 | C. Shen et al. | arXiv (Cornell University) 2024 | Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](http://arxiv.org/abs/2408.02635) [(details)](#interactive-3d-medical-image-segmentation-with-s-bfc855bf) | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D) |
-| 202408 | A. Lou et al. | arXiv (Cornell University) 2024 | Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](http://arxiv.org/abs/2408.01648) [(details)](#zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32) | [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video) |
+| 202502 | B. Xie et al. | arXiv.org 2025 | RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2502.02741) [(details)](#rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca) | None |
+| 202501 | X. He et al. | arXiv.org 2025 | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67) | None |
+| 202408 | Y. He et al. | arXiv.org 2024 | A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/abs/2408.11210) [(details)](#a-short-review-and-evaluation-of-sam2-s-performa-d5027d82) | [Code](https://github.com/Project-MONAI/VISTA) |
+| 202408 | Y. Yamagishi et al. | arXiv.org 2024 | Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/abs/2408.06170) [(details)](#zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501) | None |
+| 202408 | M. Mansoori et al. | 2025 IEEE 5th International Conference on Human-Machine Systems (ICHMS) | Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://ieeexplore.ieee.org/document/11154309/) [(details)](#polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c) | [Code](https://github.com/sajjad-sh33/Polyp-SAM-2) |
+| 202408 | AS. Yu et al. | Medical Imaging 2025: Imaging Informatics | Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13411/3047346/Novel-adaptation-of-video-segmentation-to-3D-MRI--efficient/10.1117/12.3047346.full) [(details)](#novel-adaptation-of-video-segmentation-to-3d-mri-24039159) | None |
+| 202408 | J. Yu et al. | Lecture Notes in Computer Science 2026 | SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-13961-0_18) [(details)](#sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b) | None |
+| 202408 | S. Sengupta et al. | Medical Imaging 2025: Image Processing | Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047370/Is-SAM-2-better-than-SAM-in-medical-image-segmentation/10.1117/12.3047370.full) [(details)](#is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e) | None |
+| 202408 | Y. Shen et al. | Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions, and Modeling | Performance and nonadversarial robustness of the segment anything model 2 in surgical video segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/3047383/Performance-and-nonadversarial-robustness-of-the-segment-anything-model-2/10.1117/12.3047383.full) [(details)](#performance-and-nonadversarial-robustness-of-the-cfdbb3ed) | None |
+| 202408 | C. Shen et al. | arXiv.org 2024 | Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2408.02635) [(details)](#interactive-3d-medical-image-segmentation-with-s-bfc855bf) | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D) |
+| 202408 | A. Lou et al. | Medical Imaging 2025: Image Processing | Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047479/Zero-shot-surgical-tool-segmentation-in-monocular-video-using-Segment/10.1117/12.3047479.full) [(details)](#zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32) | [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video) |
 >Updating continuously ...
 
 ### <div id="sam234fsmis">SAM2/3 4Few-ShotMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202408 | L. Zhao et al. | arXiv (Cornell University) 2024 | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](http://arxiv.org/abs/2408.08813) [(details)](#retrieval-augmented-few-shot-medical-image-segme-ec75cd75) | None |
+| 202408 | L. Zhao et al. | IEEE Transactions on Neural Networks and Learning Systems 2025 | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://ieeexplore.ieee.org/document/11021654/) [(details)](#retrieval-augmented-few-shot-medical-image-segme-ec75cd75) | None |
 >Updating continuously ...
 
 ### <div id="sam234iwmis">SAM2/3 4InteractiveMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202504 | J. Ma et al. | ArXiv.org 2025 | MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](http://arxiv.org/abs/2504.03600) [(details)](#medsam2-segment-anything-in-3d-medical-images-an-9bde8144) | [Code](https://github.com/bowang-lab/MedSAM2) |
+| 202504 | J. Ma et al. | arXiv.org 2025 | MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/abs/2504.03600) [(details)](#medsam2-segment-anything-in-3d-medical-images-an-9bde8144) | [Code](https://github.com/bowang-lab/MedSAM2) |
 | 202502 | X. Wang et al. | 2025 | Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501) [(details)](#proxy-prompt-endowing-sam-sam2with-auto-interact-8f0cff77) | None |
-| 202408 | J. Zhu et al. | arXiv (Cornell University) 2024 | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](http://arxiv.org/abs/2408.00874) [(details)](#medical-sam-2-segment-medical-images-as-video-vi-c5d7ee91) | [Code](https://github.com/MedicineToken/Medical-SAM2) |
-| 202408 | H. Dong et al. | IEEE Transactions on Biomedical Engineering 2026 | Segment Anything Model 2: An Application to 2D and 3D Medical Images [(paper)](https://doi.org/10.1109/tbme.2026.3653267) [(details)](#segment-anything-model-2-an-application-to-2d-an-91bc686c) | None |
+| 202408 | J. Zhu et al. | arXiv.org 2024 | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/abs/2408.00874) [(details)](#medical-sam-2-segment-medical-images-as-video-vi-c5d7ee91) | [Code](https://github.com/MedicineToken/Medical-SAM2) |
+| 202408 | H. Dong et al. | IEEE Transactions on Biomedical Engineering 2026 | Segment Anything Model 2: An Application to 2D and 3D Medical Images [(paper)](https://ieeexplore.ieee.org/document/11347005/) [(details)](#segment-anything-model-2-an-application-to-2d-an-91bc686c) | None |
 >Updating continuously ...
 
 ### <div id="sam234others">SAM2/3 4OtherMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202511 | A. Liu et al. | arXiv (Cornell University) 2025 | MedSAM3: Delving into Segment Anything with Medical Concepts [(paper)](https://doi.org/10.48550/arxiv.2511.19046) [(details)](#medsam3-delving-into-segment-anything-with-medic-54988e2e) | [Code](https://github.com/Joey-S-Liu/MedSAM3) |
-| 202510 | L. Guo et al. | Computerized Medical Imaging and Graphics 2025 | ESAM2-BLS: Enhanced segment anything model 2 for efficient breast lesion segmentation in ultrasound imaging [(paper)](https://doi.org/10.1016/j.compmedimag.2025.102654) [(details)](#esam2-bls-enhanced-segment-anything-model-2-for-ec0d5a28) | None |
-| 202508 | Y. Chen et al. | Computers & Graphics 2025 | SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://doi.org/10.1016/j.cag.2025.104341) [(details)](#sam2med3d-leveraging-video-foundation-models-for-ed8ec478) | None |
-| 202508 | Z. Wu et al. | IEEE Sensors Letters 2025 | Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://doi.org/10.1109/lsens.2025.3595139) [(details)](#vessel-sam2-adapting-segment-anything-2-for-patc-f33b6dd1) | None |
-| 202507 | C. Wang et al. | Lecture notes in computer science 2025 | FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://doi.org/10.1007/978-981-95-0036-9_26) [(details)](#freqsam2-unet-adapter-fine-tuning-frequency-awar-57e962a5) | None |
-| 202507 | G. Xu et al. | ArXiv.org 2025 | Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](http://arxiv.org/abs/2507.14613) [(details)](#depthwise-dilated-convolutional-adapters-for-med-3bd27bdf) | [Code](https://github.com/apple1986/DD-SAM2) |
-| 202507 | E. Chukwujindu et al. | 2025 | Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://www.sciencedirect.com/science/article/pii/S3050577125000325) [(details)](#improving-medical-image-segmentation-with-sam2-a-be4a6927) | [Code](https://github.com/RadSam2/rad_sam2) |
-| 202507 | B. Podvin et al. | Lecture notes in computer science 2025 | SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://hal.science/hal-05475492) [(details)](#samusa-segment-anything-model-2-for-ultrasound-a-4e4c55ae) | None |
-| 202506 | X. Yu et al. | ArXiv.org 2025 | CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](http://arxiv.org/abs/2506.23121) [(details)](#crisp-sam2-sam2-with-cross-modal-interaction-and-aed849b6) | [Code](https://github.com/YU-deep/CRISP_SAM2.git) |
-| 202505 | M. Mansoori et al. | ArXiv.org 2025 | Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](http://arxiv.org/abs/2505.19779) [(details)](#advancements-in-medical-image-classification-thr-7f9403ed) | [Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning) |
+| 202511 | A. Liu et al. | arXiv.org 2025 | MedSAM3: Delving into Segment Anything with Medical Concepts [(paper)](https://arxiv.org/abs/2511.19046) [(details)](#medsam3-delving-into-segment-anything-with-medic-54988e2e) | [Code](https://github.com/Joey-S-Liu/MedSAM3) |
+| 202510 | L. Guo et al. | Computerized Medical Imaging and Graphics 2025 | ESAM2-BLS: Enhanced segment anything model 2 for efficient breast lesion segmentation in ultrasound imaging [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001636) [(details)](#esam2-bls-enhanced-segment-anything-model-2-for-ec0d5a28) | None |
+| 202508 | Y. Chen et al. | Computers &amp; Graphics 2025 | SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0097849325001827) [(details)](#sam2med3d-leveraging-video-foundation-models-for-ed8ec478) | None |
+| 202508 | Z. Wu et al. | IEEE Sensors Letters 2025 | Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images [(paper)](https://ieeexplore.ieee.org/document/11107345/) [(details)](#vessel-sam2-adapting-segment-anything-2-for-patc-f33b6dd1) | None |
+| 202507 | C. Wang et al. | Lecture Notes in Computer Science 2025 | FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation [(paper)](https://link.springer.com/10.1007/978-981-95-0036-9_26) [(details)](#freqsam2-unet-adapter-fine-tuning-frequency-awar-57e962a5) | None |
+| 202507 | G. Xu et al. | Machine Learning: Science and Technology 2025 | Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2 [(paper)](https://iopscience.iop.org/article/10.1088/2632-2153/ae13d1) [(details)](#depthwise-dilated-convolutional-adapters-for-med-3bd27bdf) | [Code](https://github.com/apple1986/DD-SAM2) |
+| 202507 | E. Chukwujindu et al. | European Journal of Radiology Artificial Intelligence 2025 | Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S3050577125000325) [(details)](#improving-medical-image-segmentation-with-sam2-a-be4a6927) | [Code](https://github.com/RadSam2/rad_sam2) |
+| 202507 | B. Podvin et al. | Lecture Notes in Computer Science 2026 | SAMUSA: Segment Anything Model 2 for UltraSound Annotation [(paper)](https://link.springer.com/10.1007/978-3-032-05141-7_49) [(details)](#samusa-segment-anything-model-2-for-ultrasound-a-4e4c55ae) | None |
+| 202506 | X. Yu et al. | 33rd ACM International Conference on Multimedia 2025 | CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation [(paper)](https://dl.acm.org/doi/10.1145/3746027.3755108) [(details)](#crisp-sam2-sam2-with-cross-modal-interaction-and-aed849b6) | [Code](https://github.com/YU-deep/CRISP_SAM2.git) |
+| 202505 | M. Mansoori et al. | 2025 IEEE International Conference on Image Processing (ICIP) | Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models [(paper)](https://ieeexplore.ieee.org/document/11084641/) [(details)](#advancements-in-medical-image-classification-thr-7f9403ed) | [Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning) |
 | 202505 | G. Huo et al. | 2025 | SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation [(paper)](https://arxiv.org/pdf/2505.16304) [(details)](#samba-unet-synergizing-sam2-and-mamba-in-unet-wi-2606ca7d) | None |
-| 202504 | Y. Chen et al. | ArXiv.org 2025 | Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](http://arxiv.org/abs/2505.01854) [(details)](#accelerating-volumetric-medical-image-annotation-c4ec9531) | None |
-| 202504 | JD. Gutiérrez et al. | SSRN Electronic Journal 2024 | Prompt Once, Segment Everything: Leveraging Sam 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](http://doi.org/10.2139/ssrn.4947208) [(details)](#prompt-once-segment-everything-leveraging-sam-2-fc574ae1) | None |
-| 202504 | A. Kazemi et al. | 2025 | Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://doi.org/10.1117/12.3051724) [(details)](#semi-automated-segmentation-of-magnitude-images-cac696be) | None |
-| 202503 | S. Wei et al. | 2025 | Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://doi.org/10.1109/icassp49660.2025.10889344) [(details)](#self-prompting-driven-sam2-for-3d-medical-image-cd20683a) | None |
+| 202504 | Y. Chen et al. | IEEE Transactions on Medical Imaging 2026 | Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2 [(paper)](https://ieeexplore.ieee.org/document/11224387/) [(details)](#accelerating-volumetric-medical-image-annotation-c4ec9531) | None |
+| 202504 | JD. Gutiérrez et al. | Algorithms 2025 | Prompt Once, Segment Everything: Leveraging Sam 2 Potential for Infinite Medical Image Segmentation with a Single Prompt [(paper)](https://www.mdpi.com/1999-4893/18/4/227) [(details)](#prompt-once-segment-everything-leveraging-sam-2-fc574ae1) | None |
+| 202504 | A. Kazemi et al. | Medical Imaging 2025: Clinical and Biomedical Imaging | Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/3051724/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.full) [(details)](#semi-automated-segmentation-of-magnitude-images-cac696be) | None |
+| 202503 | S. Wei et al. | ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | Self-Prompting Driven SAM2 for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10889344/) [(details)](#self-prompting-driven-sam2-for-3d-medical-image-cd20683a) | None |
 | 202501 | G. Hoyer et al. | 2025 | Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility [(paper)](https://arxiv.org/pdf/2501.13376) [(details)](#scalable-evaluation-framework-for-foundation-mod-39a30423) | None |
-| 202411 | Z. Li et al. | Entropy 2024 | Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://doi.org/10.3390/e26121059) [(details)](#adapting-sam2-model-from-natural-images-for-toot-dd60d7fc) | None |
-| 202408 | M. Mansoori et al. | arXiv (Cornell University) 2024 | Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](http://arxiv.org/abs/2409.09484) [(details)](#self-prompting-polyp-segmentation-in-colonoscopy-15431981) | [Code](https://github.com/sajjad-sh33/YOLO_SAM2) |
-| 202408 | X. Chen et al. | arXiv (Cornell University) 2024 | SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](http://arxiv.org/abs/2409.09286) [(details)](#sam-octa2-layer-sequence-octa-segmentation-with-8df9f75d) | [Code](https://github.com/ShellRedia/SAM-OCTA2) |
+| 202411 | Z. Li et al. | Entropy 2024 | Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images [(paper)](https://www.mdpi.com/1099-4300/26/12/1059) [(details)](#adapting-sam2-model-from-natural-images-for-toot-dd60d7fc) | None |
+| 202408 | M. Mansoori et al. | ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model [(paper)](https://ieeexplore.ieee.org/document/10887638/) [(details)](#self-prompting-polyp-segmentation-in-colonoscopy-15431981) | [Code](https://github.com/sajjad-sh33/YOLO_SAM2) |
+| 202408 | X. Chen et al. | ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2 [(paper)](https://ieeexplore.ieee.org/document/10888853/) [(details)](#sam-octa2-layer-sequence-octa-segmentation-with-8df9f75d) | [Code](https://github.com/ShellRedia/SAM-OCTA2) |
 | 202408 | Z. Yildiz et al. | 2024 | SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images [(paper)](https://arxiv.org/pdf/2408.15224) [(details)](#sam-sam-2-in-3d-slicer-segmentwithsam-extension-80154364) | [Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM) |
-| 202408 | X. Xiong et al. | Visual Intelligence 2026 | SAM2-UNet: segment anything 2 makes strong encoder for natural and medical image segmentation [(paper)](https://doi.org/10.1007/s44267-025-00106-w) [(details)](#sam2-unet-segment-anything-2-makes-strong-encode-8acf7e84) | [Code](https://github.com/WZH0120/SAM2-UNet) |
-| 202408 | H. Liu et al. | arXiv (Cornell University) 2024 | Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](http://arxiv.org/abs/2408.07931) [(details)](#surgical-sam-2-real-time-segment-anything-in-sur-c37ec715) | [Code](https://github.com/jinlab-imvr/Surgical-SAM-2) |
+| 202408 | X. Xiong et al. | Visual Intelligence 2026 | SAM2-UNet: segment anything 2 makes strong encoder for natural and medical image segmentation [(paper)](https://link.springer.com/10.1007/s44267-025-00106-w) [(details)](#sam2-unet-segment-anything-2-makes-strong-encode-8acf7e84) | [Code](https://github.com/WZH0120/SAM2-UNet) |
+| 202408 | H. Liu et al. | arXiv.org 2024 | Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning [(paper)](https://arxiv.org/abs/2408.07931) [(details)](#surgical-sam-2-real-time-segment-anything-in-sur-c37ec715) | [Code](https://github.com/jinlab-imvr/Surgical-SAM-2) |
 | 202408 | T. Chen et al. | 2024 | SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/pdf/2408.04579) [(details)](#sam2-adapter-evaluating-adapting-segment-anythin-098b6d29) | None |
 | 202408 | M. Zhang et al. | 2024 | SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology [(paper)](https://arxiv.org/pdf/2408.03651) [(details)](#sam2-path-a-better-segment-anything-model-for-se-5cf08e5c) | [Code](https://github.com/simzhangbest/SAM2PATH) |
-| 202408 | J. Ma et al. | arXiv (Cornell University) 2024 | Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](http://arxiv.org/abs/2408.03322) [(details)](#segment-anything-in-medical-images-and-videos-be-c913c54f) | [Code](https://github.com/bowang-lab/MedSAM) |
-| 202408 | Z. Yan et al. | arXiv (Cornell University) 2024 | Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](http://arxiv.org/abs/2408.03286) [(details)](#biomedical-sam-2-segment-anything-in-biomedical-5fda9d03) | [Code](https://github.com/ZhilingYan/Biomedical-SAM-2) |
+| 202408 | J. Ma et al. | arXiv.org 2024 | Segment Anything in Medical Images and Videos: Benchmark and Deployment [(paper)](https://arxiv.org/abs/2408.03322) [(details)](#segment-anything-in-medical-images-and-videos-be-c913c54f) | [Code](https://github.com/bowang-lab/MedSAM) |
+| 202408 | Z. Yan et al. | arXiv.org 2024 | Biomedical SAM 2: Segment Anything in Biomedical Images and Videos [(paper)](https://arxiv.org/abs/2408.03286) [(details)](#biomedical-sam-2-segment-anything-in-biomedical-5fda9d03) | [Code](https://github.com/ZhilingYan/Biomedical-SAM-2) |
 >Updating continuously ...
 
 ## <div id="sam4mis">Literature Reviews of Foundation Models / SAM for Medical Image Segmentation.</div>
@@ -116,156 +116,156 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202602 | J. Miao et al. | Medical Image Analysis 2026 | SAM-driven cross prompting with adaptive sampling consistency for semi-supervised medical image segmentation [(paper)](https://doi.org/10.1016/j.media.2026.103973) [(details)](#sam-driven-cross-prompting-with-adaptive-samplin-8a7e38d3) | [Code](https://github.com/JuzhengMiao/CPAC-SAM) |
-| 202601 | J. Li et al. | Pattern Recognition 2026 | Semi-MedSAM: Adapting SAM-assisted semi-supervised multi-modality learning for medical endoscopic image segmentation [(paper)](https://doi.org/10.1016/j.patcog.2026.113206) [(details)](#semi-medsam-adapting-sam-assisted-semi-supervise-8d5eb04c) | None |
-| 202601 | J. Zhu et al. | Computerized Medical Imaging and Graphics 2026 | AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation [(paper)](https://doi.org/10.1016/j.compmedimag.2026.102708) [(details)](#autopromptseg-automated-decoupling-of-uncertaint-6671dd23) | None |
-| 202510 | H. Chi et al. | IEEE Transactions on Circuits and Systems for Video Technology 2025 | Cross-Hierarchical Decoding With SAM for Semi-Supervised Medical Image Segmentation [(paper)](https://doi.org/10.1109/tcsvt.2025.3625276) [(details)](#cross-hierarchical-decoding-with-sam-for-semi-su-41bb2918) | None |
-| 202509 | C. Qin et al. | IEEE Journal of Biomedical and Health Informatics 2025 | DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D [(paper)](https://doi.org/10.1109/jbhi.2025.3594897) [(details)](#dur-net-semi-supervised-abdominal-ct-pheochromoc-678a0928) | None |
-| 202507 | A. Wang et al. | Computerized Medical Imaging and Graphics 2025 | PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation [(paper)](https://doi.org/10.1016/j.compmedimag.2025.102591) [(details)](#pedsemiseg-pedagogy-inspired-semi-supervised-pol-504fc8d8) | None |
-| 202506 | Q. Liang et al. | Expert Systems with Applications 2025 | STAR: Empowering semi-supervised medical image segmentation with SAM-based teacher-student architecture and contrastive consistency regularization [(paper)](https://doi.org/10.1016/j.eswa.2025.128650) [(details)](#star-empowering-semi-supervised-medical-image-se-2edd8963) | None |
-| 202505 | N. Saito et al. | arXiv.org 2025 | Zero-Shot Pseudo Labels Generation Using Sam and Clip for Semi-Supervised Semantic Segmentation [(paper)](https://doi.org/10.1109/icip55913.2025.11084652) [(details)](#zero-shot-pseudo-labels-generation-using-sam-and-3d49e5f3) | None |
-| 202505 | Q. Pan et al. | IEEE Transactions on Medical Imaging 2025 | AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation [(paper)](https://doi.org/10.1109/tmi.2025.3573018) [(details)](#amvlm-alignment-multiplicity-aware-vision-langua-93ce7956) | [Code](https://github.com/QingtaoPan/AMVLM) |
+| 202602 | J. Miao et al. | Medical Image Analysis 2026 | SAM-driven cross prompting with adaptive sampling consistency for semi-supervised medical image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841526000423) [(details)](#sam-driven-cross-prompting-with-adaptive-samplin-8a7e38d3) | [Code](https://github.com/JuzhengMiao/CPAC-SAM) |
+| 202601 | J. Li et al. | Pattern Recognition 2026 | Semi-MedSAM: Adapting SAM-assisted semi-supervised multi-modality learning for medical endoscopic image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0031320326001718) [(details)](#semi-medsam-adapting-sam-assisted-semi-supervise-8d5eb04c) | None |
+| 202601 | J. Zhu et al. | Computerized Medical Imaging and Graphics 2026 | AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S089561112600011X) [(details)](#autopromptseg-automated-decoupling-of-uncertaint-6671dd23) | None |
+| 202510 | H. Chi et al. | IEEE Transactions on Circuits and Systems for Video Technology 2026 | Cross-Hierarchical Decoding With SAM for Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11217143/) [(details)](#cross-hierarchical-decoding-with-sam-for-semi-su-41bb2918) | None |
+| 202509 | C. Qin et al. | IEEE Journal of Biomedical and Health Informatics 2026 | DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D [(paper)](https://ieeexplore.ieee.org/document/11162509/) [(details)](#dur-net-semi-supervised-abdominal-ct-pheochromoc-678a0928) | None |
+| 202507 | A. Wang et al. | Computerized Medical Imaging and Graphics 2025 | PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001004) [(details)](#pedsemiseg-pedagogy-inspired-semi-supervised-pol-504fc8d8) | None |
+| 202506 | Q. Liang et al. | Expert Systems with Applications 2025 | STAR: Empowering semi-supervised medical image segmentation with SAM-based teacher-student architecture and contrastive consistency regularization [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0957417425022699) [(details)](#star-empowering-semi-supervised-medical-image-se-2edd8963) | None |
+| 202505 | N. Saito et al. | 2025 IEEE International Conference on Image Processing (ICIP) | Zero-Shot Pseudo Labels Generation Using Sam and Clip for Semi-Supervised Semantic Segmentation [(paper)](https://ieeexplore.ieee.org/document/11084652/) [(details)](#zero-shot-pseudo-labels-generation-using-sam-and-3d49e5f3) | None |
+| 202505 | Q. Pan et al. | IEEE Transactions on Medical Imaging 2025 | AMVLM: Alignment-Multiplicity Aware Vision-Language Model for Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11014494/) [(details)](#amvlm-alignment-multiplicity-aware-vision-langua-93ce7956) | [Code](https://github.com/QingtaoPan/AMVLM) |
 | 202505 | T. Ward et al. | arXiv.org 2024 | Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://arxiv.org/abs/2412.08575) [(details)](#annotation-efficient-task-guidance-for-medical-s-4fb4f47d) | [Code](https://github.com/tbwa233/SAM-Mix) |
-| 202504 | Y. Wang et al. | Medical Engineering & Physics 2025 | SAMBV: A fine-tuned SAM with interpolation consistency regularization for semi-supervised bi-ventricle segmentation from cardiac MRI [(paper)](https://doi.org/10.1016/j.medengphy.2025.104341) [(details)](#sambv-a-fine-tuned-sam-with-interpolation-consis-40e84296) | None |
-| 202504 | J. Wei et al. | arXiv.org 2025 | Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation [(paper)](https://arxiv.org/abs/2504.09601) [(details)](#mixture-of-shape-experts-mose-end-to-end-shape-d-cf02bf93) | None |
-| 202504 | Y. Wang et al. | ArXiv.org 2025 | Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists [(paper)](http://arxiv.org/abs/2504.00862) [(details)](#balancing-multi-target-semi-supervised-medical-i-a157dd57) | [Code](https://github.com/wangyou0804/CGS) |
-| 202503 | Q. Ma et al. | ArXiv.org 2025 | Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation [(paper)](http://arxiv.org/abs/2503.16997) [(details)](#steady-progress-beats-stagnation-mutual-aid-of-f-3db652cb) | [Code](https://github.com/MQinghe/SynFoC) |
-| 202503 | B. Cui et al. | ArXiv.org 2025 | Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras [(paper)](http://arxiv.org/abs/2503.15917) [(details)](#learning-to-efficiently-adapt-foundation-models-72774640) | None |
-| 202502 | Y. Zhang et al. | ArXiv.org 2025 | SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models [(paper)](http://arxiv.org/abs/2502.20749) [(details)](#semisam-rethinking-semi-supervised-medical-image-d74217a0) | [Code](https://github.com/YichiZhang98/SemiSAM) |
-| 202412 | Y. Zhang et al. | arXiv.org 2024 | SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization [(paper)](https://arxiv.org/abs/2312.06316) [(details)](#semisam-enhancing-semi-supervised-medical-image-7f39521f) | [Code](https://github.com/YichiZhang98/SemiSAM) |
+| 202504 | Y. Wang et al. | Medical Engineering &amp; Physics 2025 | SAMBV: A fine-tuned SAM with interpolation consistency regularization for semi-supervised bi-ventricle segmentation from cardiac MRI [(paper)](https://iopscience.iop.org/article/10.1016/j.medengphy.2025.104341) [(details)](#sambv-a-fine-tuned-sam-with-interpolation-consis-40e84296) | None |
+| 202504 | J. Wei et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation [(paper)](https://ieeexplore.ieee.org/document/11147816/) [(details)](#mixture-of-shape-experts-mose-end-to-end-shape-d-cf02bf93) | None |
+| 202504 | Y. Wang et al. | IEEE Transactions on Medical Imaging 2025 | Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists [(paper)](https://ieeexplore.ieee.org/document/10948494/) [(details)](#balancing-multi-target-semi-supervised-medical-i-a157dd57) | [Code](https://github.com/wangyou0804/CGS) |
+| 202503 | Q. Ma et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11094453/) [(details)](#steady-progress-beats-stagnation-mutual-aid-of-f-3db652cb) | [Code](https://github.com/MQinghe/SynFoC) |
+| 202503 | B. Cui et al. | arXiv.org 2025 | Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras [(paper)](https://arxiv.org/abs/2503.15917) [(details)](#learning-to-efficiently-adapt-foundation-models-72774640) | None |
+| 202502 | Y. Zhang et al. | Medical Image Analysis 2025 | SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525002804) [(details)](#semisam-rethinking-semi-supervised-medical-image-d74217a0) | [Code](https://github.com/YichiZhang98/SemiSAM) |
+| 202412 | Y. Zhang et al. | arXiv.org 2023 | SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization [(paper)](https://arxiv.org/abs/2312.06316) [(details)](#semisam-enhancing-semi-supervised-medical-image-7f39521f) | [Code](https://github.com/YichiZhang98/SemiSAM) |
 | 202412 | T. Ward et al. | arXiv.org 2024 | Annotation-Efficient Task Guidance for Medical Segment Anything [(paper)](https://arxiv.org/abs/2412.08575) [(details)](#annotation-efficient-task-guidance-for-medical-s-4fb4f47d) | [Code](https://github.com/tbwa233/SAM-Mix) |
-| 202411 | B. Wittmann et al. | arXiv (Cornell University) 2024 | vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [(paper)](http://arxiv.org/abs/2411.17386) [(details)](#vesselfm-a-foundation-model-for-universal-3d-blo-212b1244) | [Code](https://github.com/bwittmann/vesselFM) |
-| 202411 | G. Xu et al. | arXiv (Cornell University) 2024 | A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging [(paper)](http://arxiv.org/abs/2411.16949) [(details)](#a-sam-guided-and-match-based-semi-supervised-seg-e5ff8a3a) | [Code](https://github.com/apple1986/SAMatch) |
-| 202411 | R. Keuth et al. | arXiv (Cornell University) 2024 | SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation [(paper)](http://arxiv.org/abs/2411.12602) [(details)](#sam-carries-the-burden-a-semi-supervised-approac-6ab7c53e) | [Code](https://github.com/multimodallearning/SamCarriesTheBurden) |
-| 202410 | Z. Xu et al. | Lecture notes in computer science 2024 | FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-3-031-72111-3_28) [(details)](#fm-abs-promptable-foundation-model-drives-active-edabc19b) | None |
-| 202409 | G. Huang et al. | arXiv (Cornell University) 2024 | MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation [(paper)](http://arxiv.org/abs/2409.13371) [(details)](#mcicsam-monte-carlo-guided-interpolation-consist-cb70abf3) | None |
-| 202407 | J. Miao et al. | arXiv (Cornell University) 2024 | Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation [(paper)](http://arxiv.org/abs/2407.05416) [(details)](#cross-prompting-consistency-with-segment-anythin-224fb66c) | [Code](https://github.com/JuzhengMiao/CPC-SAM) |
-| 202407 | G. Wang et al. | arXiv (Cornell University) 2024 | SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2407.04938) [(details)](#sam-med3d-moe-towards-a-non-forgetting-segment-a-cfefd28d) | None |
-| 202403 | Z. Cheng et al. | arXiv (Cornell University) 2024 | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding [(paper)](http://arxiv.org/abs/2403.18271) [(details)](#unleashing-the-potential-of-sam-for-medical-adap-c484b446) | [Code](https://github.com/Cccccczh404/H-SAM) |
+| 202411 | B. Wittmann et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [(paper)](https://ieeexplore.ieee.org/document/11092528/) [(details)](#vesselfm-a-foundation-model-for-universal-3d-blo-212b1244) | [Code](https://github.com/bwittmann/vesselFM) |
+| 202411 | G. Xu et al. | Medical Physics 2025 | A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging [(paper)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17785) [(details)](#a-sam-guided-and-match-based-semi-supervised-seg-e5ff8a3a) | [Code](https://github.com/apple1986/SAMatch) |
+| 202411 | R. Keuth et al. | arXiv.org 2024 | SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation [(paper)](https://arxiv.org/abs/2411.12602) [(details)](#sam-carries-the-burden-a-semi-supervised-approac-6ab7c53e) | [Code](https://github.com/multimodallearning/SamCarriesTheBurden) |
+| 202410 | Z. Xu et al. | Lecture Notes in Computer Science 2024 | FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_28) [(details)](#fm-abs-promptable-foundation-model-drives-active-edabc19b) | None |
+| 202409 | G. Huang et al. | arXiv.org 2024 | MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation [(paper)](https://arxiv.org/abs/2409.13371) [(details)](#mcicsam-monte-carlo-guided-interpolation-consist-cb70abf3) | None |
+| 202407 | J. Miao et al. | Lecture Notes in Computer Science 2024 | Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72120-5_16) [(details)](#cross-prompting-consistency-with-segment-anythin-224fb66c) | [Code](https://github.com/JuzhengMiao/CPC-SAM) |
+| 202407 | G. Wang et al. | Lecture Notes in Computer Science 2024 | SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72114-4_53) [(details)](#sam-med3d-moe-towards-a-non-forgetting-segment-a-cfefd28d) | None |
+| 202403 | Z. Cheng et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding [(paper)](https://ieeexplore.ieee.org/document/10656144/) [(details)](#unleashing-the-potential-of-sam-for-medical-adap-c484b446) | [Code](https://github.com/Cccccczh404/H-SAM) |
 | 202403 | S. Li et al. | 2024 | Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2403.11229.pdf) [(details)](#concatenate-fine-tuning-re-training-a-sam-enable-2ff23cb9) | [Code](https://github.com/ShumengLI/CFR) |
-| 202402 | Z. Chen et al. | arXiv (Cornell University) 2024 | UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images [(paper)](http://arxiv.org/abs/2402.16663) [(details)](#un-sam-universal-prompt-free-segmentation-for-ge-7f1cd137) | [Code](https://github.com/CUHK-AIM-Group/UN-SAM) |
-| 202312 | S. Chen et al. | arXiv (Cornell University) 2023 | ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation [(paper)](http://arxiv.org/abs/2312.07969) [(details)](#aslseg-adapting-sam-in-the-loop-for-semi-supervi-77350955) | None |
+| 202402 | Z. Chen et al. | arXiv.org 2024 | UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images [(paper)](https://arxiv.org/abs/2402.16663) [(details)](#un-sam-universal-prompt-free-segmentation-for-ge-7f1cd137) | [Code](https://github.com/CUHK-AIM-Group/UN-SAM) |
+| 202312 | S. Chen et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation [(paper)](https://ieeexplore.ieee.org/document/10635501/) [(details)](#aslseg-adapting-sam-in-the-loop-for-semi-supervi-77350955) | None |
 | 202312 | Y. Zhang et al. | 2023 | SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations [(paper)](https://arxiv.org/pdf/2312.06316.pdf) [(details)](#semisam-exploring-sam-for-enhancing-semi-supervi-2e628ec4) | None |
-| 202311 | N. Li et al. | SSRN Electronic Journal 2023 | Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://doi.org/10.2139/ssrn.4477443) [(details)](#segment-anything-model-for-semi-supervised-medic-8dc67b2d) | None |
-| 202311 | DL. Ferreira and R. Arnaout | arXiv (Cornell University) 2023 | Are foundation models efficient for medical image segmentation? [(paper)](http://arxiv.org/abs/2311.04847) [(details)](#are-foundation-models-efficient-for-medical-imag-e81ab192) | [Code](https://github.com/ArnaoutLabUCSF/CardioML) |
-| 202308 | Y. Zhang et al. | arXiv (Cornell University) 2023 | SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation [(paper)](http://arxiv.org/abs/2308.13759) [(details)](#samdsk-combining-segment-anything-model-with-dom-239cb98b) | None |
+| 202311 | N. Li et al. | SSRN Electronic Journal 2023 | Segment Anything Model for Semi-Supervised Medical Image Segmentation via Selecting Reliable Pseudo-Labels [(paper)](https://www.ssrn.com/abstract=4477443) [(details)](#segment-anything-model-for-semi-supervised-medic-8dc67b2d) | None |
+| 202311 | DL. Ferreira and R. Arnaout | Informatik aktuell 2026 | Are foundation models efficient for medical image segmentation? [(paper)](https://link.springer.com/10.1007/978-3-658-51100-5_8) [(details)](#are-foundation-models-efficient-for-medical-imag-e81ab192) | [Code](https://github.com/ArnaoutLabUCSF/CardioML) |
+| 202308 | Y. Zhang et al. | Lecture Notes in Computer Science 2025 | SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-981-97-8496-7_24) [(details)](#samdsk-combining-segment-anything-model-with-dom-239cb98b) | None |
 >Updating continuously ...
 
 ### <div id="samzsmis">SAM 4Zero-ShotMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202512 | M. Marks et al. | Nature Methods 2025 | CellSAM: a foundation model for cell segmentation [(paper)](https://doi.org/10.1038/s41592-025-02879-w) [(details)](#cellsam-a-foundation-model-for-cell-segmentation-4cb639e7) | [Code](https://cellsam.deepcell.org) |
-| 202511 | M. Rokuss et al. | ArXiv.org 2025 | VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2511.11450) [(details)](#voxtell-free-text-promptable-universal-3d-medica-ab791e43) | [Code](www.github.com/MIC-DKFZ/VoxTell) |
-| 202511 | C. Xu et al. | ArXiv.org 2025 | Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation [(paper)](http://arxiv.org/abs/2512.04520) [(details)](#boundary-aware-test-time-adaptation-for-zero-sho-09c44473) | [Code](https://github.com/Emilychenlin/BA-TTA-SAM) |
-| 202511 | Y. Zhang et al. | ArXiv.org 2025 | Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning [(paper)](http://arxiv.org/abs/2511.17201) [(details)](#continual-alignment-for-sam-rethinking-foundatio-af6091bd) | [Code](https://github.com/azzzzyo/Continual-Alignment-for-SAM) |
-| 202508 | S. Zhang et al. | Nature Biomedical Engineering 2025 | A generalist foundation model and database for open-world medical image segmentation [(paper)](https://doi.org/10.1038/s41551-025-01497-3) [(details)](#a-generalist-foundation-model-and-database-for-o-73320fd5) | [Code](https://github.com/MedSegX/MedSegX-code) |
-| 202508 | AA. Shami et al. | Lecture notes in networks and systems 2025 | Persistent Homology and Segment Anything Model for Automated Zero-Shot Localized Medical X-ray Images Segmentation (PH-SAM) [(paper)](https://doi.org/10.1007/978-3-031-99965-9_37) [(details)](#persistent-homology-and-segment-anything-model-f-b2cfe487) | None |
-| 202508 | B. Huang et al. | Lecture notes in computer science 2025 | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation [(paper)](https://doi.org/10.1007/978-3-032-05185-1_13) [(details)](#e-bayessam-efficient-bayesian-adaptation-of-sam-a45bc870) | [Code](https://github.com/mp31192/E-BayesSAM) |
-| 202508 | Y. Yang et al. | Proceedings of the AAAI Conference on Artificial Intelligence 2026 | MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation [(paper)](https://doi.org/10.1609/aaai.v40i14.38161) [(details)](#medsamix-a-training-free-model-merging-approach-e015befc) | None |
-| 202508 | A. Roddan et al. | ArXiv.org 2025 | SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation [(paper)](http://arxiv.org/abs/2508.00493) [(details)](#samsa-2-0-prompting-segment-anything-with-spectr-f1621e27) | None |
-| 202507 | H. Wang et al. | IEEE Transactions on Neural Networks and Learning Systems 2025 | SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images [(paper)](https://doi.org/10.1109/tnnls.2025.3586694) [(details)](#sam-med3d-a-vision-foundation-model-for-general-9ee815cb) | [Code](https://github.com/uni-medical/SAM-Med3D) |
-| 202506 | W. Shi et al. | Biomedical Signal Processing and Control 2025 | SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation [(paper)](https://doi.org/10.1016/j.bspc.2025.108086) [(details)](#sit-sam-a-semantic-integration-transformer-that-c9044162) | [Code](https://github.com/wentao0429/SIT-SAM) |
-| 202506 | Y. He et al. | arXiv (Cornell University) 2024 | VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging [(paper)](http://arxiv.org/abs/2406.05285) [(details)](#vista3d-a-unified-segmentation-foundation-model-2fb7a04b) | [Code](https://github.com/Project-MONAI/VISTA) |
-| 202505 | S. Sengupta et al. | 2025 | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data [(paper)](https://doi.org/10.1109/isbi60581.2025.10980740) [(details)](#synthfm-training-modality-agnostic-foundation-mo-2804d9de) | None |
-| 202505 | M. Nouman et al. | 2025 | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam [(paper)](https://doi.org/10.1109/isbi60581.2025.10980865) [(details)](#evaluating-segmentation-accuracy-with-diverse-pr-cc39ecae) | None |
-| 202505 | Y. Jiang et al. | ArXiv.org 2025 | Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [(paper)](http://arxiv.org/abs/2505.02753) [(details)](#advancing-generalizable-tumor-segmentation-with-43d99d2b) | [Code](https://github.com/Yankai96/DiffuGTS) |
-| 202503 | S. Chattopadhyay et al. | ArXiv.org 2025 | Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study [(paper)](http://arxiv.org/abs/2503.22862) [(details)](#zero-shot-domain-generalization-of-foundational-9ee989a0) | None |
+| 202512 | M. Marks et al. | Nature Methods 2025 | CellSAM: a foundation model for cell segmentation [(paper)](https://www.nature.com/articles/s41592-025-02879-w) [(details)](#cellsam-a-foundation-model-for-cell-segmentation-4cb639e7) | [Code](https://cellsam.deepcell.org) |
+| 202511 | M. Rokuss et al. | arXiv.org 2025 | VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2511.11450) [(details)](#voxtell-free-text-promptable-universal-3d-medica-ab791e43) | [Code](www.github.com/MIC-DKFZ/VoxTell) |
+| 202511 | C. Xu et al. | arXiv.org 2025 | Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation [(paper)](https://arxiv.org/abs/2512.04520) [(details)](#boundary-aware-test-time-adaptation-for-zero-sho-09c44473) | [Code](https://github.com/Emilychenlin/BA-TTA-SAM) |
+| 202511 | Y. Zhang et al. | arXiv.org 2025 | Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning [(paper)](https://arxiv.org/abs/2511.17201) [(details)](#continual-alignment-for-sam-rethinking-foundatio-af6091bd) | [Code](https://github.com/azzzzyo/Continual-Alignment-for-SAM) |
+| 202508 | S. Zhang et al. | Nature Biomedical Engineering 2025 | A generalist foundation model and database for open-world medical image segmentation [(paper)](https://www.nature.com/articles/s41551-025-01497-3) [(details)](#a-generalist-foundation-model-and-database-for-o-73320fd5) | [Code](https://github.com/MedSegX/MedSegX-code) |
+| 202508 | AA. Shami et al. | Lecture Notes in Networks and Systems 2025 | Persistent Homology and Segment Anything Model for Automated Zero-Shot Localized Medical X-ray Images Segmentation (PH-SAM) [(paper)](https://link.springer.com/10.1007/978-3-031-99965-9_37) [(details)](#persistent-homology-and-segment-anything-model-f-b2cfe487) | None |
+| 202508 | B. Huang et al. | Lecture Notes in Computer Science 2026 | E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-05185-1_13) [(details)](#e-bayessam-efficient-bayesian-adaptation-of-sam-a45bc870) | [Code](https://github.com/mp31192/E-BayesSAM) |
+| 202508 | Y. Yang et al. | AAAI Conference on Artificial Intelligence 2026 | MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation [(paper)](https://ojs.aaai.org/index.php/AAAI/article/view/38161) [(details)](#medsamix-a-training-free-model-merging-approach-e015befc) | None |
+| 202508 | A. Roddan et al. | Lecture Notes in Computer Science 2026 | SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-05114-1_46) [(details)](#samsa-2-0-prompting-segment-anything-with-spectr-f1621e27) | None |
+| 202507 | H. Wang et al. | IEEE Transactions on Neural Networks and Learning Systems 2025 | SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images [(paper)](https://ieeexplore.ieee.org/document/11105528/) [(details)](#sam-med3d-a-vision-foundation-model-for-general-9ee815cb) | [Code](https://github.com/uni-medical/SAM-Med3D) |
+| 202506 | W. Shi et al. | Biomedical Signal Processing and Control 2025 | SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S174680942500597X) [(details)](#sit-sam-a-semantic-integration-transformer-that-c9044162) | [Code](https://github.com/wentao0429/SIT-SAM) |
+| 202506 | Y. He et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging [(paper)](https://ieeexplore.ieee.org/document/11094751/) [(details)](#vista3d-a-unified-segmentation-foundation-model-2fb7a04b) | [Code](https://github.com/Project-MONAI/VISTA) |
+| 202505 | S. Sengupta et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data [(paper)](https://ieeexplore.ieee.org/document/10980740/) [(details)](#synthfm-training-modality-agnostic-foundation-mo-2804d9de) | None |
+| 202505 | M. Nouman et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam [(paper)](https://ieeexplore.ieee.org/document/10980865/) [(details)](#evaluating-segmentation-accuracy-with-diverse-pr-cc39ecae) | None |
+| 202505 | Y. Jiang et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models [(paper)](https://ieeexplore.ieee.org/document/11094149/) [(details)](#advancing-generalizable-tumor-segmentation-with-43d99d2b) | [Code](https://github.com/Yankai96/DiffuGTS) |
+| 202503 | S. Chattopadhyay et al. | arXiv.org 2025 | Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study [(paper)](https://arxiv.org/abs/2503.22862) [(details)](#zero-shot-domain-generalization-of-foundational-9ee989a0) | None |
 | 202503 | S. Xu et al. | arXiv.org 2025 | BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts [(paper)](https://arxiv.org/abs/2503.19769) [(details)](#biprompt-sam-enhancing-image-segmentation-via-ex-5ea94fa7) | None |
-| 202503 | B. Li et al. | Communications in computer and information science 2025 | Optimization of MedSAM Model Based on Bounding Box Adaptive Perturbation Algorithm [(paper)](https://doi.org/10.1007/978-981-96-9952-0_2) [(details)](#optimization-of-medsam-model-based-on-bounding-b-84601017) | None |
-| 202503 | X. Liu et al. | Medical Image Analysis 2025 | Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation [(paper)](https://doi.org/10.1016/j.media.2025.103550) [(details)](#segment-any-tissue-one-shot-reference-guided-tra-b2379d58) | [Code](https://github.com/SnowRain510/Segment-Any-Tissue) |
-| 202502 | B. Xie et al. | ArXiv.org 2025 | Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](http://arxiv.org/abs/2502.00630) [(details)](#self-prompt-sam-medical-image-segmentation-via-a-5111f86e) | None |
-| 202502 | B. Xie et al. | ArXiv.org 2025 | Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](http://arxiv.org/abs/2502.00630) [(details)](#self-prompt-sam-medical-image-segmentation-via-a-5111f86e) | None |
-| 202501 | X. He et al. | ArXiv.org 2025 | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67) | None |
-| 202501 | D. Tan et al. | IEEE Access 2025 | Tongue-LiteSAM: A Lightweight Model for Tongue Image Segmentation With Zero-Shot [(paper)](https://doi.org/10.1109/access.2025.3528658) [(details)](#tongue-litesam-a-lightweight-model-for-tongue-im-fd220758) | None |
-| 202412 | X. Shao et al. | arXiv (Cornell University) 2024 | Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer [(paper)](http://arxiv.org/abs/2412.13908) [(details)](#memorizing-sam-3d-medical-segment-anything-model-7bc64c5e) | [Code](https://github.com/swedfr/memorizingSAM) |
-| 202410 | Y. Zhao et al. | Lecture notes in computer science 2024 | CryoSAM: Training-Free CryoET Tomogram Segmentation with Foundation Models [(paper)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12923679/) [(details)](#cryosam-training-free-cryoet-tomogram-segmentati-24a564eb) | [Code](https://github.com/xulabs/aitom) |
-| 202409 | T. Koleilat et al. | arXiv (Cornell University) 2024 | MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation [(paper)](http://arxiv.org/abs/2409.19483) [(details)](#medclip-samv2-towards-universal-text-driven-medi-ae6fc3f5) | [Code](https://github.com/HealthX-Lab/MedCLIP-SAMv2) |
-| 202408 | C. Zhou et al. | arXiv (Cornell University) 2024 | SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](http://arxiv.org/abs/2408.12364) [(details)](#sam-sp-self-prompting-makes-sam-great-again-54d124e8) | None |
+| 202503 | B. Li et al. | Communications in Computer and Information Science 2025 | Optimization of MedSAM Model Based on Bounding Box Adaptive Perturbation Algorithm [(paper)](https://link.springer.com/10.1007/978-981-96-9952-0_2) [(details)](#optimization-of-medsam-model-based-on-bounding-b-84601017) | None |
+| 202503 | X. Liu et al. | Medical Image Analysis 2025 | Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000970) [(details)](#segment-any-tissue-one-shot-reference-guided-tra-b2379d58) | [Code](https://github.com/SnowRain510/Segment-Any-Tissue) |
+| 202502 | B. Xie et al. | arXiv.org 2025 | Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](https://arxiv.org/abs/2502.00630) [(details)](#self-prompt-sam-medical-image-segmentation-via-a-5111f86e) | None |
+| 202502 | B. Xie et al. | arXiv.org 2025 | Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation [(paper)](https://arxiv.org/abs/2502.00630) [(details)](#self-prompt-sam-medical-image-segmentation-via-a-5111f86e) | None |
+| 202501 | X. He et al. | arXiv.org 2025 | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67) | None |
+| 202501 | D. Tan et al. | IEEE Access 2025 | Tongue-LiteSAM: A Lightweight Model for Tongue Image Segmentation With Zero-Shot [(paper)](https://ieeexplore.ieee.org/document/10838509/) [(details)](#tongue-litesam-a-lightweight-model-for-tongue-im-fd220758) | None |
+| 202412 | X. Shao et al. | Medical Imaging 2025: Image Processing | Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047046/Memorizing-SAM--3D-medical-Segment-Anything-Model-with-memorizing/10.1117/12.3047046.full) [(details)](#memorizing-sam-3d-medical-segment-anything-model-7bc64c5e) | [Code](https://github.com/swedfr/memorizingSAM) |
+| 202410 | Y. Zhao et al. | Lecture Notes in Computer Science 2024 | CryoSAM: Training-Free CryoET Tomogram Segmentation with Foundation Models [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_12) [(details)](#cryosam-training-free-cryoet-tomogram-segmentati-24a564eb) | [Code](https://github.com/xulabs/aitom) |
+| 202409 | T. Koleilat et al. | Medical Image Analysis 2025 | MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525002968) [(details)](#medclip-samv2-towards-universal-text-driven-medi-ae6fc3f5) | [Code](https://github.com/HealthX-Lab/MedCLIP-SAMv2) |
+| 202408 | C. Zhou et al. | arXiv.org 2024 | SAM-SP: Self-Prompting Makes SAM Great Again [(paper)](https://arxiv.org/abs/2408.12364) [(details)](#sam-sp-self-prompting-makes-sam-great-again-54d124e8) | None |
 | 202408 | S. Yang et al. | 2024 | SAM-UNet: Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images [(paper)](https://arxiv.org/pdf/2408.09886) [(details)](#sam-unet-enhancing-zero-shot-segmentation-of-sam-96f5ba9c) | [Code](https://github.com/Hhankyangg/sam-unet) |
-| 202407 | J. Cai et al. | Lecture notes in computer science 2024 | PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-981-97-5581-3_8) [(details)](#pesam-privacy-enhanced-segment-anything-model-fo-e8631809) | None |
-| 202406 | B. Towle et al. | arXiv (Cornell University) 2024 | SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction [(paper)](http://arxiv.org/abs/2406.00663) [(details)](#simsam-zero-shot-medical-image-segmentation-via-61a15d39) | [Code](https://github.com/BenjaminTowle/SimSAM) |
-| 202405 | TJ. Chan et al. | arXiv (Cornell University) 2024 | SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model [(paper)](http://arxiv.org/abs/2405.06786) [(details)](#sam3d-zero-shot-semi-automatic-segmentation-in-3-88de5a37) | None |
-| 202404 | W. Abebe et al. | arXiv (Cornell University) 2024 | SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation [(paper)](http://arxiv.org/abs/2404.06638) [(details)](#sam-i-am-semantic-boosting-for-zero-shot-atomic-f193da58) | None |
-| 202404 | S. Aleem et al. | arXiv (Cornell University) 2024 | Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation [(paper)](http://arxiv.org/abs/2404.06362) [(details)](#test-time-adaptation-with-salip-a-cascade-of-sam-a9e284b3) | [Code](https://github.com/aleemsidra/SaLIP) |
-| 202404 | Y. Zhu et al. | IEEE Access 2024 | SAM-Att: A Prompt-Free SAM-Related Model With an Attention Module for Automatic Segmentation of the Left Ventricle in Echocardiography [(paper)](https://doi.org/10.1109/access.2024.3384383) [(details)](#sam-att-a-prompt-free-sam-related-model-with-an-e2505893) | None |
-| 202403 | P. Kulkarni et al. | arXiv (Cornell University) 2024 | Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations [(paper)](http://arxiv.org/abs/2403.15218) [(details)](#anytime-anywhere-anyone-investigating-the-feasib-93111d66) | None |
-| 202403 | Y. Shen et al. | arXiv (Cornell University) 2024 | FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images [(paper)](http://arxiv.org/abs/2403.09827) [(details)](#fastsam3d-an-efficient-segment-anything-model-fo-61183fb7) | [Code](https://github.com/arcadelab/FastSAM3D) |
-| 202403 | H. Liu et al. | arXiv (Cornell University) 2024 | WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images [(paper)](http://arxiv.org/abs/2403.09257) [(details)](#wsi-sam-multi-resolution-segment-anything-model-cb419997) | [Code](https://github.com/HongLiuuuuu/WSI-SAM) |
-| 202403 | YX. Teoh et al. | arXiv (Cornell University) 2024 | Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches [(paper)](http://arxiv.org/abs/2403.08761) [(details)](#segmentation-of-knee-bones-for-osteoarthritis-as-0dd3a52e) | None |
-| 202402 | KJ. Oguine et al. | arXiv.org 2024 | From generalization to precision: exploring SAM for tool segmentation in surgical environments [(paper)](http://arxiv.org/abs/2402.17972) [(details)](#from-generalization-to-precision-exploring-sam-f-ac3beadb) | None |
-| 202402 | J. Ren et al. | arXiv (Cornell University) 2024 | Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images [(paper)](http://arxiv.org/abs/2402.17454) [(details)](#segment-anything-model-for-head-and-neck-tumor-s-269fa57f) | None |
-| 202401 | J. Wan et al. | IEEE Journal of Biomedical and Health Informatics 2025 | TriSAM: Tri-Plane SAM for Zero-Shot Cortical Blood Vessel Segmentation in VEM Images [(paper)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13041565/) [(details)](#trisam-tri-plane-sam-for-zero-shot-cortical-bloo-7f61e3a9) | None |
-| 202401 | S. Li et al. | arXiv (Cornell University) 2024 | ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [(paper)](http://arxiv.org/abs/2401.12665) [(details)](#clipsam-clip-and-sam-collaboration-for-zero-shot-50ce7eda) | [Code](https://github.com/Lszcoding/ClipSAM) |
-| 202401 | JD. Gutiérrez et al. | 2024 | No More Training: SAM's Zero-Shot Transfer Capabilities for Cost-Efficient Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10388320) [(details)](#no-more-training-sam-s-zero-shot-transfer-capabi-e623af2b) | None |
-| 202312 | ZM. Colbert et al. | Biomedical Physics & Engineering Express 2023 | Repurposing traditional U-Net predictions for sparse SAM prompting in medical image segmentation [(paper)](https://doi.org/10.1088/2057-1976/ad17a7) [(details)](#repurposing-traditional-u-net-predictions-for-sp-ec8cf23d) | None |
-| 202312 | JG. Almeida et al. | arXiv (Cornell University) 2023 | Testing the Segment Anything Model on radiology data [(paper)](http://arxiv.org/abs/2312.12880) [(details)](#testing-the-segment-anything-model-on-radiology-af05eff1) | None |
-| 202311 | Y. Xu et al. | arXiv (Cornell University) 2023 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images [(paper)](http://arxiv.org/abs/2311.06400) [(details)](#eviprompt-a-training-free-evidential-prompt-gene-09940681) | None |
-| 202310 | SK. Kim et al. | arXiv (Cornell University) 2023 | Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation [(paper)](http://arxiv.org/abs/2310.10493) [(details)](#evaluation-and-improvement-of-segment-anything-m-35835e3f) | [Code](https://github.com/hvcl/SAM_Interactive_Histopathology) |
-| 202309 | C. Chen et al. | arXiv (Cornell University) 2023 | MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2309.08842) [(details)](#ma-sam-modality-agnostic-sam-adaptation-for-3d-m-a5173ed5) | [Code](https://github.com/cchen-cc/MA-SAM) |
-| 202308 | W. Feng et al. | arXiv (Cornell University) 2023 | Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars [(paper)](http://arxiv.org/abs/2308.14133) [(details)](#cheap-lunch-for-medical-image-segmentation-by-fi-7e2486ba) | None |
-| 202308 | W. Yue et al. | arXiv (Cornell University) 2023 | SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation [(paper)](http://arxiv.org/abs/2308.08746) [(details)](#surgicalsam-efficient-class-promptable-surgical-ab4451b7) | [Code](https://github.com/wenxi-yue/SurgicalSAM) |
-| 202308 | A. Wang et al. | arXiv (Cornell University) 2023 | SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation [(paper)](http://arxiv.org/abs/2308.07156) [(details)](#sam-meets-robotic-surgery-an-empirical-study-on-7a7cc75e) | None |
-| 202308 | S. Cao et al. | arXiv (Cornell University) 2023 | TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot [(paper)](http://arxiv.org/abs/2308.06444) [(details)](#tonguesam-an-universal-tongue-segmentation-model-2fb6c794) | [Code](https://github.com/cshan-github/TongueSAM) |
-| 202308 | X. Li et al. | arXiv (Cornell University) 2023 | Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning [(paper)](http://arxiv.org/abs/2308.05785) [(details)](#leverage-weakly-annotation-to-pixel-wise-annotat-c8a7ce25) | None |
-| 202308 | Z. Huang et al. | arXiv (Cornell University) 2023 | Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation [(paper)](http://arxiv.org/abs/2308.00883) [(details)](#push-the-boundary-of-sam-a-pseudo-label-correcti-62bfb52a) | None |
+| 202407 | J. Cai et al. | Lecture Notes in Computer Science 2024 | PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-981-97-5581-3_8) [(details)](#pesam-privacy-enhanced-segment-anything-model-fo-e8631809) | None |
+| 202406 | B. Towle et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction [(paper)](https://ieeexplore.ieee.org/document/10635227/) [(details)](#simsam-zero-shot-medical-image-segmentation-via-61a15d39) | [Code](https://github.com/BenjaminTowle/SimSAM) |
+| 202405 | TJ. Chan et al. | Medical Imaging 2025: Image Processing | SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047242/SAM3D--zero-shot-semi-automatic-segmentation-in-3D-medical/10.1117/12.3047242.full) [(details)](#sam3d-zero-shot-semi-automatic-segmentation-in-3-88de5a37) | None |
+| 202404 | W. Abebe et al. | Computational Materials Science 2025 | SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0927025624006219) [(details)](#sam-i-am-semantic-boosting-for-zero-shot-atomic-f193da58) | None |
+| 202404 | S. Aleem et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10678616/) [(details)](#test-time-adaptation-with-salip-a-cascade-of-sam-a9e284b3) | [Code](https://github.com/aleemsidra/SaLIP) |
+| 202404 | Y. Zhu et al. | IEEE Access 2024 | SAM-Att: A Prompt-Free SAM-Related Model With an Attention Module for Automatic Segmentation of the Left Ventricle in Echocardiography [(paper)](https://ieeexplore.ieee.org/document/10488364/) [(details)](#sam-att-a-prompt-free-sam-related-model-with-an-e2505893) | None |
+| 202403 | P. Kulkarni et al. | arXiv.org 2024 | Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations [(paper)](https://arxiv.org/abs/2403.15218) [(details)](#anytime-anywhere-anyone-investigating-the-feasib-93111d66) | None |
+| 202403 | Y. Shen et al. | Lecture Notes in Computer Science 2024 | FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images [(paper)](https://link.springer.com/10.1007/978-3-031-72390-2_51) [(details)](#fastsam3d-an-efficient-segment-anything-model-fo-61183fb7) | [Code](https://github.com/arcadelab/FastSAM3D) |
+| 202403 | H. Liu et al. | arXiv.org 2024 | WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images [(paper)](https://arxiv.org/abs/2403.09257) [(details)](#wsi-sam-multi-resolution-segment-anything-model-cb419997) | [Code](https://github.com/HongLiuuuuu/WSI-SAM) |
+| 202403 | YX. Teoh et al. | IFMBE Proceedings 2024 | Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches [(paper)](https://link.springer.com/10.1007/978-3-031-62523-7_37) [(details)](#segmentation-of-knee-bones-for-osteoarthritis-as-0dd3a52e) | None |
+| 202402 | KJ. Oguine et al. | Medical Imaging 2024: Image Processing | From generalization to precision: exploring SAM for tool segmentation in surgical environments [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3006981/From-generalization-to-precision--exploring-SAM-for-tool-segmentation/10.1117/12.3006981.full) [(details)](#from-generalization-to-precision-exploring-sam-f-ac3beadb) | None |
+| 202402 | J. Ren et al. | arXiv.org 2024 | Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images [(paper)](https://arxiv.org/abs/2402.17454) [(details)](#segment-anything-model-for-head-and-neck-tumor-s-269fa57f) | None |
+| 202401 | J. Wan et al. | IEEE Journal of Biomedical and Health Informatics 2025 | TriSAM: Tri-Plane SAM for Zero-Shot Cortical Blood Vessel Segmentation in VEM Images [(paper)](https://ieeexplore.ieee.org/document/11027715/) [(details)](#trisam-tri-plane-sam-for-zero-shot-cortical-bloo-7f61e3a9) | None |
+| 202401 | S. Li et al. | Neurocomputing 2025 | ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0925231224018939) [(details)](#clipsam-clip-and-sam-collaboration-for-zero-shot-50ce7eda) | [Code](https://github.com/Lszcoding/ClipSAM) |
+| 202401 | JD. Gutiérrez et al. | IEEE Access 2024 | No More Training: SAM's Zero-Shot Transfer Capabilities for Cost-Efficient Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10388320/) [(details)](#no-more-training-sam-s-zero-shot-transfer-capabi-e623af2b) | None |
+| 202312 | ZM. Colbert et al. | Biomedical Physics &amp; Engineering Express 2024 | Repurposing traditional U-Net predictions for sparse SAM prompting in medical image segmentation [(paper)](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7) [(details)](#repurposing-traditional-u-net-predictions-for-sp-ec8cf23d) | None |
+| 202312 | JG. Almeida et al. | arXiv.org 2023 | Testing the Segment Anything Model on radiology data [(paper)](https://arxiv.org/abs/2312.12880) [(details)](#testing-the-segment-anything-model-on-radiology-af05eff1) | None |
+| 202311 | Y. Xu et al. | IEEE Transactions on Image Processing 2024 | EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images [(paper)](https://ieeexplore.ieee.org/document/10729707/) [(details)](#eviprompt-a-training-free-evidential-prompt-gene-09940681) | None |
+| 202310 | SK. Kim et al. | Lecture Notes in Computer Science 2023 | Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_24) [(details)](#evaluation-and-improvement-of-segment-anything-m-35835e3f) | [Code](https://github.com/hvcl/SAM_Interactive_Histopathology) |
+| 202309 | C. Chen et al. | Medical Image Analysis 2024 | MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841524002354) [(details)](#ma-sam-modality-agnostic-sam-adaptation-for-3d-m-a5173ed5) | [Code](https://github.com/cchen-cc/MA-SAM) |
+| 202308 | W. Feng et al. | Lecture Notes in Computer Science 2024 | Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars [(paper)](https://link.springer.com/10.1007/978-3-031-76160-7_2) [(details)](#cheap-lunch-for-medical-image-segmentation-by-fi-7e2486ba) | None |
+| 202308 | W. Yue et al. | AAAI Conference on Artificial Intelligence 2024 | SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation [(paper)](https://ojs.aaai.org/index.php/AAAI/article/view/28514) [(details)](#surgicalsam-efficient-class-promptable-surgical-ab4451b7) | [Code](https://github.com/wenxi-yue/SurgicalSAM) |
+| 202308 | A. Wang et al. | Lecture Notes in Computer Science 2023 | SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_23) [(details)](#sam-meets-robotic-surgery-an-empirical-study-on-7a7cc75e) | None |
+| 202308 | S. Cao et al. | 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) | TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot [(paper)](https://ieeexplore.ieee.org/document/10385570/) [(details)](#tonguesam-an-universal-tongue-segmentation-model-2fb6c794) | [Code](https://github.com/cshan-github/TongueSAM) |
+| 202308 | X. Li et al. | Medical Imaging 2024: Digital and Computational Pathology | Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/3006577/Leverage-weekly-annotation-to-pixel-wise-annotation-via-zero-shot/10.1117/12.3006577.full) [(details)](#leverage-weakly-annotation-to-pixel-wise-annotat-c8a7ce25) | None |
+| 202308 | Z. Huang et al. | arXiv.org 2023 | Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation [(paper)](https://arxiv.org/abs/2308.00883) [(details)](#push-the-boundary-of-sam-a-pseudo-label-correcti-62bfb52a) | None |
 | 202307 | MS. Hossain et al. | 2023 | Robust HER2 Grading of Breast Cancer Patients using Zero-shot Segment Anything Model (SAM) [(paper)](https://www.preprints.org/manuscript/202307.1213/v1) [(details)](#robust-her2-grading-of-breast-cancer-patients-us-3274e6c9) | None |
-| 202307 | C. Cui et al. | arXiv (Cornell University) 2023 | All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning [(paper)](http://arxiv.org/abs/2307.00290) [(details)](#all-in-sam-from-weak-annotation-to-pixel-wise-nu-03843459) | None |
-| 202306 | X. Hu et al. | arXiv (Cornell University) 2023 | How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images [(paper)](http://arxiv.org/abs/2306.13731) [(details)](#how-to-efficiently-adapt-large-segmentation-mode-3db90257) | [Code](https://github.com/xhu248/AutoSAM) |
-| 202306 | C. Shen et al. | arXiv (Cornell University) 2023 | Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation [(paper)](http://arxiv.org/abs/2306.08958) [(details)](#temporally-extended-prompts-optimization-for-sam-7cc38e10) | None |
+| 202307 | C. Cui et al. | Journal of Physics: Conference Series 2024 | All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning [(paper)](https://iopscience.iop.org/article/10.1088/1742-6596/2722/1/012012) [(details)](#all-in-sam-from-weak-annotation-to-pixel-wise-nu-03843459) | None |
+| 202306 | X. Hu et al. | arXiv.org 2023 | How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images [(paper)](https://arxiv.org/abs/2306.13731) [(details)](#how-to-efficiently-adapt-large-segmentation-mode-3db90257) | [Code](https://github.com/xhu248/AutoSAM) |
+| 202306 | C. Shen et al. | 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) | Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10385291/) [(details)](#temporally-extended-prompts-optimization-for-sam-7cc38e10) | None |
 | 202305 | C. Mattjie et al. | 2023 | Exploring the Zero-Shot Capabilities of the Segment Anything Model (SAM) in 2D Medical Imaging: A Comprehensive Evaluation and Practical Guideline [(paper)](https://arxiv.org/pdf/2305.00109.pdf) [(details)](#exploring-the-zero-shot-capabilities-of-the-segm-bd69bddc) | None |
-| 202305 | D. Cheng et al. | arXiv (Cornell University) 2023 | SAM on Medical Images: A Comprehensive Study on Three Prompt Modes [(paper)](http://arxiv.org/abs/2305.00035) [(details)](#sam-on-medical-images-a-comprehensive-study-on-t-85b37784) | None |
-| 202304 | A. Wang et al. | arXiv (Cornell University) 2023 | SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective [(paper)](http://arxiv.org/abs/2304.14674) [(details)](#sam-meets-robotic-surgery-an-empirical-study-in-99a4667c) | None |
-| 202304 | P. Shi et al. | arXiv (Cornell University) 2023 | Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [(paper)](http://arxiv.org/abs/2304.12637) [(details)](#generalist-vision-foundation-models-for-medical-79bcfb1d) | None |
-| 202304 | MA. Mazurowski et al. | arXiv (Cornell University) 2023 | Segment Anything Model for Medical Image Analysis: an Experimental Study [(paper)](http://arxiv.org/abs/2304.10517) [(details)](#segment-anything-model-for-medical-image-analysi-27aff969) | [Code](https://github.com/mazurowski-lab/segment-anything-medical) |
-| 202304 | C. Hu and X. Li | arXiv (Cornell University) 2023 | When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation [(paper)](http://arxiv.org/abs/2304.08506) [(details)](#when-sam-meets-medical-images-an-investigation-o-b7a8dc2b) | None |
-| 202304 | F. Putz et al. | arXiv (Cornell University) 2023 | The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning [(paper)](http://arxiv.org/abs/2304.07875) [(details)](#the-segment-anything-foundation-model-achieves-f-adaeacaf) | None |
-| 202304 | S. Roy et al. | arXiv (Cornell University) 2023 | SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [(paper)](http://arxiv.org/abs/2304.05396) [(details)](#sam-md-zero-shot-medical-image-segmentation-capa-d27997b8) | None |
-| 202304 | S. Mohapatra et al. | arXiv (Cornell University) 2023 | SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning [(paper)](http://arxiv.org/abs/2304.04738) [(details)](#sam-vs-bet-a-comparative-study-for-brain-extract-917316c8) | None |
-| 202304 | R. Deng et al. | Electronic Imaging 2025 | Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [(paper)](https://doi.org/10.2352/ei.2025.37.14.coimg-132) [(details)](#segment-anything-model-sam-for-digital-pathology-d6209219) | None |
+| 202305 | D. Cheng et al. | arXiv.org 2023 | SAM on Medical Images: A Comprehensive Study on Three Prompt Modes [(paper)](https://arxiv.org/abs/2305.00035) [(details)](#sam-on-medical-images-a-comprehensive-study-on-t-85b37784) | None |
+| 202304 | A. Wang et al. | arXiv.org 2023 | SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective [(paper)](https://arxiv.org/abs/2304.14674) [(details)](#sam-meets-robotic-surgery-an-empirical-study-in-99a4667c) | None |
+| 202304 | P. Shi et al. | Diagnostics 2023 | Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [(paper)](https://www.mdpi.com/2075-4418/13/11/1947) [(details)](#generalist-vision-foundation-models-for-medical-79bcfb1d) | None |
+| 202304 | MA. Mazurowski et al. | Medical Image Analysis 2023 | Segment Anything Model for Medical Image Analysis: an Experimental Study [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001780) [(details)](#segment-anything-model-for-medical-image-analysi-27aff969) | [Code](https://github.com/mazurowski-lab/segment-anything-medical) |
+| 202304 | C. Hu and X. Li | arXiv.org 2023 | When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation [(paper)](https://arxiv.org/abs/2304.08506) [(details)](#when-sam-meets-medical-images-an-investigation-o-b7a8dc2b) | None |
+| 202304 | F. Putz et al. | Strahlentherapie und Onkologie 2025 | The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning [(paper)](https://link.springer.com/10.1007/s00066-024-02313-8) [(details)](#the-segment-anything-foundation-model-achieves-f-adaeacaf) | None |
+| 202304 | S. Roy et al. | arXiv.org 2023 | SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [(paper)](https://arxiv.org/abs/2304.05396) [(details)](#sam-md-zero-shot-medical-image-segmentation-capa-d27997b8) | None |
+| 202304 | S. Mohapatra et al. | arXiv.org 2023 | SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning [(paper)](https://arxiv.org/abs/2304.04738) [(details)](#sam-vs-bet-a-comparative-study-for-brain-extract-917316c8) | None |
+| 202304 | R. Deng et al. | Electronic Imaging 2025 | Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [(paper)](https://library.imaging.org/ei/articles/37/14/COIMG-132) [(details)](#segment-anything-model-sam-for-digital-pathology-d6209219) | None |
 >Updating continuously ...
 
 ### <div id="samfsmis">SAM 4Few-ShotMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202602 | R. Ge et al. | Medical Image Analysis 2026 | Generative data-engine foundation model for universal few-shot 2D vascular image segmentation [(paper)](https://hal.science/hal-05526088) [(details)](#generative-data-engine-foundation-model-for-univ-57676204) | [Code](https://github.com/XinAloha/UniVG) |
-| 202512 | Z. Zhang et al. | ArXiv.org 2025 | Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation [(paper)](http://arxiv.org/abs/2512.18176) [(details)](#atlas-is-your-perfect-context-one-shot-customiza-85662d42) | None |
+| 202602 | R. Ge et al. | Medical Image Analysis 2026 | Generative data-engine foundation model for universal few-shot 2D vascular image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841526000654) [(details)](#generative-data-engine-foundation-model-for-univ-57676204) | [Code](https://github.com/XinAloha/UniVG) |
+| 202512 | Z. Zhang et al. | arXiv.org 2025 | Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation [(paper)](https://arxiv.org/abs/2512.18176) [(details)](#atlas-is-your-perfect-context-one-shot-customiza-85662d42) | None |
 | 202510 | S. Chen et al. | ArXiv.org 2025 | SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images [(paper)](http://arxiv.org/abs/2511.08626) [(details)](#samora-enhancing-sam-through-hierarchical-self-s-1ebdfa52) | [Code](https://github.com/ShChen233/SAMora) |
-| 202506 | S. Sobhan et al. | Biomedical Signal Processing and Control 2025 | MedPrompt: LLM–CNN Fusion with Weight Routing for Medical Image Segmentation and Classification [(paper)](https://doi.org/10.1016/j.bspc.2025.109251) [(details)](#medprompt-llm-cnn-fusion-with-weight-routing-for-4fff7242) | None |
-| 202505 | W. Zhou et al. | IEEE Journal of Biomedical and Health Informatics 2025 | MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance [(paper)](https://doi.org/10.1109/jbhi.2025.3571430) [(details)](#masg-sam-enhancing-few-shot-medical-image-segmen-ebd7e144) | [Code](https://github.com/ggllllll/MASG-SAM.git) |
-| 202505 | S. Liu et al. | Computer Vision and Image Understanding 2025 | Multi-scale feature fusion based SAM for high-quality few-shot medical image segmentation [(paper)](https://doi.org/10.1016/j.cviu.2025.104389) [(details)](#multi-scale-feature-fusion-based-sam-for-high-qu-69ba7711) | [Code](https://github.com/1683194873xrn/HF-SAM) |
-| 202504 | J. Wang et al. | ArXiv.org 2025 | SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2504.20501) [(details)](#sam-guided-robust-representation-learning-for-on-f52e8a78) | None |
-| 202503 | Y. Gao et al. | arXiv.org 2025 | Show and Segment: Universal Medical Image Segmentation via In-Context Learning [(paper)](https://doi.org/10.1109/cvpr52734.2025.01940) [(details)](#show-and-segment-universal-medical-image-segment-f44aae05) | None |
-| 202501 | Z. Yan et al. | arXiv.org 2025 | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation [(paper)](https://doi.org/10.1109/isbi60581.2025.10980911) [(details)](#pgp-sam-prototype-guided-prompt-learning-for-eff-984ec24c) | None |
-| 202412 | Y. Luo et al. | IEEE Signal Processing Letters 2024 | BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation [(paper)](https://doi.org/10.1109/lsp.2024.3513240) [(details)](#biasam-bidirectional-attention-guided-segment-an-3d361a06) | [Code](https://github.com/ggllllll/BiASAM-.git) |
+| 202506 | S. Sobhan et al. | Biomedical Signal Processing and Control 2026 | MedPrompt: LLM–CNN Fusion with Weight Routing for Medical Image Segmentation and Classification [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1746809425017628) [(details)](#medprompt-llm-cnn-fusion-with-weight-routing-for-4fff7242) | None |
+| 202505 | W. Zhou et al. | IEEE Journal of Biomedical and Health Informatics 2025 | MASG-SAM: Enhancing Few-Shot Medical Image Segmentation with Multi-Scale Attention and Semantic Guidance [(paper)](https://ieeexplore.ieee.org/document/11006907/) [(details)](#masg-sam-enhancing-few-shot-medical-image-segmen-ebd7e144) | [Code](https://github.com/ggllllll/MASG-SAM.git) |
+| 202505 | S. Liu et al. | Computer Vision and Image Understanding 2025 | Multi-scale feature fusion based SAM for high-quality few-shot medical image segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1077314225001122) [(details)](#multi-scale-feature-fusion-based-sam-for-high-qu-69ba7711) | [Code](https://github.com/1683194873xrn/HF-SAM) |
+| 202504 | J. Wang et al. | arXiv.org 2025 | SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2504.20501) [(details)](#sam-guided-robust-representation-learning-for-on-f52e8a78) | None |
+| 202503 | Y. Gao et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Show and Segment: Universal Medical Image Segmentation via In-Context Learning [(paper)](https://ieeexplore.ieee.org/document/11094913/) [(details)](#show-and-segment-universal-medical-image-segment-f44aae05) | None |
+| 202501 | Z. Yan et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10980911/) [(details)](#pgp-sam-prototype-guided-prompt-learning-for-eff-984ec24c) | None |
+| 202412 | Y. Luo et al. | IEEE Signal Processing Letters 2025 | BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10787063/) [(details)](#biasam-bidirectional-attention-guided-segment-an-3d361a06) | [Code](https://github.com/ggllllll/BiASAM-.git) |
 | 202411 | J. Xu et al. | arXiv.org 2024 | SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting [(paper)](https://arxiv.org/abs/2411.17363) [(details)](#sam-mpa-applying-sam-to-few-shot-medical-image-s-0449c357) | None |
-| 202411 | H. Yoon et al. | arXiv (Cornell University) 2024 | Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain [(paper)](http://arxiv.org/abs/2411.16123) [(details)](#med-persam-one-shot-visual-prompt-tuning-for-per-13b4c30c) | None |
-| 202411 | W. Shi et al. | Complex & Intelligent Systems 2024 | Segment anything model for few-shot medical image segmentation with domain tuning [(paper)](https://doi.org/10.1007/s40747-024-01625-7) [(details)](#segment-anything-model-for-few-shot-medical-imag-460aff7f) | None |
-| 202410 | Y. Wen et al. | arXiv (Cornell University) 2024 | Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy [(paper)](http://arxiv.org/abs/2410.07460) [(details)](#generalizing-segmentation-foundation-model-under-0d31ba16) | None |
-| 202409 | M. Gaillochet et al. | arXiv (Cornell University) 2024 | Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision [(paper)](http://arxiv.org/abs/2409.20293) [(details)](#automating-medsam-by-learning-prompts-with-weak-19273e69) | [Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation) |
-| 202407 | Q. Xu et al. | arXiv (Cornell University) 2024 | ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models [(paper)](http://arxiv.org/abs/2407.07042) [(details)](#protosam-one-shot-medical-image-segmentation-wit-033cc5d9) | [Code](https://github.com/levayz/ProtoSAM) |
+| 202411 | H. Yoon et al. | arXiv.org 2024 | Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain [(paper)](https://arxiv.org/abs/2411.16123) [(details)](#med-persam-one-shot-visual-prompt-tuning-for-per-13b4c30c) | None |
+| 202411 | W. Shi et al. | Complex &amp; Intelligent Systems 2025 | Segment anything model for few-shot medical image segmentation with domain tuning [(paper)](https://link.springer.com/10.1007/s40747-024-01625-7) [(details)](#segment-anything-model-for-few-shot-medical-imag-460aff7f) | None |
+| 202410 | Y. Wen et al. | arXiv.org 2024 | Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy [(paper)](https://arxiv.org/abs/2410.07460) [(details)](#generalizing-segmentation-foundation-model-under-0d31ba16) | None |
+| 202409 | M. Gaillochet et al. | Lecture Notes in Computer Science 2025 | Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision [(paper)](https://link.springer.com/10.1007/978-3-031-73471-7_7) [(details)](#automating-medsam-by-learning-prompts-with-weak-19273e69) | [Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation) |
+| 202407 | Q. Xu et al. | Scientific Reports 2025 | ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models [(paper)](https://www.nature.com/articles/s41598-025-06643-0) [(details)](#protosam-one-shot-medical-image-segmentation-wit-033cc5d9) | [Code](https://github.com/levayz/ProtoSAM) |
 | 202407 | A. Murali et al. | 2024 | CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM [(paper)](https://arxiv.org/pdf/2407.06795) [(details)](#cyclesam-one-shot-surgical-scene-segmentation-us-0fbd9e98) | None |
-| 202404 | H. Zhou et al. | Bioengineering 2024 | AGSAM: Agent-Guided Segment Anything Model for Automatic Segmentation in Few-Shot Scenarios [(paper)](https://doi.org/10.3390/bioengineering11050447) [(details)](#agsam-agent-guided-segment-anything-model-for-au-d6e3e191) | None |
-| 202404 | H. Gu et al. | arXiv (Cornell University) 2024 | How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model [(paper)](http://arxiv.org/abs/2404.09957) [(details)](#how-to-build-the-best-medical-image-segmentation-933a52cf) | [Code](https://github.com/mazurowski-lab/finetune-SAM) |
-| 202403 | Y. Wang et al. | arXiv (Cornell University) 2024 | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation [(paper)](http://arxiv.org/abs/2403.07951) [(details)](#samda-leveraging-sam-on-few-shot-domain-adaptati-0656632f) | None |
-| 202312 | W. Xie et al. | arXiv (Cornell University) 2024 | SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images [(paper)](http://arxiv.org/abs/2407.04651) [(details)](#sam-fewshot-finetuning-for-anatomical-segmentati-63e6e4b8) | None |
-| 202310 | D. Anand et al. | arXiv (Cornell University) 2023 | One-shot Localization and Segmentation of Medical Images with Foundation Models [(paper)](http://arxiv.org/abs/2310.18642) [(details)](#one-shot-localization-and-segmentation-of-medica-8297cfd6) | None |
-| 202309 | Y. Zhao et al. | Journal of Visual Communication and Image Representation 2023 | MFS enhanced SAM: Achieving superior performance in bimodal few-shot segmentation [(paper)](https://doi.org/10.1016/j.jvcir.2023.103946) [(details)](#mfs-enhanced-sam-achieving-superior-performance-bd1ce086) | [Code](https://github.com/VDT-2048/Bi-SAM) |
-| 202309 | Y. Zhang et al. | arXiv (Cornell University) 2023 | 3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images [(paper)](http://arxiv.org/abs/2309.11015) [(details)](#3d-u-sam-network-for-few-shot-tooth-segmentation-b81b5364) | None |
-| 202308 | Y. Zhang et al. | arXiv (Cornell University) 2023 | Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning [(paper)](http://arxiv.org/abs/2308.16466) [(details)](#self-sampling-meta-sam-enhancing-few-shot-medica-50ad66d0) | None |
-| 202308 | Q. Wu et al. | arXiv (Cornell University) 2023 | Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation [(paper)](http://arxiv.org/abs/2308.07624) [(details)](#self-prompting-large-vision-models-for-few-shot-16e550f9) | [Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM) |
-| 202304 | Z. Qiu et al. | arXiv (Cornell University) 2023 | Learnable Ophthalmology SAM [(paper)](http://arxiv.org/abs/2304.13425) [(details)](#learnable-ophthalmology-sam-c51c154b) | [Code](https://github.com/Qsingle/LearnablePromptSAM) |
+| 202404 | H. Zhou et al. | Bioengineering 2024 | AGSAM: Agent-Guided Segment Anything Model for Automatic Segmentation in Few-Shot Scenarios [(paper)](https://www.mdpi.com/2306-5354/11/5/447) [(details)](#agsam-agent-guided-segment-anything-model-for-au-d6e3e191) | None |
+| 202404 | H. Gu et al. | Machine Learning for Biomedical Imaging 2025 | How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model [(paper)](https://melba-journal.org/2025:006) [(details)](#how-to-build-the-best-medical-image-segmentation-933a52cf) | [Code](https://github.com/mazurowski-lab/finetune-SAM) |
+| 202403 | Y. Wang et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation [(paper)](https://ieeexplore.ieee.org/document/10980811/) [(details)](#samda-leveraging-sam-on-few-shot-domain-adaptati-0656632f) | None |
+| 202312 | W. Xie et al. | 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) | SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images [(paper)](https://ieeexplore.ieee.org/document/10484400/) [(details)](#sam-fewshot-finetuning-for-anatomical-segmentati-63e6e4b8) | None |
+| 202310 | D. Anand et al. | arXiv.org 2023 | One-shot Localization and Segmentation of Medical Images with Foundation Models [(paper)](https://arxiv.org/abs/2310.18642) [(details)](#one-shot-localization-and-segmentation-of-medica-8297cfd6) | None |
+| 202309 | Y. Zhao et al. | Journal of Visual Communication and Image Representation 2023 | MFS enhanced SAM: Achieving superior performance in bimodal few-shot segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1047320323001967) [(details)](#mfs-enhanced-sam-achieving-superior-performance-bd1ce086) | [Code](https://github.com/VDT-2048/Bi-SAM) |
+| 202309 | Y. Zhang et al. | arXiv.org 2023 | 3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images [(paper)](https://arxiv.org/abs/2309.11015) [(details)](#3d-u-sam-network-for-few-shot-tooth-segmentation-b81b5364) | None |
+| 202308 | Y. Zhang et al. | 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) | Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning [(paper)](https://ieeexplore.ieee.org/document/10483717/) [(details)](#self-sampling-meta-sam-enhancing-few-shot-medica-50ad66d0) | None |
+| 202308 | Q. Wu et al. | Lecture Notes in Computer Science 2024 | Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-45857-6_16) [(details)](#self-prompting-large-vision-models-for-few-shot-16e550f9) | [Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM) |
+| 202304 | Z. Qiu et al. | arXiv.org 2023 | Learnable Ophthalmology SAM [(paper)](https://arxiv.org/abs/2304.13425) [(details)](#learnable-ophthalmology-sam-c51c154b) | [Code](https://github.com/Qsingle/LearnablePromptSAM) |
 >Updating continuously ...
 
 ### <div id="samwsmis">SAM 4Weakly-SupervisedMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202511 | T. Shaharabany et al. | 2025 | WS-SAM: Segment Anything with Sparse Prompts for Weakly-Supervised Medical Segmentation [(paper)](https://doi.org/10.1109/sipaim67325.2025.11283292) [(details)](#ws-sam-segment-anything-with-sparse-prompts-for-f8cb59c8) | None |
-| 202409 | Y. Liu et al. | arXiv (Cornell University) 2024 | When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](http://arxiv.org/abs/2409.01691) [(details)](#when-3d-partial-points-meets-sam-tooth-point-clo-b603cd6c) | [Code](https://github.com/CUHK-AIM-Group/SAMTooth) |
-| 202407 | X. Zhao et al. | arXiv (Cornell University) 2024 | SAM-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching [(paper)](http://arxiv.org/abs/2407.13553) [(details)](#sam-driven-weakly-supervised-nodule-segmentation-e2675158) | None |
-| 202407 | Z. Zhang et al. | Scientific Reports 2024 | Quantification of cardiac capillarization in basement-membrane-immunostained myocardial slices using Segment Anything Model [(paper)](https://doi.org/10.1038/s41598-024-65567-3) [(details)](#quantification-of-cardiac-capillarization-in-bas-f0973e37) | None |
+| 202511 | T. Shaharabany et al. | 2025 21st International Symposium on Biomedical Image Processing and Analysis (SIPAIM) | WS-SAM: Segment Anything with Sparse Prompts for Weakly-Supervised Medical Segmentation [(paper)](https://ieeexplore.ieee.org/document/11283292/) [(details)](#ws-sam-segment-anything-with-sparse-prompts-for-f8cb59c8) | None |
+| 202409 | Y. Liu et al. | Lecture Notes in Computer Science 2024 | When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels [(paper)](https://link.springer.com/10.1007/978-3-031-72120-5_72) [(details)](#when-3d-partial-points-meets-sam-tooth-point-clo-b603cd6c) | [Code](https://github.com/CUHK-AIM-Group/SAMTooth) |
+| 202407 | X. Zhao et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | SAM-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching [(paper)](https://ieeexplore.ieee.org/document/10635682/) [(details)](#sam-driven-weakly-supervised-nodule-segmentation-e2675158) | None |
+| 202407 | Z. Zhang et al. | Scientific Reports 2024 | Quantification of cardiac capillarization in basement-membrane-immunostained myocardial slices using Segment Anything Model [(paper)](https://www.nature.com/articles/s41598-024-65567-3) [(details)](#quantification-of-cardiac-capillarization-in-bas-f0973e37) | None |
 | 202311 | AK. Tyagi et al. | 2023 | Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images [(paper)](https://arxiv.org/pdf/2311.17960.pdf) [(details)](#guided-prompting-in-sam-for-weakly-supervised-ce-c9841b7d) | [Code](https://github.com/dair-iitd/Guided-Prompting-SAM) |
 >Updating continuously ...
 
@@ -273,244 +273,244 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202603 | C. Magg et al. | ArXiv.org 2026 | Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation [(paper)](http://arxiv.org/abs/2603.10541) [(details)](#prompting-with-the-human-touch-evaluating-model-6600f1ab) | None |
-| 202510 | TC. Ndir et al. | ArXiv.org 2025 | Dynamic Prompt Generation for Interactive 3D Medical Image Segmentation Training [(paper)](http://arxiv.org/abs/2510.03189) [(details)](#dynamic-prompt-generation-for-interactive-3d-med-5059610d) | None |
-| 202508 | Z. Zhao et al. | arXiv.org 2025 | Large-Vocabulary Segmentation for Medical Images with Text Prompts [(paper)](https://arxiv.org/abs/2312.17183) [(details)](#large-vocabulary-segmentation-for-medical-images-5ebf18ad) | [Code](https://github.com/zhaoziheng/SAT) |
-| 202507 | T. Tang et al. | ArXiv.org 2025 | Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation [(paper)](http://arxiv.org/abs/2507.03585) [(details)](#causal-sam-llm-large-language-models-as-causal-r-34c7c7c5) | None |
-| 202507 | A. Zami et al. | ArXiv.org 2025 | Prompt2SegCXR:Prompt to Segment All Organs and Diseases in Chest X-rays [(paper)](http://arxiv.org/abs/2507.00673) [(details)](#prompt2segcxr-prompt-to-segment-all-organs-and-d-dfdfb307) | None |
-| 202507 | Y. Sui et al. | BMC Medical Imaging 2025 | Cross-domain subcortical brain structure segmentation algorithm based on low-rank adaptation fine-tuning SAM [(paper)](https://doi.org/10.1186/s12880-025-01779-x) [(details)](#cross-domain-subcortical-brain-structure-segment-42c903d4) | None |
-| 202505 | M. Wang et al. | 2025 | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation [(paper)](https://doi.org/10.1109/isbi60581.2025.10981084) [(details)](#efficient-fine-tuning-of-sam-for-interactive-med-5f57cc76) | None |
-| 202505 | H. Wang et al. | ArXiv.org 2025 | BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation [(paper)](http://arxiv.org/abs/2505.06133) [(details)](#brainsegdmlf-a-dynamic-fusion-enhanced-sam-for-b-e845d388) | None |
-| 202504 | J. Khlaut et al. | Lecture notes in computer science 2025 | RadSAM: Segmenting 3D Radiological Images with a 2D Promptable Model [(paper)](https://doi.org/10.1007/978-3-032-04965-0_41) [(details)](#radsam-segmenting-3d-radiological-images-with-a-ed1f6d22) | None |
-| 202504 | T. Piater et al. | ArXiv.org 2025 | Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images [(paper)](http://arxiv.org/abs/2504.16739) [(details)](#prompt-tuning-sam-from-generalist-to-specialist-c0d1b0a3) | None |
-| 202504 | X. Zhou et al. | IEEE Journal of Biomedical and Health Informatics 2025 | MIT-SAM: Medical Image-Text SAM With Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation [(paper)](https://doi.org/10.1109/jbhi.2025.3561425) [(details)](#mit-sam-medical-image-text-sam-with-mutually-enh-49972513) | [Code](https://github.com/jojodan514/MIT-SAM) |
-| 202503 | F. Isensee et al. | ArXiv.org 2025 | nnInteractive: Redefining 3D Promptable Segmentation [(paper)](http://arxiv.org/abs/2503.08373) [(details)](#nninteractive-redefining-3d-promptable-segmentat-dfc02114) | [Code](https://github.com/MIC-DKFZ/nnInteractive) |
-| 202502 | Y. Shen et al. | Computerized Medical Imaging and Graphics 2025 | ProtoSAM-3D: Interactive semantic segmentation in volumetric medical imaging via a Segment Anything Model and mask-level prototypes [(paper)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11875884/) [(details)](#protosam-3d-interactive-semantic-segmentation-in-dcf7fbf9) | None |
-| 202501 | J. Hu et al. | IEEE Journal of Biomedical and Health Informatics 2025 | SPA: Leveraging the SAM With Spatial Priors Adapter for Enhanced Medical Image Segmentation [(paper)](https://doi.org/10.1109/jbhi.2025.3526174) [(details)](#spa-leveraging-the-sam-with-spatial-priors-adapt-6013f4a0) | None |
-| 202412 | HE. Wong et al. | arXiv (Cornell University) 2024 | MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance [(paper)](http://arxiv.org/abs/2412.15058) [(details)](#multiverseg-scalable-interactive-segmentation-of-ea468651) | [Code](https://multiverseg.csail.mit.edu/) |
-| 202410 | Y. Huang et al. | Lecture notes in computer science 2024 | Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning [(paper)](https://doi.org/10.1007/978-3-031-72111-3_45) [(details)](#optimizing-efficiency-and-effectiveness-in-seque-1ed564bb) | None |
-| 202403 | Y. Liu et al. | arXiv (Cornell University) 2024 | Segment Any Medical Model Extended [(paper)](http://arxiv.org/abs/2403.18114) [(details)](#segment-any-medical-model-extended-730407eb) | None |
-| 202403 | H. Guo et al. | Proceedings of the AAAI Conference on Artificial Intelligence 2025 | Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model Using 3D Whole-Body CT Scans [(paper)](https://doi.org/10.1609/aaai.v39i3.32335) [(details)](#towards-a-comprehensive-efficient-and-promptable-f5b7a56f) | None |
+| 202603 | C. Magg et al. | arXiv.org 2026 | Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation [(paper)](https://arxiv.org/abs/2603.10541) [(details)](#prompting-with-the-human-touch-evaluating-model-6600f1ab) | None |
+| 202510 | TC. Ndir et al. | arXiv.org 2025 | Dynamic Prompt Generation for Interactive 3D Medical Image Segmentation Training [(paper)](https://arxiv.org/abs/2510.03189) [(details)](#dynamic-prompt-generation-for-interactive-3d-med-5059610d) | None |
+| 202508 | Z. Zhao et al. | arXiv.org 2023 | Large-Vocabulary Segmentation for Medical Images with Text Prompts [(paper)](https://arxiv.org/abs/2312.17183) [(details)](#large-vocabulary-segmentation-for-medical-images-5ebf18ad) | [Code](https://github.com/zhaoziheng/SAT) |
+| 202507 | T. Tang et al. | arXiv.org 2025 | Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation [(paper)](https://arxiv.org/abs/2507.03585) [(details)](#causal-sam-llm-large-language-models-as-causal-r-34c7c7c5) | None |
+| 202507 | A. Zami et al. | arXiv.org 2025 | Prompt2SegCXR:Prompt to Segment All Organs and Diseases in Chest X-rays [(paper)](https://arxiv.org/abs/2507.00673) [(details)](#prompt2segcxr-prompt-to-segment-all-organs-and-d-dfdfb307) | None |
+| 202507 | Y. Sui et al. | BMC Medical Imaging 2025 | Cross-domain subcortical brain structure segmentation algorithm based on low-rank adaptation fine-tuning SAM [(paper)](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-025-01779-x) [(details)](#cross-domain-subcortical-brain-structure-segment-42c903d4) | None |
+| 202505 | M. Wang et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation [(paper)](https://ieeexplore.ieee.org/document/10981084/) [(details)](#efficient-fine-tuning-of-sam-for-interactive-med-5f57cc76) | None |
+| 202505 | H. Wang et al. | 33rd ACM International Conference on Multimedia 2025 | BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation [(paper)](https://dl.acm.org/doi/10.1145/3746027.3755230) [(details)](#brainsegdmlf-a-dynamic-fusion-enhanced-sam-for-b-e845d388) | None |
+| 202504 | J. Khlaut et al. | Lecture Notes in Computer Science 2026 | RadSAM: Segmenting 3D Radiological Images with a 2D Promptable Model [(paper)](https://link.springer.com/10.1007/978-3-032-04965-0_41) [(details)](#radsam-segmenting-3d-radiological-images-with-a-ed1f6d22) | None |
+| 202504 | T. Piater et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images [(paper)](https://ieeexplore.ieee.org/document/11147247/) [(details)](#prompt-tuning-sam-from-generalist-to-specialist-c0d1b0a3) | None |
+| 202504 | X. Zhou et al. | IEEE Journal of Biomedical and Health Informatics 2025 | MIT-SAM: Medical Image-Text SAM With Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10966035/) [(details)](#mit-sam-medical-image-text-sam-with-mutually-enh-49972513) | [Code](https://github.com/jojodan514/MIT-SAM) |
+| 202503 | F. Isensee et al. | arXiv.org 2025 | nnInteractive: Redefining 3D Promptable Segmentation [(paper)](https://arxiv.org/abs/2503.08373) [(details)](#nninteractive-redefining-3d-promptable-segmentat-dfc02114) | [Code](https://github.com/MIC-DKFZ/nnInteractive) |
+| 202502 | Y. Shen et al. | Computerized Medical Imaging and Graphics 2025 | ProtoSAM-3D: Interactive semantic segmentation in volumetric medical imaging via a Segment Anything Model and mask-level prototypes [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611125000102) [(details)](#protosam-3d-interactive-semantic-segmentation-in-dcf7fbf9) | None |
+| 202501 | J. Hu et al. | IEEE Journal of Biomedical and Health Informatics 2026 | SPA: Leveraging the SAM With Spatial Priors Adapter for Enhanced Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10829779/) [(details)](#spa-leveraging-the-sam-with-spatial-priors-adapt-6013f4a0) | None |
+| 202412 | HE. Wong et al. | arXiv.org 2024 | MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance [(paper)](https://arxiv.org/abs/2412.15058) [(details)](#multiverseg-scalable-interactive-segmentation-of-ea468651) | [Code](https://multiverseg.csail.mit.edu/) |
+| 202410 | Y. Huang et al. | Lecture Notes in Computer Science 2024 | Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_45) [(details)](#optimizing-efficiency-and-effectiveness-in-seque-1ed564bb) | None |
+| 202403 | Y. Liu et al. | Medical Imaging 2024: Image Processing | Segment Any Medical Model Extended [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3001069/Segment-any-medical-model-extended/10.1117/12.3001069.full) [(details)](#segment-any-medical-model-extended-730407eb) | None |
+| 202403 | H. Guo et al. | AAAI Conference on Artificial Intelligence 2025 | Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model Using 3D Whole-Body CT Scans [(paper)](https://ojs.aaai.org/index.php/AAAI/article/view/32335) [(details)](#towards-a-comprehensive-efficient-and-promptable-f5b7a56f) | None |
 | 202312 | HE. Wong et al. | 2023 | ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image [(paper)](https://arxiv.org/pdf/2312.07381.pdf) [(details)](#scribbleprompt-fast-and-flexible-interactive-seg-f554dddf) | [Code](https://scribbleprompt.csail.mit.edu) |
-| 202311 | Y. Du et al. | arXiv.org 2024 | SegVol: Universal and Interactive Volumetric Medical Image Segmentation [(paper)](https://doi.org/10.52202/079017-3516) [(details)](#segvol-universal-and-interactive-volumetric-medi-48019e92) | [Code](https://github.com/BAAI-DCAI/SegVol) |
-| 202311 | U. Israel et al. | arXiv (Cornell University) 2023 | A Foundation Model for Cell Segmentation [(paper)](http://arxiv.org/abs/2311.11004) [(details)](#a-foundation-model-for-cell-segmentation-2ad0446e) | [Code](https://label-dev.deepcell.org) |
-| 202308 | J. Cheng et al. | arXiv (Cornell University) 2023 | SAM-Med2D [(paper)](http://arxiv.org/abs/2308.16184) [(details)](#sam-med2d-5905b4d6) | [Code](https://github.com/uni-medical/SAM-Med2D) |
-| 202308 | A. Archit et al. | bioRxiv (Cold Spring Harbor Laboratory) 2023 | Segment Anything for Microscopy [(paper)](https://doi.org/10.1101/2023.08.21.554208) [(details)](#segment-anything-for-microscopy-f4a1a431) | [Code](https://github.com/computational-cell-analytics/micro-sam) |
-| 202305 | M. Hu et al. | arXiv (Cornell University) 2023 | BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images [(paper)](http://arxiv.org/abs/2305.12447) [(details)](#breastsam-a-study-of-segment-anything-model-for-112e7382) | None |
+| 202311 | Y. Du et al. | Advances in Neural Information Processing Systems 37 2024 | SegVol: Universal and Interactive Volumetric Medical Image Segmentation [(paper)](http://www.proceedings.com/079017-3516.html) [(details)](#segvol-universal-and-interactive-volumetric-medi-48019e92) | [Code](https://github.com/BAAI-DCAI/SegVol) |
+| 202311 | U. Israel et al. | Nature Methods 2025 | A Foundation Model for Cell Segmentation [(paper)](https://www.nature.com/articles/s41592-025-02879-w) [(details)](#a-foundation-model-for-cell-segmentation-2ad0446e) | [Code](https://label-dev.deepcell.org) |
+| 202308 | J. Cheng et al. | arXiv (Cornell University) 2023 | SAM-Med2D [(paper)](https://www.semanticscholar.org/paper/d7fb24b589f714cb237c05b2f5312c41f88cec68) [(details)](#sam-med2d-5905b4d6) | [Code](https://github.com/uni-medical/SAM-Med2D) |
+| 202308 | A. Archit et al. | Nature Methods 2025 | Segment Anything for Microscopy [(paper)](https://www.nature.com/articles/s41592-024-02580-4) [(details)](#segment-anything-for-microscopy-f4a1a431) | [Code](https://github.com/computational-cell-analytics/micro-sam) |
+| 202305 | M. Hu et al. | arXiv.org 2023 | BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images [(paper)](https://arxiv.org/abs/2305.12447) [(details)](#breastsam-a-study-of-segment-anything-model-for-112e7382) | None |
 | 202305 | J. Wu | 2023 | PromptUNet: Toward Interactive Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2305.10300.pdf) [(details)](#promptunet-toward-interactive-medical-image-segm-d4915601) | [Code](https://github.com/WuJunde/PromptUNet) |
-| 202304 | Y. Huang et al. | Medical Image Analysis 2023 | Segment anything model for medical images? [(paper)](https://doi.org/10.1016/j.media.2023.103061) [(details)](#segment-anything-model-for-medical-images-e7b667c2) | None |
+| 202304 | Y. Huang et al. | Medical Image Analysis 2024 | Segment anything model for medical images? [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841523003213) [(details)](#segment-anything-model-for-medical-images-e7b667c2) | None |
 >Updating continuously ...
 
 ### <div id="samothers">SAM 4OtherMIS.</div>
 
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
-| 202603 | J. Hasan et al. | Photoacoustics 2026 | FM-Adapt: Foundation model adaptation with photoacoustic-supervised learning for interventional ultrasound [(paper)](https://doi.org/10.1016/j.pacs.2026.100822) [(details)](#fm-adapt-foundation-model-adaptation-with-photoa-f5300d4a) | [Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation) |
-| 202603 | K. Borst et al. | ArXiv.org 2026 | Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study [(paper)](http://arxiv.org/abs/2603.13044) [(details)](#are-general-purpose-vision-models-all-we-need-fo-d6ba4ae7) | [Code](https://github.com/VanessaBorst/GPVision4MIS) |
-| 202603 | K. Phuntsho et al. | arXiv (Cornell University) 2026 | Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs [(paper)](http://arxiv.org/abs/2603.14271) [(details)](#toward-clinically-ready-foundation-models-in-med-8f3b99f1) | None |
-| 202603 | J. Tang et al. | IEEE Transactions on Medical Imaging 2026 | Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation [(paper)](https://doi.org/10.1109/tmi.2026.3674509) [(details)](#distillation-sam-knowledge-distillation-based-au-0e44c067) | None |
-| 202602 | C. Krishnan et al. | Medical & Biological Engineering & Computing 2026 | SynSAM: a hybrid synchronous learning framework with knowledge retention for prostate zonal segmentation leveraging the segment anything model [(paper)](https://doi.org/10.1007/s11517-026-03522-2) [(details)](#synsam-a-hybrid-synchronous-learning-framework-w-28886886) | None |
-| 202602 | M. Liu et al. | npj Digital Medicine 2026 | StructSAM: structure-aware prompt adaptation for robust lung cancer lesion segmentation in CT [(paper)](https://doi.org/10.1038/s41746-025-02306-6) [(details)](#structsam-structure-aware-prompt-adaptation-for-cde384cd) | None |
-| 202601 | S. Chattopadhyay et al. | arXiv (Cornell University) 2026 | On The Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts [(paper)](https://doi.org/10.48550/arxiv.2601.16383) [(details)](#on-the-robustness-of-foundational-3d-medical-ima-d79b0a59) | [Code](https://github.com/ucsdbiag/Prompt-Robustness-MedSegFMs) |
-| 202601 | S. Tang et al. | Computerized Medical Imaging and Graphics 2026 | TA-MedSAM: Text-augmented improved MedSAM for pulmonary lesion segmentation [(paper)](https://doi.org/10.1016/j.compmedimag.2026.102698) [(details)](#ta-medsam-text-augmented-improved-medsam-for-pul-06779358) | None |
-| 202601 | S. Ahn et al. | IEEE Open Journal of Signal Processing 2026 | Adaptability of Vision Foundation Models for 3D Medical Image Segmentation [(paper)](https://doi.org/10.1109/ojsp.2025.3650437) [(details)](#adaptability-of-vision-foundation-models-for-3d-b929776b) | None |
-| 202511 | Q. Tong et al. | ArXiv.org 2025 | MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images [(paper)](http://arxiv.org/abs/2511.12110) [(details)](#mediround-multi-round-entity-level-reasoning-seg-fd48fab0) | [Code](https://github.com/Edisonhimself/MediRound) |
-| 202511 | FP. Salanitri et al. | Pattern Recognition Letters 2025 | SAM-guided prompt learning for Multiple Sclerosis lesion segmentation [(paper)](https://doi.org/10.1016/j.patrec.2025.11.018) [(details)](#sam-guided-prompt-learning-for-multiple-sclerosi-959e8d70) | None |
-| 202511 | T. Jiang et al. | Expert Systems with Applications 2025 | UltraSAM: A foundational medical ultrasound segmentation model with limited training data [(paper)](https://doi.org/10.1016/j.eswa.2025.130223) [(details)](#ultrasam-a-foundational-medical-ultrasound-segme-7e0f4836) | None |
+| 202603 | J. Hasan et al. | Photoacoustics 2026 | FM-Adapt: Foundation model adaptation with photoacoustic-supervised learning for interventional ultrasound [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S2213597926000285) [(details)](#fm-adapt-foundation-model-adaptation-with-photoa-f5300d4a) | [Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation) |
+| 202603 | K. Borst et al. | arXiv.org 2026 | Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study [(paper)](https://arxiv.org/abs/2603.13044) [(details)](#are-general-purpose-vision-models-all-we-need-fo-d6ba4ae7) | [Code](https://github.com/VanessaBorst/GPVision4MIS) |
+| 202603 | K. Phuntsho et al. | arXiv.org 2026 | Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs [(paper)](https://arxiv.org/abs/2603.14271) [(details)](#toward-clinically-ready-foundation-models-in-med-8f3b99f1) | None |
+| 202603 | J. Tang et al. | IEEE Transactions on Medical Imaging 2026 | Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11436118/) [(details)](#distillation-sam-knowledge-distillation-based-au-0e44c067) | None |
+| 202602 | C. Krishnan et al. | Medical &amp; Biological Engineering &amp; Computing 2026 | SynSAM: a hybrid synchronous learning framework with knowledge retention for prostate zonal segmentation leveraging the segment anything model [(paper)](https://link.springer.com/10.1007/s11517-026-03522-2) [(details)](#synsam-a-hybrid-synchronous-learning-framework-w-28886886) | None |
+| 202602 | M. Liu et al. | npj Digital Medicine 2026 | StructSAM: structure-aware prompt adaptation for robust lung cancer lesion segmentation in CT [(paper)](https://www.nature.com/articles/s41746-025-02306-6) [(details)](#structsam-structure-aware-prompt-adaptation-for-cde384cd) | None |
+| 202601 | S. Chattopadhyay et al. | arXiv.org 2026 | On The Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts [(paper)](https://arxiv.org/abs/2601.16383) [(details)](#on-the-robustness-of-foundational-3d-medical-ima-d79b0a59) | [Code](https://github.com/ucsdbiag/Prompt-Robustness-MedSegFMs) |
+| 202601 | S. Tang et al. | Computerized Medical Imaging and Graphics 2026 | TA-MedSAM: Text-augmented improved MedSAM for pulmonary lesion segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611126000017) [(details)](#ta-medsam-text-augmented-improved-medsam-for-pul-06779358) | None |
+| 202601 | S. Ahn et al. | IEEE Open Journal of Signal Processing 2026 | Adaptability of Vision Foundation Models for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11321196/) [(details)](#adaptability-of-vision-foundation-models-for-3d-b929776b) | None |
+| 202511 | Q. Tong et al. | arXiv.org 2025 | MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images [(paper)](https://arxiv.org/abs/2511.12110) [(details)](#mediround-multi-round-entity-level-reasoning-seg-fd48fab0) | [Code](https://github.com/Edisonhimself/MediRound) |
+| 202511 | FP. Salanitri et al. | Pattern Recognition Letters 2026 | SAM-guided prompt learning for Multiple Sclerosis lesion segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0167865525003708) [(details)](#sam-guided-prompt-learning-for-multiple-sclerosi-959e8d70) | None |
+| 202511 | T. Jiang et al. | Expert Systems with Applications 2026 | UltraSAM: A foundational medical ultrasound segmentation model with limited training data [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0957417425038382) [(details)](#ultrasam-a-foundational-medical-ultrasound-segme-7e0f4836) | None |
 | 202511 | K. Moore et al. | arXiv.org 2025 | Not Quite Anything: Overcoming SAMs Limitations for 3D Medical Imaging [(paper)](https://arxiv.org/abs/2511.19471) [(details)](#not-quite-anything-overcoming-sams-limitations-f-27319768) | None |
 | 202510 | Y. Zhang et al. | arXiv.org 2025 | SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images [(paper)](https://arxiv.org/abs/2502.14351) [(details)](#seganypet-universal-promptable-segmentation-from-d9a8e251) | [Code](https://github.com/YichiZhang98/SegAnyPET) |
 | 202510 | J. Hu et al. | ArXiv.org 2025 | Neuroverse3D: Developing In-Context Learning Universal Model for Neuroimaging in 3D [(paper)](http://arxiv.org/abs/2503.02410) [(details)](#neuroverse3d-developing-in-context-learning-univ-e86c9f2e) | [Code](https://github.com/jiesihu/Neuroverse3D) |
-| 202510 | Y. Zhang et al. | 2025 | Enhancing the Reliability of Auto-Prompting SAM for Medical Image Segmentation with Uncertainty Estimation and Rectification [(paper)](https://doi.org/10.1109/iccvw69036.2025.00138) [(details)](#enhancing-the-reliability-of-auto-prompting-sam-d01ccbbf) | None |
-| 202510 | AK. Shibu et al. | 2025 | MedSAM-Guided Curriculum Learning for White Matter Tract Segmentation in Block Face Imaging of Fetal Brain [(paper)](https://doi.org/10.1109/iccvw69036.2025.00113) [(details)](#medsam-guided-curriculum-learning-for-white-matt-6ca94da7) | None |
-| 202510 | M. Attari et al. | 2025 | SAM-SPJunc: Self-Prompting for Junction Detection in Retinal Images via Radius-Based Representations [(paper)](https://doi.org/10.1109/iccvw69036.2025.00070) [(details)](#sam-spjunc-self-prompting-for-junction-detection-916aeb2f) | None |
-| 202510 | Y. Yang et al. | 2025 | FM2: Fusing multiple foundation models for pathology image analysis via disentangled consensus-divergence representation [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525009029) [(details)](#fm2-fusing-multiple-foundation-models-for-pathol-077cda3a) | None |
-| 202510 | Q. Xu et al. | arXiv.org 2025 | De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation [(paper)](https://arxiv.org/abs/2407.14153) [(details)](#de-lightsam-modality-decoupled-lightweight-sam-f-f94275f8) | [Code](https://github.com/xq141839/De-LightSAM) |
-| 202510 | Y. Yang et al. | ArXiv.org 2025 | SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2510.08967) [(details)](#sam2-3dmed-empowering-sam2-for-3d-medical-image-f661aa9e) | None |
-| 202509 | G. Zhang et al. | IEEE Journal of Biomedical and Health Informatics 2025 | IPLC+: SAM-Guided Iterative Pseudo Label Correction for Source-Free Domain Adaptation in Medical Image Segmentation [(paper)](https://doi.org/10.1109/jbhi.2025.3613497) [(details)](#iplc-sam-guided-iterative-pseudo-label-correctio-08e09c28) | [Code](https://github.com/HiLab-git/IPLC) |
+| 202510 | Y. Zhang et al. | 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | Enhancing the Reliability of Auto-Prompting SAM for Medical Image Segmentation with Uncertainty Estimation and Rectification [(paper)](https://ieeexplore.ieee.org/document/11374295/) [(details)](#enhancing-the-reliability-of-auto-prompting-sam-d01ccbbf) | None |
+| 202510 | AK. Shibu et al. | 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | MedSAM-Guided Curriculum Learning for White Matter Tract Segmentation in Block Face Imaging of Fetal Brain [(paper)](https://ieeexplore.ieee.org/document/11375167/) [(details)](#medsam-guided-curriculum-learning-for-white-matt-6ca94da7) | None |
+| 202510 | M. Attari et al. | 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | SAM-SPJunc: Self-Prompting for Junction Detection in Retinal Images via Radius-Based Representations [(paper)](https://ieeexplore.ieee.org/document/11375361/) [(details)](#sam-spjunc-self-prompting-for-junction-detection-916aeb2f) | None |
+| 202510 | Y. Yang et al. | Information Fusion 2026 | FM2: Fusing multiple foundation models for pathology image analysis via disentangled consensus-divergence representation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1566253525009029) [(details)](#fm2-fusing-multiple-foundation-models-for-pathol-077cda3a) | None |
+| 202510 | Q. Xu et al. | arXiv.org 2024 | De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation [(paper)](https://arxiv.org/abs/2407.14153) [(details)](#de-lightsam-modality-decoupled-lightweight-sam-f-f94275f8) | [Code](https://github.com/xq141839/De-LightSAM) |
+| 202510 | Y. Yang et al. | arXiv.org 2025 | SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2510.08967) [(details)](#sam2-3dmed-empowering-sam2-for-3d-medical-image-f661aa9e) | None |
+| 202509 | G. Zhang et al. | IEEE Journal of Biomedical and Health Informatics 2025 | IPLC+: SAM-Guided Iterative Pseudo Label Correction for Source-Free Domain Adaptation in Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11177220/) [(details)](#iplc-sam-guided-iterative-pseudo-label-correctio-08e09c28) | [Code](https://github.com/HiLab-git/IPLC) |
 | 202509 | Z. Liu et al. | arXiv.org 2025 | BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation [(paper)](https://arxiv.org/abs/2509.24204?) [(details)](#balr-sam-boundary-aware-low-rank-adaptation-of-s-b7576818) | None |
-| 202509 | J. Zhuang et al. | Lecture notes in computer science 2025 | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-3-032-04978-0_3) [(details)](#bio2vol-adapting-2d-biomedical-foundation-models-8d1e0f68) | [Code](https://github.com/JiaxinZhuang/Bio2Vol) |
-| 202509 | Z. Peng et al. | Lecture notes in computer science 2025 | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images [(paper)](https://doi.org/10.1007/978-3-032-04978-0_31) [(details)](#ha-sam-hierarchically-adapting-sam-for-nerve-seg-1b6df244) | None |
-| 202509 | Y. Wang et al. | Computerized Medical Imaging and Graphics 2025 | Collect vascular specimens in one cabinet: A hierarchical prompt-guided universal model for 3D vascular segmentation [(paper)](https://doi.org/10.1016/j.compmedimag.2025.102650) [(details)](#collect-vascular-specimens-in-one-cabinet-a-hier-c982a512) | [Code](https://github.com/mileswyn/VasCab) |
-| 202509 | Y. Zhang et al. | npj Digital Medicine 2025 | Embedded framework for clinical medical image segment anything in resource limited healthcare regions [(paper)](https://doi.org/10.1038/s41746-025-01881-y) [(details)](#embedded-framework-for-clinical-medical-image-se-f5b99baf) | [Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) |
-| 202509 | L. Li et al. | Cancer Medicine 2025 | Segment Anything Model for Gastric Cancer [(paper)](https://doi.org/10.1002/cam4.71246) [(details)](#segment-anything-model-for-gastric-cancer-5ee84a79) | None |
-| 202509 | Z. Tu et al. | Lecture notes in computer science 2025 | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos [(paper)](https://doi.org/10.1007/978-3-032-04937-7_52) [(details)](#spatial-temporal-memory-filtering-sam-for-lesion-b834589c) | [Code](https://github.com/tzz-ahu/STMFSAM) |
-| 202509 | R. Li et al. | Lecture notes in computer science 2025 | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts [(paper)](https://doi.org/10.1007/978-3-032-04937-7_35) [(details)](#moe-sam-enhancing-sam-for-medical-image-segmenta-85cf6d0f) | [Code](https://github.com/Asphyxiate-Rye/E-SAM) |
-| 202509 | Q. Li et al. | Lecture notes in computer science 2025 | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-Specific Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-3-032-04937-7_19) [(details)](#from-generalist-to-specialist-distilling-a-mixtu-0c769308) | None |
-| 202509 | M. Zhang et al. | Lecture notes in computer science 2025 | Towards Robust Retinal Vessel Segmentation via Reducing Open-Set Label Noises from SAM-Generated Masks [(paper)](https://doi.org/10.1007/978-3-032-04937-7_60) [(details)](#towards-robust-retinal-vessel-segmentation-via-r-53ad2453) | None |
-| 202509 | H. Su et al. | Lecture notes in computer science 2025 | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks [(paper)](https://doi.org/10.1007/978-3-032-05141-7_51) [(details)](#sparsely-annotated-medical-image-segmentation-vi-55970c6a) | [Code](https://github.com/CTSegPilot/SA-Net.git) |
-| 202509 | T. Wang et al. | ArXiv.org 2025 | pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2509.15638) [(details)](#pfedsam-personalized-federated-learning-of-segme-9fef3358) | None |
-| 202509 | D. Chen et al. | Lecture notes in computer science 2025 | SAMTNU: Adaptive Segment Anything Model for Thyroid and Nodule Ultrasound Image Segmentation [(paper)](https://doi.org/10.1007/978-3-032-04546-1_29) [(details)](#samtnu-adaptive-segment-anything-model-for-thyro-a848035d) | None |
-| 202509 | X. Zhang et al. | IEEE Journal of Biomedical and Health Informatics 2025 | Leveraging Multi-Text Joint Prompts in SAM for Robust Medical Image Segmentation [(paper)](https://doi.org/10.1109/jbhi.2025.3607023) [(details)](#leveraging-multi-text-joint-prompts-in-sam-for-r-01d9134a) | None |
-| 202509 | T. Ward et al. | arXiv.org 2026 | A probabilistic segment anything model for ambiguity‑aware medical image segmentation [(paper)](https://doi.org/10.1117/12.3086125) [(details)](#a-probabilistic-segment-anything-model-for-ambig-5c3f73e2) | [Code](https://github.com/tbwa233/Probabilistic-SAM) |
-| 202509 | X. Yu et al. | Computers in Biology and Medicine 2025 | Medical SAM-Clip Grafting for brain tumor segmentation [(paper)](https://doi.org/10.1016/j.compbiomed.2025.110928) [(details)](#medical-sam-clip-grafting-for-brain-tumor-segmen-0c4d4351) | None |
-| 202508 | X. Sun et al. | 2025 | MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation [(paper)](https://doi.org/10.1109/icip55913.2025.11084537) [(details)](#mfb-sac-a-multi-scale-frequency-and-boundary-enh-790e1d91) | [Code](https://github.com/Mrliujunwen/SAC) |
-| 202508 | G. Jin et al. | Neural Networks 2025 | Enhancing feature discrimination with pseudo-labels for foundation model in segmentation of 3D medical images [(paper)](https://doi.org/10.1016/j.neunet.2025.107979) [(details)](#enhancing-feature-discrimination-with-pseudo-lab-b40b4f94) | [Code](https://github.com/lonezhizi/PESF) |
-| 202508 | G. Zheng et al. | Biomedical Signal Processing and Control 2025 | Enhancing Segment Anything Model with spatial context and textural detail for cardiac MRI segmentation [(paper)](https://doi.org/10.1016/j.bspc.2025.108437) [(details)](#enhancing-segment-anything-model-with-spatial-co-5ff547ec) | [Code](https://github.com/LZUzgw/CD-SAM) |
-| 202508 | Z. Wu et al. | arXiv.org 2025 | Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model [(paper)](https://arxiv.org/abs/2508.09645) [(details)](#multi-sequence-parotid-gland-lesion-segmentation-3b5092d8) | None |
-| 202508 | R. Bhayana et al. | Radiology 2025 | Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification [(paper)](https://doi.org/10.1148/radiol.252185) [(details)](#segment-anything-in-the-ovary-toward-scalable-ai-d36d0717) | None |
+| 202509 | J. Zhuang et al. | Lecture Notes in Computer Science 2026 | Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-04978-0_3) [(details)](#bio2vol-adapting-2d-biomedical-foundation-models-8d1e0f68) | [Code](https://github.com/JiaxinZhuang/Bio2Vol) |
+| 202509 | Z. Peng et al. | Lecture Notes in Computer Science 2026 | HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images [(paper)](https://link.springer.com/10.1007/978-3-032-04978-0_31) [(details)](#ha-sam-hierarchically-adapting-sam-for-nerve-seg-1b6df244) | None |
+| 202509 | Y. Wang et al. | Computerized Medical Imaging and Graphics 2025 | Collect vascular specimens in one cabinet: A hierarchical prompt-guided universal model for 3D vascular segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001594) [(details)](#collect-vascular-specimens-in-one-cabinet-a-hier-c982a512) | [Code](https://github.com/mileswyn/VasCab) |
+| 202509 | Y. Zhang et al. | npj Digital Medicine 2025 | Embedded framework for clinical medical image segment anything in resource limited healthcare regions [(paper)](https://www.nature.com/articles/s41746-025-01881-y) [(details)](#embedded-framework-for-clinical-medical-image-se-f5b99baf) | [Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images) |
+| 202509 | L. Li et al. | Cancer Medicine 2025 | Segment Anything Model for Gastric Cancer [(paper)](https://onlinelibrary.wiley.com/doi/10.1002/cam4.71246) [(details)](#segment-anything-model-for-gastric-cancer-5ee84a79) | None |
+| 202509 | Z. Tu et al. | Lecture Notes in Computer Science 2026 | Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos [(paper)](https://link.springer.com/10.1007/978-3-032-04937-7_52) [(details)](#spatial-temporal-memory-filtering-sam-for-lesion-b834589c) | [Code](https://github.com/tzz-ahu/STMFSAM) |
+| 202509 | R. Li et al. | Lecture Notes in Computer Science 2026 | MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts [(paper)](https://link.springer.com/10.1007/978-3-032-04937-7_35) [(details)](#moe-sam-enhancing-sam-for-medical-image-segmenta-85cf6d0f) | [Code](https://github.com/Asphyxiate-Rye/E-SAM) |
+| 202509 | Q. Li et al. | Lecture Notes in Computer Science 2026 | From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-Specific Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-04937-7_19) [(details)](#from-generalist-to-specialist-distilling-a-mixtu-0c769308) | None |
+| 202509 | M. Zhang et al. | Lecture Notes in Computer Science 2026 | Towards Robust Retinal Vessel Segmentation via Reducing Open-Set Label Noises from SAM-Generated Masks [(paper)](https://link.springer.com/10.1007/978-3-032-04937-7_60) [(details)](#towards-robust-retinal-vessel-segmentation-via-r-53ad2453) | None |
+| 202509 | H. Su et al. | Lecture Notes in Computer Science 2026 | Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks [(paper)](https://link.springer.com/10.1007/978-3-032-05141-7_51) [(details)](#sparsely-annotated-medical-image-segmentation-vi-55970c6a) | [Code](https://github.com/CTSegPilot/SA-Net.git) |
+| 202509 | T. Wang et al. | arXiv.org 2025 | pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation [(paper)](https://arxiv.org/abs/2509.15638) [(details)](#pfedsam-personalized-federated-learning-of-segme-9fef3358) | None |
+| 202509 | D. Chen et al. | Lecture Notes in Computer Science 2026 | SAMTNU: Adaptive Segment Anything Model for Thyroid and Nodule Ultrasound Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-04546-1_29) [(details)](#samtnu-adaptive-segment-anything-model-for-thyro-a848035d) | None |
+| 202509 | X. Zhang et al. | IEEE Journal of Biomedical and Health Informatics 2026 | Leveraging Multi-Text Joint Prompts in SAM for Robust Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11153032/) [(details)](#leveraging-multi-text-joint-prompts-in-sam-for-r-01d9134a) | None |
+| 202509 | T. Ward et al. | Medical Imaging 2026: Imaging Informatics | A probabilistic segment anything model for ambiguity‑aware medical image segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13930/3086125/A-probabilistic-segment-anything-model-for-ambiguityaware-medical-image-segmentation/10.1117/12.3086125.full) [(details)](#a-probabilistic-segment-anything-model-for-ambig-5c3f73e2) | [Code](https://github.com/tbwa233/Probabilistic-SAM) |
+| 202509 | X. Yu et al. | Computers in Biology and Medicine 2025 | Medical SAM-Clip Grafting for brain tumor segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0010482525012806) [(details)](#medical-sam-clip-grafting-for-brain-tumor-segmen-0c4d4351) | None |
+| 202508 | X. Sun et al. | 2025 IEEE International Conference on Image Processing (ICIP) | MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation [(paper)](https://ieeexplore.ieee.org/document/11084537/) [(details)](#mfb-sac-a-multi-scale-frequency-and-boundary-enh-790e1d91) | [Code](https://github.com/Mrliujunwen/SAC) |
+| 202508 | G. Jin et al. | Neural Networks 2026 | Enhancing feature discrimination with pseudo-labels for foundation model in segmentation of 3D medical images [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0893608025008603) [(details)](#enhancing-feature-discrimination-with-pseudo-lab-b40b4f94) | [Code](https://github.com/lonezhizi/PESF) |
+| 202508 | G. Zheng et al. | Biomedical Signal Processing and Control 2026 | Enhancing Segment Anything Model with spatial context and textural detail for cardiac MRI segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1746809425009486) [(details)](#enhancing-segment-anything-model-with-spatial-co-5ff547ec) | [Code](https://github.com/LZUzgw/CD-SAM) |
+| 202508 | Z. Wu et al. | Expert Systems with Applications 2026 | Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0957417426012819) [(details)](#multi-sequence-parotid-gland-lesion-segmentation-3b5092d8) | None |
+| 202508 | R. Bhayana et al. | Radiology 2025 | Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification [(paper)](http://pubs.rsna.org/doi/10.1148/radiol.252185) [(details)](#segment-anything-in-the-ovary-toward-scalable-ai-d36d0717) | None |
 | 202508 | Y. Wu et al. | 2025 | SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models [(paper)](https://arxiv.org/pdf/2508.02464) [(details)](#sampo-visual-preference-optimization-for-intent-7385e93a) | None |
 | 202507 | A. Roy et al. | arXiv.org 2025 | Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation? [(paper)](https://arxiv.org/abs/2507.19575) [(details)](#is-exchangeability-better-than-i-i-d-to-handle-d-1a2c57e5) | [Code](https://github.com/AyushRoy2001/Exchangeable-feature-disentanglement) |
-| 202507 | H. Zhuo et al. | ArXiv.org 2025 | Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation [(paper)](http://arxiv.org/abs/2507.17281) [(details)](#fully-automated-sam-for-single-source-domain-gen-b0bff5d1) | None |
-| 202507 | W. Zhou et al. | Lecture notes in computer science 2025 | KD-MedSAM: Lightweight Knowledge Distillation of Segment Anything Model for Multi-modality Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-981-95-0036-9_31) [(details)](#kd-medsam-lightweight-knowledge-distillation-of-7e8a54c6) | None |
-| 202507 | C. Guo et al. | Research Square 2025 | ZAP-2.5DSAM: Zero Additional Parameters Advancing 2.5D SAM Adaptation to 3D Tumor Segmentation [(paper)](https://doi.org/10.21203/rs.3.rs-6916638/v1) [(details)](#zap-2-5dsam-zero-additional-parameters-advancing-dddb917c) | [Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git) |
-| 202507 | Z. Yan et al. | ArXiv.org 2025 | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model [(paper)](http://arxiv.org/abs/2507.03698) [(details)](#samed-2-selective-memory-enhanced-medical-segmen-2e0b83a2) | [Code](https://github.com/ZhilingYan/Medical-SAM-Bench) |
-| 202507 | S. Zhu et al. | Knowledge-Based Systems 2025 | Visual prompt-driven universal model for medical image segmentation in radiotherapy [(paper)](https://doi.org/10.1016/j.knosys.2025.114006) [(details)](#visual-prompt-driven-universal-model-for-medical-8d3b9d6f) | None |
+| 202507 | H. Zhuo et al. | 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) | Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11343166/) [(details)](#fully-automated-sam-for-single-source-domain-gen-b0bff5d1) | None |
+| 202507 | W. Zhou et al. | Lecture Notes in Computer Science 2025 | KD-MedSAM: Lightweight Knowledge Distillation of Segment Anything Model for Multi-modality Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-981-95-0036-9_31) [(details)](#kd-medsam-lightweight-knowledge-distillation-of-7e8a54c6) | None |
+| 202507 | C. Guo et al. | The Visual Computer 2025 | ZAP-2.5DSAM: Zero Additional Parameters Advancing 2.5D SAM Adaptation to 3D Tumor Segmentation [(paper)](https://link.springer.com/10.1007/s00371-025-04092-4) [(details)](#zap-2-5dsam-zero-additional-parameters-advancing-dddb917c) | [Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git) |
+| 202507 | Z. Yan et al. | Lecture Notes in Computer Science 2026 | SAMed-2: Selective Memory Enhanced Medical Segment Anything Model [(paper)](https://link.springer.com/10.1007/978-3-032-05169-1_52) [(details)](#samed-2-selective-memory-enhanced-medical-segmen-2e0b83a2) | [Code](https://github.com/ZhilingYan/Medical-SAM-Bench) |
+| 202507 | S. Zhu et al. | Knowledge-Based Systems 2025 | Visual prompt-driven universal model for medical image segmentation in radiotherapy [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0950705125010512) [(details)](#visual-prompt-driven-universal-model-for-medical-8d3b9d6f) | None |
 | 202506 | P. Tian et al. | arXiv.org 2025 | MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation [(paper)](https://arxiv.org/abs/2506.23700) [(details)](#medsam-ca-a-cnn-augmented-vit-with-attention-enh-fea93cb8) | None |
-| 202506 | X. Han et al. | Computer Vision and Image Understanding 2025 | Improving a segment anything model for segmenting low-quality medical images via an adapter [(paper)](https://doi.org/10.1016/j.cviu.2025.104425) [(details)](#improving-a-segment-anything-model-for-segmentin-1d0cfc4e) | None |
-| 202506 | Y. Zhang et al. | npj Digital Medicine 2025 | Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images [(paper)](https://doi.org/10.1038/s41746-025-01756-2) [(details)](#generalist-medical-foundation-model-improves-pro-c033b073) | [Code](https://github.com/ZhangYH0502/PCaSAM) |
-| 202506 | Y. Huang et al. | ArXiv.org 2025 | MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models [(paper)](http://arxiv.org/abs/2506.10465) [(details)](#medseg-r-reasoning-segmentation-in-medical-image-41d835eb) | None |
-| 202506 | S. Chang et al. | 2025 | Unified Medical Lesion Segmentation via Self-referring Indicator [(paper)](https://doi.org/10.1109/cvpr52734.2025.00974) [(details)](#unified-medical-lesion-segmentation-via-self-ref-b2480d24) | None |
-| 202506 | J. Wu et al. | ArXiv.org 2025 | SAM-aware Test-time Adaptation for Universal Medical Image Segmentation [(paper)](http://arxiv.org/abs/2506.05221) [(details)](#sam-aware-test-time-adaptation-for-universal-med-2935270e) | None |
-| 202505 | M. Colussi et al. | ArXiv.org 2025 | MIAS-SAM: Medical Image Anomaly Segmentation without thresholding [(paper)](http://arxiv.org/abs/2505.22762) [(details)](#mias-sam-medical-image-anomaly-segmentation-with-bf786cc6) | [Code](https://github.com/warpcut/MIAS-SAM) |
+| 202506 | X. Han et al. | Computer Vision and Image Understanding 2025 | Improving a segment anything model for segmenting low-quality medical images via an adapter [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1077314225001481) [(details)](#improving-a-segment-anything-model-for-segmentin-1d0cfc4e) | None |
+| 202506 | Y. Zhang et al. | npj Digital Medicine 2025 | Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images [(paper)](https://www.nature.com/articles/s41746-025-01756-2) [(details)](#generalist-medical-foundation-model-improves-pro-c033b073) | [Code](https://github.com/ZhangYH0502/PCaSAM) |
+| 202506 | Y. Huang et al. | arXiv.org 2025 | MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models [(paper)](https://arxiv.org/abs/2506.10465) [(details)](#medseg-r-reasoning-segmentation-in-medical-image-41d835eb) | None |
+| 202506 | S. Chang et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Unified Medical Lesion Segmentation via Self-referring Indicator [(paper)](https://ieeexplore.ieee.org/document/11094651/) [(details)](#unified-medical-lesion-segmentation-via-self-ref-b2480d24) | None |
+| 202506 | J. Wu et al. | arXiv.org 2025 | SAM-aware Test-time Adaptation for Universal Medical Image Segmentation [(paper)](https://arxiv.org/abs/2506.05221) [(details)](#sam-aware-test-time-adaptation-for-universal-med-2935270e) | None |
+| 202505 | M. Colussi et al. | arXiv.org 2025 | MIAS-SAM: Medical Image Anomaly Segmentation without thresholding [(paper)](https://arxiv.org/abs/2505.22762) [(details)](#mias-sam-medical-image-anomaly-segmentation-with-bf786cc6) | [Code](https://github.com/warpcut/MIAS-SAM) |
 | 202505 | QH. Trinh et al. | 2025 | PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging [(paper)](https://arxiv.org/pdf/2505.11872) [(details)](#prs-med-position-reasoning-segmentation-with-vis-36ef2373) | None |
-| 202505 | SJ. Simons et al. | arXiv (Cornell University) 2024 | SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation [(paper)](http://arxiv.org/abs/2411.00326) [(details)](#spinefm-leveraging-foundation-models-for-automat-038a349a) | None |
-| 202505 | Y. Yao et al. | 2025 | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training [(paper)](https://doi.org/10.1109/isbi60581.2025.10980758) [(details)](#dasam-medical-domain-adaptation-of-segment-anyth-8eb588ce) | None |
-| 202505 | J. Zhang et al. | 2025 | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images [(paper)](https://doi.org/10.1109/isbi60581.2025.10981134) [(details)](#asam-anatomy-encoded-segment-anything-model-for-b4844539) | None |
-| 202505 | J. Lyu et al. | 2025 | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation [(paper)](https://doi.org/10.1109/isbi60581.2025.10981185) [(details)](#vss-sam-visual-state-space-enhanced-sam-for-3d-m-724e652b) | None |
-| 202505 | D. Lee et al. | 2025 | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM [(paper)](https://doi.org/10.1109/isbi60581.2025.10981074) [(details)](#sam3x-efficient-3d-aware-network-for-medical-ima-59371829) | [Code](https://github.com/SSTDV-Project/SAM3X) |
-| 202505 | AM. Rickmann et al. | Lecture notes in computer science 2025 | Using Foundation Models as Pseudo-label Generators for Pre-clinical 4D Cardiac CT Segmentation [(paper)](https://doi.org/10.1007/978-3-031-94562-5_23) [(details)](#using-foundation-models-as-pseudo-label-generato-41bfbb62) | None |
-| 202505 | Z. Wu et al. | Scientific Reports 2025 | Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology [(paper)](https://doi.org/10.1038/s41598-025-99278-0) [(details)](#integrating-sam-priors-with-u-net-for-enhanced-m-20b0cf44) | None |
-| 202505 | T. Li et al. | The Visual Computer 2025 | TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation [(paper)](https://doi.org/10.1007/s00371-025-03892-y) [(details)](#tp-sa3m-text-prompts-assisted-sam-for-myopic-mac-13283592) | None |
-| 202505 | Z. Chen et al. | Medical Image Analysis 2025 | UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images [(paper)](https://doi.org/10.1016/j.media.2025.103607) [(details)](#un-sam-domain-adaptive-self-prompt-segmentation-7f8ac935) | [Code](https://github.com/CUHK-AIM-Group/UN-SAM) |
-| 202504 | U. Shah et al. | arXiv.org 2025 | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks [(paper)](https://arxiv.org/abs/2504.21544) [(details)](#sam4em-efficient-memory-based-two-stage-prompt-f-35353866) | [Code](https://github.com/Uzshah/SAM4EM) |
-| 202504 | X. Yan et al. | Computerized Medical Imaging and Graphics 2025 | ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network [(paper)](https://doi.org/10.1016/j.compmedimag.2025.102555) [(details)](#ica-samv7-internal-carotid-artery-segmentation-w-7dcb6a62) | [Code](https://github.com/BessiePei/ICA-SAMv7) |
-| 202504 | L. Yu et al. | Computers in Biology and Medicine 2025 | BUS-M2AE: Multi-scale Masked Autoencoder for Breast Ultrasound Image Analysis [(paper)](https://doi.org/10.1016/j.compbiomed.2025.110159) [(details)](#bus-m2ae-multi-scale-masked-autoencoder-for-brea-6da6c05e) | None |
-| 202504 | N. Zhang et al. | Scientific Reports 2025 | A prediction method for radiation proctitis based on SAM-Med2D model [(paper)](https://doi.org/10.1038/s41598-025-87409-6) [(details)](#a-prediction-method-for-radiation-proctitis-base-950580d7) | None |
-| 202503 | T. Huang et al. | IEEE Transactions on Medical Imaging 2025 | On-the-Fly Improving Segment Anything for Medical Image Segmentation Using Auxiliary Online Learning [(paper)](https://doi.org/10.1109/tmi.2025.3548985) [(details)](#on-the-fly-improving-segment-anything-for-medica-80e5227f) | [Code](https://sam-auxol.github.io/AuxOL) |
-| 202502 | F. Tian et al. | Journal of Medical Imaging 2025 | SAM-MedUS: a foundational model for universal ultrasound image segmentation [(paper)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11865838/) [(details)](#sam-medus-a-foundational-model-for-universal-ult-ca729db9) | None |
-| 202502 | A. Iltaf et al. | arXiv.org 2025 | VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention [(paper)](https://doi.org/10.36227/techrxiv.174234663.37696124/v1) [(details)](#vesselsam-leveraging-sam-for-aortic-vessel-segme-61efefd8) | [Code](https://github.com/Adnan-CAS/AtrousLora) |
+| 202505 | SJ. Simons et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation [(paper)](https://ieeexplore.ieee.org/document/10980854/) [(details)](#spinefm-leveraging-foundation-models-for-automat-038a349a) | None |
+| 202505 | Y. Yao et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training [(paper)](https://ieeexplore.ieee.org/document/10980758/) [(details)](#dasam-medical-domain-adaptation-of-segment-anyth-8eb588ce) | None |
+| 202505 | J. Zhang et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | ASAM: Anatomy-Encoded Segment Anything Model for Medical Images [(paper)](https://ieeexplore.ieee.org/document/10981134/) [(details)](#asam-anatomy-encoded-segment-anything-model-for-b4844539) | None |
+| 202505 | J. Lyu et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10981185/) [(details)](#vss-sam-visual-state-space-enhanced-sam-for-3d-m-724e652b) | None |
+| 202505 | D. Lee et al. | 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI) | SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM [(paper)](https://ieeexplore.ieee.org/document/10981074/) [(details)](#sam3x-efficient-3d-aware-network-for-medical-ima-59371829) | [Code](https://github.com/SSTDV-Project/SAM3X) |
+| 202505 | AM. Rickmann et al. | Lecture Notes in Computer Science 2025 | Using Foundation Models as Pseudo-label Generators for Pre-clinical 4D Cardiac CT Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-94562-5_23) [(details)](#using-foundation-models-as-pseudo-label-generato-41bfbb62) | None |
+| 202505 | Z. Wu et al. | Scientific Reports 2025 | Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology [(paper)](https://www.nature.com/articles/s41598-025-99278-0) [(details)](#integrating-sam-priors-with-u-net-for-enhanced-m-20b0cf44) | None |
+| 202505 | T. Li et al. | The Visual Computer 2025 | TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation [(paper)](https://link.springer.com/10.1007/s00371-025-03892-y) [(details)](#tp-sa3m-text-prompts-assisted-sam-for-myopic-mac-13283592) | None |
+| 202505 | Z. Chen et al. | Medical Image Analysis 2025 | UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525001549) [(details)](#un-sam-domain-adaptive-self-prompt-segmentation-7f8ac935) | [Code](https://github.com/CUHK-AIM-Group/UN-SAM) |
+| 202504 | U. Shah et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks [(paper)](https://ieeexplore.ieee.org/document/11147546/) [(details)](#sam4em-efficient-memory-based-two-stage-prompt-f-35353866) | [Code](https://github.com/Uzshah/SAM4EM) |
+| 202504 | X. Yan et al. | Computerized Medical Imaging and Graphics 2025 | ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0895611125000643) [(details)](#ica-samv7-internal-carotid-artery-segmentation-w-7dcb6a62) | [Code](https://github.com/BessiePei/ICA-SAMv7) |
+| 202504 | L. Yu et al. | Computers in Biology and Medicine 2025 | BUS-M2AE: Multi-scale Masked Autoencoder for Breast Ultrasound Image Analysis [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0010482525005104) [(details)](#bus-m2ae-multi-scale-masked-autoencoder-for-brea-6da6c05e) | None |
+| 202504 | N. Zhang et al. | Scientific Reports 2025 | A prediction method for radiation proctitis based on SAM-Med2D model [(paper)](https://www.nature.com/articles/s41598-025-87409-6) [(details)](#a-prediction-method-for-radiation-proctitis-base-950580d7) | None |
+| 202503 | T. Huang et al. | IEEE Transactions on Medical Imaging 2025 | On-the-Fly Improving Segment Anything for Medical Image Segmentation Using Auxiliary Online Learning [(paper)](https://ieeexplore.ieee.org/document/10916782/) [(details)](#on-the-fly-improving-segment-anything-for-medica-80e5227f) | [Code](https://sam-auxol.github.io/AuxOL) |
+| 202502 | F. Tian et al. | Journal of Medical Imaging 2025 | SAM-MedUS: a foundational model for universal ultrasound image segmentation [(paper)](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-02/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.full) [(details)](#sam-medus-a-foundational-model-for-universal-ult-ca729db9) | None |
+| 202502 | A. Iltaf et al. | arXiv.org 2025 | VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention [(paper)](https://www.semanticscholar.org/paper/38315e5a5cb7bcc1c9dd09d5134e91c4055a4119) [(details)](#vesselsam-leveraging-sam-for-aortic-vessel-segme-61efefd8) | [Code](https://github.com/Adnan-CAS/AtrousLora) |
 | 202502 | Y. Zhang et al. | arXiv.org 2025 | SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images [(paper)](https://arxiv.org/abs/2502.14351) [(details)](#seganypet-universal-promptable-segmentation-from-d9a8e251) | [Code](https://github.com/YichiZhang98/SegAnyPET) |
-| 202502 | P. Huang et al. | ArXiv.org 2025 | Diffusion-empowered AutoPrompt MedSAM [(paper)](http://arxiv.org/abs/2502.06817) [(details)](#diffusion-empowered-autoprompt-medsam-4b7c91c8) | [Code](https://github.com/HP-ML/AutoPromptMedSAM) |
-| 202412 | D. Fan et al. | IEEE Transactions on Medical Imaging 2025 | MA-SAM: A Multi-Atlas Guided SAM Using Pseudo Mask Prompts Without Manual Annotation for Spine Image Segmentation [(paper)](https://doi.org/10.1109/tmi.2024.3524570) [(details)](#ma-sam-a-multi-atlas-guided-sam-using-pseudo-mas-04ced7b1) | [Code](https://github.com/findingway221/ma-sam) |
-| 202412 | Y. Wu et al. | Knowledge-Based Systems 2024 | Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning [(paper)](https://doi.org/10.1016/j.knosys.2024.112909) [(details)](#trans-sam-transfer-segment-anything-model-to-med-8e23b0cc) | [Code](https://github.com/wuyanlin-wyl/Trans-SAM) |
-| 202412 | F. Zhong et al. | IEEE Access 2024 | MEAT-SAM: More Efficient Automated Tongue Segmentation Model [(paper)](https://doi.org/10.1109/access.2024.3522961) [(details)](#meat-sam-more-efficient-automated-tongue-segment-7735959a) | None |
-| 202412 | S. Huang et al. | arXiv (Cornell University) 2024 | SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation [(paper)](http://arxiv.org/abs/2412.12660) [(details)](#seg-sam-semantic-guided-sam-for-unified-medical-3976b888) | None |
+| 202502 | P. Huang et al. | arXiv.org 2025 | Diffusion-empowered AutoPrompt MedSAM [(paper)](https://arxiv.org/abs/2502.06817) [(details)](#diffusion-empowered-autoprompt-medsam-4b7c91c8) | [Code](https://github.com/HP-ML/AutoPromptMedSAM) |
+| 202412 | D. Fan et al. | IEEE Transactions on Medical Imaging 2025 | MA-SAM: A Multi-Atlas Guided SAM Using Pseudo Mask Prompts Without Manual Annotation for Spine Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10819446/) [(details)](#ma-sam-a-multi-atlas-guided-sam-using-pseudo-mas-04ced7b1) | [Code](https://github.com/findingway221/ma-sam) |
+| 202412 | Y. Wu et al. | Knowledge-Based Systems 2025 | Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0950705124015430) [(details)](#trans-sam-transfer-segment-anything-model-to-med-8e23b0cc) | [Code](https://github.com/wuyanlin-wyl/Trans-SAM) |
+| 202412 | F. Zhong et al. | IEEE Access 2025 | MEAT-SAM: More Efficient Automated Tongue Segmentation Model [(paper)](https://ieeexplore.ieee.org/document/10816397/) [(details)](#meat-sam-more-efficient-automated-tongue-segment-7735959a) | None |
+| 202412 | S. Huang et al. | arXiv.org 2024 | SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation [(paper)](https://arxiv.org/abs/2412.12660) [(details)](#seg-sam-semantic-guided-sam-for-unified-medical-3976b888) | None |
 | 202412 | Y. Luo et al. | 2024 | Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2412.08575) [(details)](#med-fastsam-improving-transfer-efficiency-of-sam-55b255cc) | [Code](https://github.com/GalacticHogrider/Med-FastSAM) |
-| 202412 | X. Gao et al. | arXiv (Cornell University) 2024 | RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2412.05605) [(details)](#refsam3d-adapting-sam-with-cross-modal-reference-76cfbf8f) | None |
-| 202412 | J. Hu et al. | arXiv (Cornell University) 2024 | EchoONE: Segmenting Multiple echocardiography Planes in One Model [(paper)](http://arxiv.org/abs/2412.02993) [(details)](#echoone-segmenting-multiple-echocardiography-pla-1e7de2bd) | [Code](https://github.com/a2502503/EchoONE) |
-| 202411 | Y. Fu et al. | arXiv (Cornell University) 2024 | CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation [(paper)](http://arxiv.org/abs/2411.10136) [(details)](#cosam-self-correcting-sam-for-domain-generalizat-f04b0bf4) | None |
+| 202412 | X. Gao et al. | arXiv.org 2024 | RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2412.05605) [(details)](#refsam3d-adapting-sam-with-cross-modal-reference-76cfbf8f) | None |
+| 202412 | J. Hu et al. | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | EchoONE: Segmenting Multiple echocardiography Planes in One Model [(paper)](https://ieeexplore.ieee.org/document/11092827/) [(details)](#echoone-segmenting-multiple-echocardiography-pla-1e7de2bd) | [Code](https://github.com/a2502503/EchoONE) |
+| 202411 | Y. Fu et al. | arXiv.org 2024 | CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2411.10136) [(details)](#cosam-self-correcting-sam-for-domain-generalizat-f04b0bf4) | None |
 | 202411 | J. Huo et al. | 2024 | SAM-I2I: Unleash The Power of Segment Anything Model for Medical Image Trnslation [(paper)](https://arxiv.org/pdf/2411.12755) [(details)](#sam-i2i-unleash-the-power-of-segment-anything-mo-c6105521) | None |
-| 202410 | X. Ouyang et al. | Communications Engineering 2024 | Towards a general computed tomography image segmentation model for anatomical structures and lesions [(paper)](https://doi.org/10.1038/s44172-024-00287-0) [(details)](#towards-a-general-computed-tomography-image-segm-356e99f9) | None |
-| 202410 | Y. Li et al. | Medical Physics 2024 | Plug‐and‐play segment anything model improves nnUNet performance [(paper)](https://doi.org/10.1002/mp.17481) [(details)](#plug-and-play-segment-anything-model-improves-nn-96725226) | [Code](https://github.com/Kent0n-Li/nnSAM) |
-| 202410 | J. Wei et al. | Medical Image Analysis 2025 | SAM-Swin: SAM-driven dual-swin transformers with adaptive lesion enhancement for Laryngo-Pharyngeal tumor detection [(paper)](https://doi.org/10.1016/j.media.2025.103906) [(details)](#sam-swin-sam-driven-dual-swin-transformers-with-2335ca25) | [Code](https://github.com/VVJia/SAM-Swin) |
-| 202410 | C. Qin et al. | arXiv (Cornell University) 2024 | DB-SAM: Delving into High Quality Universal Medical Image Segmentation [(paper)](http://arxiv.org/abs/2410.04172) [(details)](#db-sam-delving-into-high-quality-universal-medic-ee292d4a) | [Code](https://github.com/AlfredQin/DB-SAM) |
-| 202410 | Z. Wei et al. | arXiv (Cornell University) 2024 | Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation [(paper)](http://arxiv.org/abs/2409.12522) [(details)](#prompting-segment-anything-model-with-domain-ada-d02bae02) | [Code](https://github.com/wkklavis/DAPSAM) |
-| 202410 | Y. Liu et al. | arXiv (Cornell University) 2024 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2403.05408) [(details)](#fedfms-exploring-federated-foundation-models-for-c31a08c8) | [Code](https://github.com/LIU-YUXI/FedFMS) |
-| 202410 | F. Lyu et al. | Lecture notes in computer science 2024 | Superpixel-Guided Segment Anything Model for Liver Tumor Segmentation with Couinaud Segment Prompt [(paper)](https://doi.org/10.1007/978-3-031-72111-3_64) [(details)](#superpixel-guided-segment-anything-model-for-liv-9d8d0aba) | None |
-| 202410 | H. Shi et al. | arXiv (Cornell University) 2024 | Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation [(paper)](http://arxiv.org/abs/2403.05912) [(details)](#mask-enhanced-segment-anything-model-for-tumor-l-ba252d79) | [Code](https://github.com/nanase1025/M-SAM) |
-| 202410 | W. Li et al. | arXiv (Cornell University) 2024 | TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM [(paper)](http://arxiv.org/abs/2406.15764) [(details)](#tp-drseg-improving-diabetic-retinopathy-lesion-s-0fcc9bee) | [Code](https://github.com/wxliii/TP-DRSeg) |
-| 202410 | X. Lin et al. | arXiv.org 2024 | Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting [(paper)](https://arxiv.org/abs/2309.06824) [(details)](#beyond-adapting-sam-towards-end-to-end-ultrasoun-ddcedf03) | [Code](https://github.com/xianlin7/SAMUS) |
-| 202410 | Q. Liu et al. | arXiv (Cornell University) 2024 | Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images [(paper)](http://arxiv.org/abs/2410.02207) [(details)](#adapting-segment-anything-model-to-melanoma-segm-8abdd2c1) | None |
-| 202410 | I. Häkkinen et al. | arXiv (Cornell University) 2024 | Medical Image Segmentation with SAM-generated Annotations [(paper)](http://arxiv.org/abs/2409.20253) [(details)](#medical-image-segmentation-with-sam-generated-an-798e017d) | None |
-| 202409 | A. Senbi et al. | arXiv (Cornell University) 2024 | Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images [(paper)](http://arxiv.org/abs/2409.14874) [(details)](#towards-ground-truth-free-evaluation-of-any-segm-46165576) | [Code](https://github.com/ahjolsenbics/EvanySeg) |
-| 202409 | H. Wang et al. | Lecture notes in computer science 2024 | Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [(paper)](https://doi.org/10.1007/978-3-031-72114-4_61) [(details)](#tri-plane-mamba-efficiently-adapting-segment-any-f441c105) | [Code](https://github.com/xmed-lab/TP-Mamba) |
-| 202409 | AS. Wahd et al. | arXiv (Cornell University) 2024 | Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts [(paper)](http://arxiv.org/abs/2409.06821) [(details)](#sam2rad-a-segmentation-model-for-medical-images-18c21f70) | [Code](https://github.com/aswahd/SamRadiology) |
-| 202409 | X. Zheng et al. | arXiv (Cornell University) 2024 | Curriculum Prompting Foundation Models for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2409.00695) [(details)](#curriculum-prompting-foundation-models-for-medic-9b2fb910) | [Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting) |
-| 202408 | S. Kato et al. | arXiv (Cornell University) 2024 | Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](http://arxiv.org/abs/2408.12406) [(details)](#generalized-sam-efficient-fine-tuning-of-sam-for-127ab9cf) | [Code](https://github.com/usagisukisuki/G-SAM) |
-| 202408 | J. Wei et al. | arXiv (Cornell University) 2024 | SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection [(paper)](http://arxiv.org/abs/2408.05426) [(details)](#sam-fnet-sam-guided-fusion-network-for-laryngo-p-8fbefa66) | [Code](https://github.com/VVJia/SAM-FNet) |
-| 202408 | X. Wei et al. | arXiv (Cornell University) 2024 | PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](http://arxiv.org/abs/2408.02066) [(details)](#promptsam-malware-detection-based-on-prompt-segm-0a0171c3) | [Code](https://github.com/XingYuanWei/PromptSAM) |
-| 202407 | M. Asokan et al. | arXiv (Cornell University) 2024 | A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation [(paper)](http://arxiv.org/abs/2407.21739) [(details)](#a-federated-learning-friendly-approach-for-param-f09b695f) | [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM) |
-| 202407 | SN. Gowda et al. | arXiv (Cornell University) 2024 | CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation [(paper)](http://arxiv.org/abs/2408.00181) [(details)](#cc-sam-sam-with-cross-feature-attention-and-cont-de622525) | None |
-| 202407 | X. Huo et al. | Lecture notes in computer science 2024 | Dr-SAM: U-Shape Structure Segment Anything Model for Generalizable Medical Image Segmentation [(paper)](https://doi.org/10.1007/978-981-97-5600-1_17) [(details)](#dr-sam-u-shape-structure-segment-anything-model-f0dfbb60) | None |
-| 202407 | H. Fang et al. | arXiv (Cornell University) 2024 | SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification [(paper)](http://arxiv.org/abs/2407.17689) [(details)](#sam-mil-a-spatial-contextual-aware-multiple-inst-a29711d6) | None |
+| 202410 | X. Ouyang et al. | Communications Engineering 2024 | Towards a general computed tomography image segmentation model for anatomical structures and lesions [(paper)](https://www.nature.com/articles/s44172-024-00287-0) [(details)](#towards-a-general-computed-tomography-image-segm-356e99f9) | None |
+| 202410 | Y. Li et al. | Medical Physics 2025 | Plug‐and‐play segment anything model improves nnUNet performance [(paper)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17481) [(details)](#plug-and-play-segment-anything-model-improves-nn-96725226) | [Code](https://github.com/Kent0n-Li/nnSAM) |
+| 202410 | J. Wei et al. | Medical Image Analysis 2026 | SAM-Swin: SAM-driven dual-swin transformers with adaptive lesion enhancement for Laryngo-Pharyngeal tumor detection [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525004529) [(details)](#sam-swin-sam-driven-dual-swin-transformers-with-2335ca25) | [Code](https://github.com/VVJia/SAM-Swin) |
+| 202410 | C. Qin et al. | Lecture Notes in Computer Science 2024 | DB-SAM: Delving into High Quality Universal Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72390-2_47) [(details)](#db-sam-delving-into-high-quality-universal-medic-ee292d4a) | [Code](https://github.com/AlfredQin/DB-SAM) |
+| 202410 | Z. Wei et al. | Lecture Notes in Computer Science 2024 | Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_50) [(details)](#prompting-segment-anything-model-with-domain-ada-d02bae02) | [Code](https://github.com/wkklavis/DAPSAM) |
+| 202410 | Y. Liu et al. | Lecture Notes in Computer Science 2024 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_27) [(details)](#fedfms-exploring-federated-foundation-models-for-c31a08c8) | [Code](https://github.com/LIU-YUXI/FedFMS) |
+| 202410 | F. Lyu et al. | Lecture Notes in Computer Science 2024 | Superpixel-Guided Segment Anything Model for Liver Tumor Segmentation with Couinaud Segment Prompt [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_64) [(details)](#superpixel-guided-segment-anything-model-for-liv-9d8d0aba) | None |
+| 202410 | H. Shi et al. | Lecture Notes in Computer Science 2024 | Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_38) [(details)](#mask-enhanced-segment-anything-model-for-tumor-l-ba252d79) | [Code](https://github.com/nanase1025/M-SAM) |
+| 202410 | W. Li et al. | Lecture Notes in Computer Science 2024 | TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_70) [(details)](#tp-drseg-improving-diabetic-retinopathy-lesion-s-0fcc9bee) | [Code](https://github.com/wxliii/TP-DRSeg) |
+| 202410 | X. Lin et al. | arXiv.org 2023 | Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting [(paper)](https://arxiv.org/abs/2309.06824) [(details)](#beyond-adapting-sam-towards-end-to-end-ultrasoun-ddcedf03) | [Code](https://github.com/xianlin7/SAMUS) |
+| 202410 | Q. Liu et al. | Lecture Notes in Computer Science 2025 | Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images [(paper)](https://link.springer.com/10.1007/978-3-031-91721-9_10) [(details)](#adapting-segment-anything-model-to-melanoma-segm-8abdd2c1) | None |
+| 202410 | I. Häkkinen et al. | Lecture Notes in Computer Science 2025 | Medical Image Segmentation with SAM-generated Annotations [(paper)](https://link.springer.com/10.1007/978-3-031-92089-9_4) [(details)](#medical-image-segmentation-with-sam-generated-an-798e017d) | None |
+| 202409 | A. Senbi et al. | arXiv.org 2024 | Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images [(paper)](https://arxiv.org/abs/2409.14874) [(details)](#towards-ground-truth-free-evaluation-of-any-segm-46165576) | [Code](https://github.com/ahjolsenbics/EvanySeg) |
+| 202409 | H. Wang et al. | Lecture Notes in Computer Science 2024 | Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [(paper)](https://link.springer.com/10.1007/978-3-031-72114-4_61) [(details)](#tri-plane-mamba-efficiently-adapting-segment-any-f441c105) | [Code](https://github.com/xmed-lab/TP-Mamba) |
+| 202409 | AS. Wahd et al. | Computers in Biology and Medicine 2025 | Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S0010482525000757) [(details)](#sam2rad-a-segmentation-model-for-medical-images-18c21f70) | [Code](https://github.com/aswahd/SamRadiology) |
+| 202409 | X. Zheng et al. | Lecture Notes in Computer Science 2024 | Curriculum Prompting Foundation Models for Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72390-2_46) [(details)](#curriculum-prompting-foundation-models-for-medic-9b2fb910) | [Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting) |
+| 202408 | S. Kato et al. | Lecture Notes in Computer Science 2025 | Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes [(paper)](https://link.springer.com/10.1007/978-3-031-91979-4_14) [(details)](#generalized-sam-efficient-fine-tuning-of-sam-for-127ab9cf) | [Code](https://github.com/usagisukisuki/G-SAM) |
+| 202408 | J. Wei et al. | 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) | SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection [(paper)](https://ieeexplore.ieee.org/document/10822832/) [(details)](#sam-fnet-sam-guided-fusion-network-for-laryngo-p-8fbefa66) | [Code](https://github.com/VVJia/SAM-FNet) |
+| 202408 | X. Wei et al. | arXiv.org 2024 | PromptSAM+: Malware Detection based on Prompt Segment Anything Model [(paper)](https://arxiv.org/abs/2408.02066) [(details)](#promptsam-malware-detection-based-on-prompt-segm-0a0171c3) | [Code](https://github.com/XingYuanWei/PromptSAM) |
+| 202407 | M. Asokan et al. | Lecture Notes in Computer Science 2025 | A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-77610-6_21) [(details)](#a-federated-learning-friendly-approach-for-param-f09b695f) | [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM) |
+| 202407 | SN. Gowda et al. | Lecture Notes in Computer Science 2025 | CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72995-9_7) [(details)](#cc-sam-sam-with-cross-feature-attention-and-cont-de622525) | None |
+| 202407 | X. Huo et al. | Lecture Notes in Computer Science 2024 | Dr-SAM: U-Shape Structure Segment Anything Model for Generalizable Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-981-97-5600-1_17) [(details)](#dr-sam-u-shape-structure-segment-anything-model-f0dfbb60) | None |
+| 202407 | H. Fang et al. | 32nd ACM International Conference on Multimedia 2024 | SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification [(paper)](https://dl.acm.org/doi/10.1145/3664647.3681534) [(details)](#sam-mil-a-spatial-contextual-aware-multiple-inst-a29711d6) | None |
 | 202407 | Q. Xu et al. | 2024 | ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2407.14153) [(details)](#esp-medsam-efficient-self-prompting-sam-for-univ-abc5e3e1) | [Code](https://github.com/xq141839/ESP-MedSAM) |
-| 202407 | T. Song et al. | Lecture notes in computer science 2024 | TinySAM-Med3D: A Lightweight Segment Anything Model for Volumetric Medical Imaging with Mixture of Experts [(paper)](https://doi.org/10.1007/978-3-031-66535-6_15) [(details)](#tinysam-med3d-a-lightweight-segment-anything-mod-55d33a8d) | None |
-| 202407 | Y. Gao et al. | arXiv (Cornell University) 2024 | MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation [(paper)](http://arxiv.org/abs/2407.05984) [(details)](#mba-net-sam-driven-bidirectional-aggregation-net-1e3eb007) | None |
-| 202407 | H. Li et al. | arXiv (Cornell University) 2024 | ASPS: Augmented Segment Anything Model for Polyp Segmentation [(paper)](http://arxiv.org/abs/2407.00718) [(details)](#asps-augmented-segment-anything-model-for-polyp-2556af92) | [Code](https://github.com/HuiqianLi/ASPS) |
-| 202406 | Y. Xie et al. | arXiv (Cornell University) 2024 | SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues [(paper)](http://arxiv.org/abs/2406.19364) [(details)](#simtxtseg-weakly-supervised-medical-image-segmen-366d0db5) | None |
-| 202406 | X. Deng et al. | 2024 | MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation [(paper)](https://doi.org/10.1109/cvpr52733.2024.00919) [(details)](#memsam-taming-segment-anything-model-for-echocar-c686f516) | [Code](https://github.com/dengxl0520/MemSAM) |
-| 202406 | Y. Gao | arXiv (Cornell University) 2023 | Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](http://arxiv.org/abs/2306.02416) [(details)](#training-like-a-medical-resident-context-prior-l-2cf1d418) | [Code](https://github.com/yhygao/universal-medical-image-segmentation) |
-| 202406 | CD. Albelda et al. | 2024 | How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://doi.org/10.1109/cvprw63382.2024.00501) [(details)](#how-sam-perceives-different-mp-mri-brain-tumor-d-cab11a15) | [Code](github.com/vpulab/med-sam-brain) |
-| 202406 | T. Huang et al. | arXiv (Cornell University) 2024 | Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2406.00956) [(details)](#improving-segment-anything-on-the-fly-auxiliary-2672bda8) | [Code](https://sam-auxol.github.io/AuxOL/) |
-| 202405 | Y. Gu et al. | IEEE Journal of Biomedical and Health Informatics 2024 | LeSAM: Adapt Segment Anything Model for Medical Lesion Segmentation [(paper)](https://doi.org/10.1109/jbhi.2024.3406871) [(details)](#lesam-adapt-segment-anything-model-for-medical-l-f1f11947) | None |
-| 202405 | J. Leng et al. | Journal of Endourology 2024 | Development of UroSAM: A Machine Learning Model to Automatically Identify Kidney Stone Composition from Endoscopic Video [(paper)](https://doi.org/10.1089/end.2023.0740) [(details)](#development-of-urosam-a-machine-learning-model-t-c6f93648) | None |
-| 202405 | MM. Rahman et al. | arXiv (Cornell University) 2024 | PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation [(paper)](http://arxiv.org/abs/2405.16740) [(details)](#pp-sam-perturbed-prompts-for-robust-adaptation-o-ab432046) | [Code](https://github.com/SLDGroup/PP-SAM) |
-| 202405 | X. Zhang et al. | arXiv (Cornell University) 2024 | A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts [(paper)](http://arxiv.org/abs/2405.10246) [(details)](#a-foundation-model-for-brain-lesion-segmentation-7a1c3590) | [Code](https://github.com/ZhangxinruBIT/MoME) |
-| 202405 | HL. Zedda et al. | 2024 | SAMMI: Segment Anything Model for Malaria Identification [(paper)](http://dx.doi.org/10.5220/0012325500003660) [(details)](#sammi-segment-anything-model-for-malaria-identif-8553dd51) | None |
-| 202404 | V. Zohranyan et al. | arXiv (Cornell University) 2024 | Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images [(paper)](http://arxiv.org/abs/2404.17029) [(details)](#dr-sam-an-end-to-end-framework-for-vascular-segm-c6c3296e) | [Code](https://github.com/vazgenzohranyan/Dr.SAM) |
-| 202404 | Z. Tu et al. | arXiv (Cornell University) 2024 | Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images [(paper)](http://arxiv.org/abs/2404.14837) [(details)](#ultrasound-sam-adapter-adapting-sam-for-breast-l-21c14929) | [Code](https://github.com/bscs12/BUSSAM) |
-| 202404 | Y. Sheng et al. | arXiv (Cornell University) 2024 | Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery [(paper)](http://arxiv.org/abs/2404.14040) [(details)](#surgical-desam-decoupling-sam-for-instrument-seg-09b2d802) | None |
-| 202404 | J. Yu et al. | arXiv (Cornell University) 2024 | Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos [(paper)](http://arxiv.org/abs/2404.10640) [(details)](#adapting-sam-for-surgical-instrument-tracking-an-c0fbaccd) | None |
-| 202404 | Z. Su et al. | 2024 | Adapting SAM to histopathology images for tumor bud segmentation in colorectal cancer [(paper)](https://www.ncbi.nlm.nih.gov/pmc/articles/11099868) [(details)](#adapting-sam-to-histopathology-images-for-tumor-1620cb20) | None |
-| 202404 | Y. Ding et al. | IEEE Transactions on Circuits and Systems for Video Technology 2024 | Barely-Supervised Brain Tumor Segmentation via Employing Segment Anything Model [(paper)](https://doi.org/10.1109/tcsvt.2024.3384503) [(details)](#barely-supervised-brain-tumor-segmentation-via-e-c7109dc6) | None |
-| 202404 | Y. Liu et al. | 2024 | Universal 3D CT lesion segmentation using SAM with RECIST annotation [(paper)](https://doi.org/10.1117/12.3006527) [(details)](#universal-3d-ct-lesion-segmentation-using-sam-wi-cc44f814) | None |
+| 202407 | T. Song et al. | Lecture Notes in Computer Science 2024 | TinySAM-Med3D: A Lightweight Segment Anything Model for Volumetric Medical Imaging with Mixture of Experts [(paper)](https://link.springer.com/10.1007/978-3-031-66535-6_15) [(details)](#tinysam-med3d-a-lightweight-segment-anything-mod-55d33a8d) | None |
+| 202407 | Y. Gao et al. | Lecture Notes in Computer Science 2024 | MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72120-5_41) [(details)](#mba-net-sam-driven-bidirectional-aggregation-net-1e3eb007) | None |
+| 202407 | H. Li et al. | Lecture Notes in Computer Science 2024 | ASPS: Augmented Segment Anything Model for Polyp Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72114-4_12) [(details)](#asps-augmented-segment-anything-model-for-polyp-2556af92) | [Code](https://github.com/HuiqianLi/ASPS) |
+| 202406 | Y. Xie et al. | Lecture Notes in Computer Science 2024 | SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_60) [(details)](#simtxtseg-weakly-supervised-medical-image-segmen-366d0db5) | None |
+| 202406 | X. Deng et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation [(paper)](https://ieeexplore.ieee.org/document/10656025/) [(details)](#memsam-taming-segment-anything-model-for-echocar-c686f516) | [Code](https://github.com/dengxl0520/MemSAM) |
+| 202406 | Y. Gao | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10658004/) [(details)](#training-like-a-medical-resident-context-prior-l-2cf1d418) | [Code](https://github.com/yhygao/universal-medical-image-segmentation) |
+| 202406 | CD. Albelda et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | How SAM Perceives Different mp-MRI Brain Tumor Domains? [(paper)](https://ieeexplore.ieee.org/document/10678163/) [(details)](#how-sam-perceives-different-mp-mri-brain-tumor-d-cab11a15) | [Code](github.com/vpulab/med-sam-brain) |
+| 202406 | T. Huang et al. | arXiv.org 2024 | Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation [(paper)](https://arxiv.org/abs/2406.00956) [(details)](#improving-segment-anything-on-the-fly-auxiliary-2672bda8) | [Code](https://sam-auxol.github.io/AuxOL/) |
+| 202405 | Y. Gu et al. | IEEE Journal of Biomedical and Health Informatics 2024 | LeSAM: Adapt Segment Anything Model for Medical Lesion Segmentation [(paper)](https://ieeexplore.ieee.org/document/10540651/) [(details)](#lesam-adapt-segment-anything-model-for-medical-l-f1f11947) | None |
+| 202405 | J. Leng et al. | Journal of Endourology 2024 | Development of UroSAM: A Machine Learning Model to Automatically Identify Kidney Stone Composition from Endoscopic Video [(paper)](https://journals.sagepub.com/doi/10.1089/end.2023.0740) [(details)](#development-of-urosam-a-machine-learning-model-t-c6f93648) | None |
+| 202405 | MM. Rahman et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation [(paper)](https://ieeexplore.ieee.org/document/10678514/) [(details)](#pp-sam-perturbed-prompts-for-robust-adaptation-o-ab432046) | [Code](https://github.com/SLDGroup/PP-SAM) |
+| 202405 | X. Zhang et al. | IEEE Transactions on Medical Imaging 2025 | A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts [(paper)](https://ieeexplore.ieee.org/document/10879789/) [(details)](#a-foundation-model-for-brain-lesion-segmentation-7a1c3590) | [Code](https://github.com/ZhangxinruBIT/MoME) |
+| 202405 | HL. Zedda et al. | 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications 2024 | SAMMI: Segment Anything Model for Malaria Identification [(paper)](https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0012325500003660) [(details)](#sammi-segment-anything-model-for-malaria-identif-8553dd51) | None |
+| 202404 | V. Zohranyan et al. | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) | Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images [(paper)](https://ieeexplore.ieee.org/document/10678211/) [(details)](#dr-sam-an-end-to-end-framework-for-vascular-segm-c6c3296e) | [Code](https://github.com/vazgenzohranyan/Dr.SAM) |
+| 202404 | Z. Tu et al. | arXiv.org 2024 | Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images [(paper)](https://arxiv.org/abs/2404.14837) [(details)](#ultrasound-sam-adapter-adapting-sam-for-breast-l-21c14929) | [Code](https://github.com/bscs12/BUSSAM) |
+| 202404 | Y. Sheng et al. | International Journal of Computer Assisted Radiology and Surgery 2024 | Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery [(paper)](https://link.springer.com/10.1007/s11548-024-03163-6) [(details)](#surgical-desam-decoupling-sam-for-instrument-seg-09b2d802) | None |
+| 202404 | J. Yu et al. | arXiv.org 2024 | Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos [(paper)](https://arxiv.org/abs/2404.10640) [(details)](#adapting-sam-for-surgical-instrument-tracking-an-c0fbaccd) | None |
+| 202404 | Z. Su et al. | Medical Imaging 2024: Digital and Computational Pathology | Adapting SAM to histopathology images for tumor bud segmentation in colorectal cancer [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/3006517/Adapting-SAM-to-histopathology-images-for-tumor-bud-segmentation-in/10.1117/12.3006517.full) [(details)](#adapting-sam-to-histopathology-images-for-tumor-1620cb20) | None |
+| 202404 | Y. Ding et al. | IEEE Transactions on Circuits and Systems for Video Technology 2025 | Barely-Supervised Brain Tumor Segmentation via Employing Segment Anything Model [(paper)](https://ieeexplore.ieee.org/document/10491099/) [(details)](#barely-supervised-brain-tumor-segmentation-via-e-c7109dc6) | None |
+| 202404 | Y. Liu et al. | Medical Imaging 2024: Image Processing | Universal 3D CT lesion segmentation using SAM with RECIST annotation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3006527/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.full) [(details)](#universal-3d-ct-lesion-segmentation-using-sam-wi-cc44f814) | None |
 | 202403 | M. Jiang et al. | 2024 | Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2403.10931.pdf) [(details)](#uncertainty-aware-adapter-adapting-segment-anyth-4719c570) | None |
 | 202403 | Z. Chen et al. | 2024 | Cardiac Magnetic Resonance 2D+T Short- and Long-axis Segmentation via Spatio-temporal SAM Adaptation [(paper)](https://arxiv.org/pdf/2403.10009.pdf) [(details)](#cardiac-magnetic-resonance-2d-t-short-and-long-a-49b4945a) | None |
-| 202403 | Y. Liu et al. | arXiv (Cornell University) 2024 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2403.05408) [(details)](#fedfms-exploring-federated-foundation-models-for-c31a08c8) | [Code](https://github.com/LIU-YUXI/FedFMS) |
+| 202403 | Y. Liu et al. | Lecture Notes in Computer Science 2024 | FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-72111-3_27) [(details)](#fedfms-exploring-federated-foundation-models-for-c31a08c8) | [Code](https://github.com/LIU-YUXI/FedFMS) |
 | 202403 | C. Zhao et al. | 2024 | Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation [(paper)](https://arxiv.org/pdf/2403.05433.pdf) [(details)](#part-aware-personalized-segment-anything-model-f-f2d75d45) | None |
-| 202403 | J. Wang et al. | arXiv (Cornell University) 2024 | ProMISe: Promptable Medical Image Segmentation using SAM [(paper)](http://arxiv.org/abs/2403.04164) [(details)](#promise-promptable-medical-image-segmentation-us-bea5a709) | None |
+| 202403 | J. Wang et al. | arXiv.org 2024 | ProMISe: Promptable Medical Image Segmentation using SAM [(paper)](https://arxiv.org/abs/2403.04164) [(details)](#promise-promptable-medical-image-segmentation-us-bea5a709) | None |
 | 202402 | L. Zhang et al. | 2024 | BLO-SAM: Bi-Level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation [(paper)](https://arxiv.org/pdf/2402.16338.pdf) [(details)](#blo-sam-bi-level-optimization-based-finetuning-o-44a9cef1) | [Code](https://github.com/importZL/BLO-SAM) |
-| 202402 | H. Wu et al. | arXiv (Cornell University) 2024 | Tumor segmentation on whole slide images: training or prompting? [(paper)](http://arxiv.org/abs/2402.13932) [(details)](#tumor-segmentation-on-whole-slide-images-trainin-4fb71f1a) | None |
+| 202402 | H. Wu et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | Tumor segmentation on whole slide images: training or prompting? [(paper)](https://ieeexplore.ieee.org/document/10635239/) [(details)](#tumor-segmentation-on-whole-slide-images-trainin-4fb71f1a) | None |
 | 202402 | P. Farmanifard et al. | 2024 | Iris-SAM: Iris Segmentation Using a Foundational Model [(paper)](https://arxiv.org/pdf/2402.06497.pdf) [(details)](#iris-sam-iris-segmentation-using-a-foundational-804a399f) | None |
-| 202402 | A. Guo et al. | arXiv (Cornell University) 2024 | ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation [(paper)](http://arxiv.org/abs/2402.05902) [(details)](#clicksam-fine-tuning-segment-anything-model-usin-8cb0d5d0) | None |
-| 202401 | S. Na et al. | arXiv (Cornell University) 2024 | Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation [(paper)](http://arxiv.org/abs/2401.13220) [(details)](#segment-any-cell-a-sam-based-auto-prompting-fine-6aa4efaf) | None |
-| 202401 | H. Gu et al. | arXiv (Cornell University) 2024 | SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [(paper)](http://arxiv.org/abs/2401.12974) [(details)](#segmentanybone-a-universal-model-that-segments-a-a83cb8a8) | [Code](https://github.com/mazurowski-lab/SegmentAnyBone) |
-| 202401 | H. Wang et al. | arXiv (Cornell University) 2024 | Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation [(paper)](http://arxiv.org/abs/2401.02076) [(details)](#leveraging-sam-for-single-source-domain-generali-6db32fe5) | [Code](https://github.com/SARIHUST/SAMMed) |
-| 202401 | Z. Feng et al. | SSRN Electronic Journal 2024 | Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder [(paper)](https://doi.org/10.2139/ssrn.4673046) [(details)](#swinsam-fine-grained-polyp-segmentation-in-colon-19f23f47) | None |
+| 202402 | A. Guo et al. | Medical Imaging 2024: Ultrasonic Imaging and Tomography | ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/3005879/ClickSAM--fine-tuning-Segment-Anything-Model-using-click-prompts/10.1117/12.3005879.full) [(details)](#clicksam-fine-tuning-segment-anything-model-usin-8cb0d5d0) | None |
+| 202401 | S. Na et al. | IEEE Transactions on Neural Networks and Learning Systems 2025 | Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation [(paper)](https://ieeexplore.ieee.org/document/11218040/) [(details)](#segment-any-cell-a-sam-based-auto-prompting-fine-6aa4efaf) | None |
+| 202401 | H. Gu et al. | Medical Image Analysis 2025 | SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000179) [(details)](#segmentanybone-a-universal-model-that-segments-a-a83cb8a8) | [Code](https://github.com/mazurowski-lab/SegmentAnyBone) |
+| 202401 | H. Wang et al. | 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) | Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11343166/) [(details)](#leveraging-sam-for-single-source-domain-generali-6db32fe5) | [Code](https://github.com/SARIHUST/SAMMed) |
+| 202401 | Z. Feng et al. | Biomedical Signal Processing and Control 2025 | Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1746809424011133) [(details)](#swinsam-fine-grained-polyp-segmentation-in-colon-19f23f47) | None |
 | 202312 | Z. Zhao et al. | 2023 | One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts [(paper)](https://arxiv.org/pdf/2312.17183.pdf) [(details)](#one-model-to-rule-them-all-towards-universal-seg-9f81c5ee) | [Code](https://zhaoziheng.github.io/MedUniSeg) |
 | 202312 | W. Yue et al. | 2023 | Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation [(paper)](https://arxiv.org/pdf/2312.14481.pdf) [(details)](#part-to-whole-collaborative-prompting-for-surgic-31ca28ca) | [Code](https://github.com/wenxi-yue/SurgicalPart-SAM) |
-| 202312 | M. Barakat et al. | arXiv (Cornell University) 2023 | Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations [(paper)](http://arxiv.org/abs/2312.11775) [(details)](#towards-samba-segment-anything-model-for-brain-t-7662c153) | None |
-| 202312 | Y. Zhang et al. | arXiv (Cornell University) 2023 | SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](http://arxiv.org/abs/2312.09899) [(details)](#sqa-sam-segmentation-quality-assessment-for-medi-f90c58ba) | [Code](https://github.com/yizhezhang2000/SQA-SAM) |
-| 202312 | Y. Zhao et al. | arXiv (Cornell University) 2023 | Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation [(paper)](http://arxiv.org/abs/2312.00312) [(details)](#segment-anything-model-guided-collaborative-lear-77ded422) | None |
-| 202311 | X. Wei et al. | arXiv (Cornell University) 2023 | I-MedSAM: Implicit Medical Image Segmentation with Segment Anything [(paper)](http://arxiv.org/abs/2311.17081) [(details)](#i-medsam-implicit-medical-image-segmentation-wit-d6b96e13) | None |
-| 202311 | Z. Shui et al. | arXiv (Cornell University) 2023 | Unleashing the Power of Prompt-driven Nucleus Instance Segmentation [(paper)](http://arxiv.org/abs/2311.15939) [(details)](#unleashing-the-power-of-prompt-driven-nucleus-in-654f1c0a) | [Code](https://github.com/windygoo/PromptNucSeg) |
-| 202311 | M. Li and G. Yang et al. | arXiv (Cornell University) 2023 | Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2311.15463) [(details)](#where-to-begin-from-random-to-foundation-model-i-9191fae9) | None |
-| 202311 | DM. Nguyen et al. | arXiv (Cornell University) 2023 | On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation [(paper)](http://arxiv.org/abs/2311.11096) [(details)](#on-the-out-of-distribution-robustness-of-foundat-c0fff4c7) | None |
-| 202311 | Q. Quan et al. | arXiv (Cornell University) 2023 | Slide-SAM: Medical SAM Meets Sliding Window [(paper)](http://arxiv.org/abs/2311.10121) [(details)](#slide-sam-medical-sam-meets-sliding-window-4e19b117) | None |
+| 202312 | M. Barakat et al. | Lecture Notes in Computer Science 2024 | Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations [(paper)](https://link.springer.com/10.1007/978-3-031-76163-8_18) [(details)](#towards-samba-segment-anything-model-for-brain-t-7662c153) | None |
+| 202312 | Y. Zhang et al. | arXiv.org 2023 | SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model [(paper)](https://arxiv.org/abs/2312.09899) [(details)](#sqa-sam-segmentation-quality-assessment-for-medi-f90c58ba) | [Code](https://github.com/yizhezhang2000/SQA-SAM) |
+| 202312 | Y. Zhao et al. | arXiv.org 2023 | Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation [(paper)](https://arxiv.org/abs/2312.00312) [(details)](#segment-anything-model-guided-collaborative-lear-77ded422) | None |
+| 202311 | X. Wei et al. | Lecture Notes in Computer Science 2025 | I-MedSAM: Implicit Medical Image Segmentation with Segment Anything [(paper)](https://link.springer.com/10.1007/978-3-031-72684-2_6) [(details)](#i-medsam-implicit-medical-image-segmentation-wit-d6b96e13) | None |
+| 202311 | Z. Shui et al. | Lecture Notes in Computer Science 2025 | Unleashing the Power of Prompt-driven Nucleus Instance Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-73383-3_17) [(details)](#unleashing-the-power-of-prompt-driven-nucleus-in-654f1c0a) | [Code](https://github.com/windygoo/PromptNucSeg) |
+| 202311 | M. Li and G. Yang et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/10635665/) [(details)](#where-to-begin-from-random-to-foundation-model-i-9191fae9) | None |
+| 202311 | DM. Nguyen et al. | arXiv.org 2023 | On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation [(paper)](https://arxiv.org/abs/2311.11096) [(details)](#on-the-out-of-distribution-robustness-of-foundat-c0fff4c7) | None |
+| 202311 | Q. Quan et al. | arXiv.org 2023 | Slide-SAM: Medical SAM Meets Sliding Window [(paper)](https://arxiv.org/abs/2311.10121) [(details)](#slide-sam-medical-sam-meets-sliding-window-4e19b117) | None |
 | 202311 | Y. Zhang et al. | 2023 | Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2311.10529.pdf) [(details)](#segment-anything-model-with-uncertainty-rectific-68beb41d) | [Code](https://github.com/YichiZhang98/UR-SAM) |
-| 202311 | Y. Wang et al. | arXiv (Cornell University) 2023 | SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation [(paper)](http://arxiv.org/abs/2311.08190) [(details)](#samihs-adaptation-of-segment-anything-model-for-b428bfa5) | [Code](https://github.com/mileswyn/SAMIHS) |
+| 202311 | Y. Wang et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation [(paper)](https://ieeexplore.ieee.org/document/10635673/) [(details)](#samihs-adaptation-of-segment-anything-model-for-b428bfa5) | [Code](https://github.com/mileswyn/SAMIHS) |
 | 202311 | H. Jiang et al. | 2023 | GlanceSeg: Real-time microangioma lesion segmentation with gaze map-guided foundation model for early detection of diabetic retinopathy [(paper)](https://arxiv.org/pdf/2311.08075.pdf) [(details)](#glanceseg-real-time-microangioma-lesion-segmenta-b339d6a9) | None |
-| 202310 | H. Li et al. | arXiv (Cornell University) 2023 | Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models [(paper)](http://arxiv.org/abs/2310.19721) [(details)](#promise-prompt-driven-3d-medical-image-segmentat-434e4e25) | [Code](https://github.com/MedICL-VU/ProMISe) |
+| 202310 | H. Li et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models [(paper)](https://ieeexplore.ieee.org/document/10635207/) [(details)](#promise-prompt-driven-3d-medical-image-segmentat-434e4e25) | [Code](https://github.com/MedICL-VU/ProMISe) |
 | 202310 | H. Wang et al. | 2023 | SAM-Med3D [(paper)](https://arxiv.org/pdf/2310.15161.pdf) [(details)](#sam-med3d-4347ab8b) | [Code](https://github.com/uni-medical/SAM-Med3D) |
-| 202310 | X. Chen et al. | SSRN Electronic Journal 2024 | SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation [(paper)](http://dx.doi.org/10.2139/ssrn.4844681) [(details)](#sam-octa-prompting-segment-anything-for-octa-ima-47f2bc6c) | [Code](https://github.com/ShellRedia/SAM-OCTA) |
-| 202310 | M. Peivandi et al. | arXiv (Cornell University) 2023 | Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation [(paper)](http://arxiv.org/abs/2310.06162) [(details)](#empirical-evaluation-of-the-segment-anything-mod-512eedc1) | None |
-| 202310 | H. Ravishankar et al. | Lecture notes in computer science 2023 | SonoSAM - Segment Anything on Ultrasound Images [(paper)](https://doi.org/10.1007/978-3-031-44521-7_3) [(details)](#sonosam-segment-anything-on-ultrasound-images-0825b5f5) | None |
-| 202310 | A. Ranem et al. | arXiv (Cornell University) 2023 | Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology [(paper)](http://arxiv.org/abs/2310.00504) [(details)](#exploring-sam-ablations-for-enhancing-medical-se-69c9f13f) | None |
-| 202310 | S. Pandey et al. | arXiv (Cornell University) 2023 | Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models [(paper)](http://arxiv.org/abs/2310.12995) [(details)](#comprehensive-multimodal-segmentation-in-medical-8adfbaac) | None |
-| 202309 | Y. Li et al. | arXiv (Cornell University) 2023 | nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance [(paper)](http://arxiv.org/abs/2309.16967) [(details)](#nnsam-plug-and-play-segment-anything-model-impro-e4709b8a) | [Code](https://github.com/Kent0n-Li/Medical-Image-Segmentation) |
-| 202309 | C. Wang et al. | arXiv (Cornell University) 2023 | SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks [(paper)](http://arxiv.org/abs/2309.11758) [(details)](#sam-octa-a-fine-tuning-strategy-for-applying-fou-e760a655) | [Code](https://github.com/ShellRedia/SAM-OCTA) |
-| 202309 | CJ. Chao et al. | 2023 | Comparative Eminence: Foundation versus Domain-Specific Model for Cardiac Ultrasound Segmentation [(paper)](https://www.medrxiv.org/content/medrxiv/early/2023/09/19/2023.09.19.23295772.full.pdf) [(details)](#comparative-eminence-foundation-versus-domain-sp-76ab4bd7) | None |
-| 202309 | H. Ning et al. | arXiv (Cornell University) 2023 | An Accurate and Efficient Neural Network for OCTA Vessel Segmentation and a New Dataset [(paper)](http://arxiv.org/abs/2309.09483) [(details)](#an-accurate-and-efficient-neural-network-for-oct-4ec02809) | [Code](https://github.com/nhjydywd/OCTA-FRNet) |
-| 202309 | P. Zhang and Y. Wang | arXiv (Cornell University) 2023 | Segment Anything Model for Brain Tumor Segmentation [(paper)](http://arxiv.org/abs/2309.08434) [(details)](#segment-anything-model-for-brain-tumor-segmentat-66561c0b) | None |
-| 202309 | B. Fazekas et al. | Lecture notes in computer science 2023 | Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://doi.org/10.1007/978-3-031-44013-7_10) [(details)](#adapting-segment-anything-model-sam-for-retinal-4513b7ce) | None |
+| 202310 | X. Chen et al. | Biomedical Signal Processing and Control 2025 | SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1746809425002095) [(details)](#sam-octa-prompting-segment-anything-for-octa-ima-47f2bc6c) | [Code](https://github.com/ShellRedia/SAM-OCTA) |
+| 202310 | M. Peivandi et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation [(paper)](https://ieeexplore.ieee.org/document/10635848/) [(details)](#empirical-evaluation-of-the-segment-anything-mod-512eedc1) | None |
+| 202310 | H. Ravishankar et al. | Lecture Notes in Computer Science 2023 | SonoSAM - Segment Anything on Ultrasound Images [(paper)](https://link.springer.com/10.1007/978-3-031-44521-7_3) [(details)](#sonosam-segment-anything-on-ultrasound-images-0825b5f5) | None |
+| 202310 | A. Ranem et al. | arXiv.org 2023 | Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology [(paper)](https://arxiv.org/abs/2310.00504) [(details)](#exploring-sam-ablations-for-enhancing-medical-se-69c9f13f) | None |
+| 202310 | S. Pandey et al. | 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models [(paper)](https://ieeexplore.ieee.org/document/10350376/) [(details)](#comprehensive-multimodal-segmentation-in-medical-8adfbaac) | None |
+| 202309 | Y. Li et al. | Medical Physics 2025 | nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance [(paper)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17481) [(details)](#nnsam-plug-and-play-segment-anything-model-impro-e4709b8a) | [Code](https://github.com/Kent0n-Li/Medical-Image-Segmentation) |
+| 202309 | C. Wang et al. | ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks [(paper)](https://ieeexplore.ieee.org/document/10446904/) [(details)](#sam-octa-a-fine-tuning-strategy-for-applying-fou-e760a655) | [Code](https://github.com/ShellRedia/SAM-OCTA) |
+| 202309 | CJ. Chao et al. | medRxiv 2023 | Comparative Eminence: Foundation versus Domain-Specific Model for Cardiac Ultrasound Segmentation [(paper)](https://www.semanticscholar.org/paper/07e87e4f8625071fb509b532a07e057493e87e1e) [(details)](#comparative-eminence-foundation-versus-domain-sp-76ab4bd7) | None |
+| 202309 | H. Ning et al. | ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) | An Accurate and Efficient Neural Network for OCTA Vessel Segmentation and a New Dataset [(paper)](https://ieeexplore.ieee.org/document/10447708/) [(details)](#an-accurate-and-efficient-neural-network-for-oct-4ec02809) | [Code](https://github.com/nhjydywd/OCTA-FRNet) |
+| 202309 | P. Zhang and Y. Wang | arXiv.org 2023 | Segment Anything Model for Brain Tumor Segmentation [(paper)](https://arxiv.org/abs/2309.08434) [(details)](#segment-anything-model-for-brain-tumor-segmentat-66561c0b) | None |
+| 202309 | B. Fazekas et al. | Lecture Notes in Computer Science 2023 | Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://link.springer.com/10.1007/978-3-031-44013-7_10) [(details)](#adapting-segment-anything-model-sam-for-retinal-4513b7ce) | None |
 | 202309 | X. Lin et al. | 2023 | SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation [(paper)](https://arxiv.org/pdf/2309.06824.pdf) [(details)](#samus-adapting-segment-anything-model-for-clinic-7e5e22cd) | [Code](https://github.com/xianlin7/SAMUS) |
-| 202309 | X. Xing et al. | arXiv (Cornell University) 2023 | SegmentAnything helps microscopy images based automatic and quantitative organoid detection and analysis [(paper)](http://arxiv.org/abs/2309.04190) [(details)](#segmentanything-helps-microscopy-images-based-au-b251c401) | [Code](https://github.com/XiaodanXing/SAM4organoid) |
-| 202309 | NT. Bui et al. | arXiv (Cornell University) 2023 | SAM3D: Segment Anything Model in Volumetric Medical Images [(paper)](http://arxiv.org/abs/2309.03493) [(details)](#sam3d-segment-anything-model-in-volumetric-medic-7f25586a) | [Code](https://github.com/DinhHieuHoang/SAM3D) |
+| 202309 | X. Xing et al. | Medical Imaging 2024: Clinical and Biomedical Imaging | SegmentAnything helps microscopy images based automatic and quantitative organoid detection and analysis [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12930/3006022/SegmentAnything-helps-microscopy-images-based-on-automatic-and-quantitative-organoid/10.1117/12.3006022.full) [(details)](#segmentanything-helps-microscopy-images-based-au-b251c401) | [Code](https://github.com/XiaodanXing/SAM4organoid) |
+| 202309 | NT. Bui et al. | 2024 IEEE International Symposium on Biomedical Imaging (ISBI) | SAM3D: Segment Anything Model in Volumetric Medical Images [(paper)](https://ieeexplore.ieee.org/document/10635844/) [(details)](#sam3d-segment-anything-model-in-volumetric-medic-7f25586a) | [Code](https://github.com/DinhHieuHoang/SAM3D) |
 | 202308 | C. Li et al. | 2023 | Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2308.14936.pdf) [(details)](#auto-prompting-sam-for-mobile-friendly-3d-medica-638ea83e) | None |
-| 202308 | A. Lou et al. | arXiv (Cornell University) 2023 | SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF) [(paper)](http://arxiv.org/abs/2308.11774) [(details)](#samsnerf-segment-anything-model-sam-guides-dynam-0c027516) | [Code](https://github.com/AngeLouCN/SAMSNeRF) |
-| 202308 | X. Yao et al. | arXiv (Cornell University) 2023 | False Negative/Positive Control for SAM on Noisy Medical Images [(paper)](http://arxiv.org/abs/2308.10382) [(details)](#false-negative-positive-control-for-sam-on-noisy-f13784d0) | [Code](https://github.com/xyimaging/FNPC) |
-| 202308 | B. Fazekas et al. | arXiv (Cornell University) 2023 | SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](http://arxiv.org/abs/2308.09331) [(details)](#samedoct-adapting-segment-anything-model-sam-for-71535cab) | None |
-| 202308 | H. Zhang et al. | arXiv (Cornell University) 2023 | CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation [(paper)](http://arxiv.org/abs/2308.08283) [(details)](#care-a-large-scale-ct-image-dataset-and-clinical-19b00751) | [Code](https://github.com/kanydao/U-SAM) |
-| 202308 | D. Shin et al. | arXiv (Cornell University) 2023 | CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets [(paper)](http://arxiv.org/abs/2308.06957) [(details)](#cemb-sam-segment-anything-model-with-condition-e-751e92e5) | None |
-| 202308 | R. Biswas | arXiv (Cornell University) 2023 | Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation? [(paper)](http://arxiv.org/abs/2308.06623) [(details)](#polyp-sam-can-a-text-guided-sam-perform-better-f-9dc0febe) | [Code](https://github.com/RisabBiswas/Polyp-SAM++) |
-| 202308 | JN. Paranjape et al. | arXiv (Cornell University) 2023 | AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation [(paper)](http://arxiv.org/abs/2308.03726) [(details)](#adaptivesam-towards-efficient-tuning-of-sam-for-c8f66ea9) | [Code](https://github.com/JayParanjape/biastuning) |
-| 202307 | J. Zhang et al. | arXiv (Cornell University) 2023 | SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology [(paper)](http://arxiv.org/abs/2307.09570) [(details)](#sam-path-a-segment-anything-model-for-semantic-s-645458ec) | [Code](https://github.com/cvlab-stonybrook/SAMPath) |
+| 202308 | A. Lou et al. | Medical Imaging 2024: Image-Guided Procedures, Robotic Interventions, and Modeling | SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF) [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/3008392/SAMSNeRF--segment-anything-model-SAM-guided-dynamic-surgical-scene/10.1117/12.3008392.full) [(details)](#samsnerf-segment-anything-model-sam-guides-dynam-0c027516) | [Code](https://github.com/AngeLouCN/SAMSNeRF) |
+| 202308 | X. Yao et al. | arXiv.org 2023 | False Negative/Positive Control for SAM on Noisy Medical Images [(paper)](https://arxiv.org/abs/2308.10382) [(details)](#false-negative-positive-control-for-sam-on-noisy-f13784d0) | [Code](https://github.com/xyimaging/FNPC) |
+| 202308 | B. Fazekas et al. | Lecture Notes in Computer Science 2023 | SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT [(paper)](https://link.springer.com/10.1007/978-3-031-44013-7_10) [(details)](#samedoct-adapting-segment-anything-model-sam-for-71535cab) | None |
+| 202308 | H. Zhang et al. | arXiv.org 2023 | CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation [(paper)](https://arxiv.org/abs/2308.08283) [(details)](#care-a-large-scale-ct-image-dataset-and-clinical-19b00751) | [Code](https://github.com/kanydao/U-SAM) |
+| 202308 | D. Shin et al. | Lecture Notes in Computer Science 2023 | CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_27) [(details)](#cemb-sam-segment-anything-model-with-condition-e-751e92e5) | None |
+| 202308 | R. Biswas | arXiv.org 2023 | Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation? [(paper)](https://arxiv.org/abs/2308.06623) [(details)](#polyp-sam-can-a-text-guided-sam-perform-better-f-9dc0febe) | [Code](https://github.com/RisabBiswas/Polyp-SAM++) |
+| 202308 | JN. Paranjape et al. | Lecture Notes in Computer Science 2024 | AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation [(paper)](https://link.springer.com/10.1007/978-3-031-66958-3_14) [(details)](#adaptivesam-towards-efficient-tuning-of-sam-for-c8f66ea9) | [Code](https://github.com/JayParanjape/biastuning) |
+| 202307 | J. Zhang et al. | Lecture Notes in Computer Science 2023 | SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_16) [(details)](#sam-path-a-segment-anything-model-for-semantic-s-645458ec) | [Code](https://github.com/cvlab-stonybrook/SAMPath) |
 | 202307 | C. Wang et al. | 2023 | SAM^Med^ : A medical image annotation framework based on large vision model [(paper)](https://arxiv.org/pdf/2307.05617.pdf) [(details)](#sam-med-a-medical-image-annotation-framework-bas-634aac2e) | None |
-| 202307 | G. Deng et al. | arXiv (Cornell University) 2023 | SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image [(paper)](http://arxiv.org/abs/2307.04973) [(details)](#sam-u-multi-box-prompts-triggered-uncertainty-es-676f2024) | None |
-| 202307 | H. Kim et al. | arXiv (Cornell University) 2023 | Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging [(paper)](http://arxiv.org/abs/2307.03266) [(details)](#empirical-analysis-of-a-segmentation-foundation-77ccd932) | None |
-| 202307 | X. Shi et al. | arXiv (Cornell University) 2023 | Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images [(paper)](http://arxiv.org/abs/2307.01124) [(details)](#cross-modality-attention-adapter-a-glioma-segmen-e1b7ed27) | None |
-| 202306 | E. Kellener et al. | arXiv (Cornell University) 2023 | Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging [(paper)](http://arxiv.org/abs/2306.15692) [(details)](#utilizing-segment-anything-model-for-assessing-l-c85b1a12) | None |
-| 202306 | F. Hörst et al. | arXiv (Cornell University) 2023 | CellViT: Vision Transformers for Precise Cell Segmentation and Classification [(paper)](http://arxiv.org/abs/2306.15350) [(details)](#cellvit-vision-transformers-for-precise-cell-seg-f3f0911c) | [Code](https://github.com/TIO-IKIM/CellViT) |
+| 202307 | G. Deng et al. | Lecture Notes in Computer Science 2023 | SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image [(paper)](https://link.springer.com/10.1007/978-3-031-47425-5_33) [(details)](#sam-u-multi-box-prompts-triggered-uncertainty-es-676f2024) | None |
+| 202307 | H. Kim et al. | Lecture Notes in Computer Science 2023 | Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_14) [(details)](#empirical-analysis-of-a-segmentation-foundation-77ccd932) | None |
+| 202307 | X. Shi et al. | arXiv.org 2023 | Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images [(paper)](https://arxiv.org/abs/2307.01124) [(details)](#cross-modality-attention-adapter-a-glioma-segmen-e1b7ed27) | None |
+| 202306 | E. Kellener et al. | arXiv.org 2023 | Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging [(paper)](https://arxiv.org/abs/2306.15692) [(details)](#utilizing-segment-anything-model-for-assessing-l-c85b1a12) | None |
+| 202306 | F. Hörst et al. | Medical Image Analysis 2024 | CellViT: Vision Transformers for Precise Cell Segmentation and Classification [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841524000689) [(details)](#cellvit-vision-transformers-for-precise-cell-seg-f3f0911c) | [Code](https://github.com/TIO-IKIM/CellViT) |
 | 202306 | W. Lei et al. | 2023 | MedLSAM: Localize and Segment Anything Model for 3D Medical Images [(paper)](https://arxiv.org/pdf/2306.14752.pdf) [(details)](#medlsam-localize-and-segment-anything-model-for-e7efd07e) | [Code](https://github.com/openmedlab/MedLSAM) |
 | 202306 | S. Gong et al. | 2023 | 3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.13465.pdf) [(details)](#3dsam-adapter-holistic-adaptation-of-sam-from-2d-f48638a0) | [Code](https://github.com/med-air/3DSAM-adapter) |
-| 202306 | DMH. Nguyen et al. | arXiv.org 2023 | LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [(paper)](https://doi.org/10.52202/075280-1212) [(details)](#lvm-med-learning-large-scale-self-supervised-vis-273e08a6) | [Code](https://github.com/duyhominhnguyen/LVM-Med) |
-| 202306 | S. Chai et al. | arXiv (Cornell University) 2023 | Ladder Fine-tuning approach for SAM integrating complementary network [(paper)](http://arxiv.org/abs/2306.12737) [(details)](#ladder-fine-tuning-approach-for-sam-integrating-33cb440d) | [Code](https://github.com/11yxk/SAM-LST) |
-| 202306 | L. Zhang et al. | arXiv (Cornell University) 2023 | Segment Anything Model (SAM) for Radiation Oncology [(paper)](http://arxiv.org/abs/2306.11730) [(details)](#segment-anything-model-sam-for-radiation-oncolog-3bc6f5c7) | None |
-| 202306 | G. Ning et al. | BioScience Trends 2023 | The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance [(paper)](https://doi.org/10.5582/bst.2023.01119) [(details)](#the-potential-of-segment-anything-sam-for-univer-9e0de980) | None |
-| 202306 | T. Shaharabany et al. | arXiv (Cornell University) 2023 | AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder [(paper)](http://arxiv.org/abs/2306.06370) [(details)](#autosam-adapting-sam-to-medical-images-by-overlo-a9383cb7) | None |
+| 202306 | DMH. Nguyen et al. | Advances in Neural Information Processing Systems 36 2023 | LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [(paper)](http://www.proceedings.com/075280-1212.html) [(details)](#lvm-med-learning-large-scale-self-supervised-vis-273e08a6) | [Code](https://github.com/duyhominhnguyen/LVM-Med) |
+| 202306 | S. Chai et al. | Procedia Computer Science 2024 | Ladder Fine-tuning approach for SAM integrating complementary network [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1877050924024931) [(details)](#ladder-fine-tuning-approach-for-sam-integrating-33cb440d) | [Code](https://github.com/11yxk/SAM-LST) |
+| 202306 | L. Zhang et al. | arXiv.org 2023 | Segment Anything Model (SAM) for Radiation Oncology [(paper)](https://arxiv.org/abs/2306.11730) [(details)](#segment-anything-model-sam-for-radiation-oncolog-3bc6f5c7) | None |
+| 202306 | G. Ning et al. | BioScience Trends 2023 | The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance [(paper)](https://www.jstage.jst.go.jp/article/bst/17/3/17_2023.01119/_article) [(details)](#the-potential-of-segment-anything-sam-for-univer-9e0de980) | None |
+| 202306 | T. Shaharabany et al. | arXiv.org 2023 | AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder [(paper)](https://arxiv.org/abs/2306.06370) [(details)](#autosam-adapting-sam-to-medical-images-by-overlo-a9383cb7) | None |
 | 202306 | Y. Gao et al. | 2023 | DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation [(paper)](https://arxiv.org/pdf/2306.00499.pdf) [(details)](#desam-decoupling-segment-anything-model-for-gene-f735a442) | [Code](https://github.com/yifangao112/DeSAM) |
-| 202305 | D. Lee et al. | Genome biology 2024 | IAMSAM: image-based analysis of molecular signatures using the Segment Anything Model [(paper)](https://doi.org/10.1186/s13059-024-03380-x) [(details)](#iamsam-image-based-analysis-of-molecular-signatu-bfad9d42) | [Code](https://github.com/portrai-io/IAMSAM) |
-| 202305 | Y. Li et al. | arXiv (Cornell University) 2023 | Polyp-SAM: Transfer SAM for Polyp Segmentation [(paper)](http://arxiv.org/abs/2305.00293) [(details)](#polyp-sam-transfer-sam-for-polyp-segmentation-e80de684) | [Code](https://github.com/ricklisz/Polyp-SAM) |
-| 202304 | M. Hu et al. | arXiv (Cornell University) 2023 | SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model [(paper)](http://arxiv.org/abs/2304.13973) [(details)](#skinsam-empowering-skin-cancer-segmentation-with-af706586) | None |
-| 202304 | B. Wang et al. | arXiv (Cornell University) 2023 | GazeSAM: What You See is What You Segment [(paper)](http://arxiv.org/abs/2304.13844) [(details)](#gazesam-what-you-see-is-what-you-segment-5e7dace5) | [Code](https://github.com/ukaukaaaa/GazeSAM) |
-| 202304 | K. Zhang and D. Liu | arXiv (Cornell University) 2023 | Customized Segment Anything Model for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2304.13785) [(details)](#customized-segment-anything-model-for-medical-im-2c6385da) | [Code](https://github.com/hitachinsk/SAMed) |
-| 202304 | J. Wu et al. | arXiv (Cornell University) 2023 | Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation [(paper)](http://arxiv.org/abs/2304.12620) [(details)](#medical-sam-adapter-adapting-segment-anything-mo-596eb23c) | [Code](https://github.com/WuJunde/Medical-SAM-Adapter) |
-| 202304 | J. Ma and B. Wang | arXiv (Cornell University) 2023 | Segment Anything in Medical Images [(paper)](http://arxiv.org/abs/2304.12306) [(details)](#segment-anything-in-medical-images-571280f8) | [Code](https://github.com/bowang-lab/MedSAM) |
-| 202304 | Y. Zhang et al. | arXiv (Cornell University) 2023 | Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model [(paper)](http://arxiv.org/abs/2304.11332) [(details)](#input-augmentation-with-sam-boosting-medical-ima-da1c6730) | None |
+| 202305 | D. Lee et al. | Genome Biology 2024 | IAMSAM: image-based analysis of molecular signatures using the Segment Anything Model [(paper)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03380-x) [(details)](#iamsam-image-based-analysis-of-molecular-signatu-bfad9d42) | [Code](https://github.com/portrai-io/IAMSAM) |
+| 202305 | Y. Li et al. | Medical Imaging 2024: Computer-Aided Diagnosis | Polyp-SAM: Transfer SAM for Polyp Segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/3006809/Polyp-SAM-transfer-SAM-for-polyp-segmentation/10.1117/12.3006809.full) [(details)](#polyp-sam-transfer-sam-for-polyp-segmentation-e80de684) | [Code](https://github.com/ricklisz/Polyp-SAM) |
+| 202304 | M. Hu et al. | arXiv.org 2023 | SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model [(paper)](https://arxiv.org/abs/2304.13973) [(details)](#skinsam-empowering-skin-cancer-segmentation-with-af706586) | None |
+| 202304 | B. Wang et al. | arXiv.org 2023 | GazeSAM: What You See is What You Segment [(paper)](https://arxiv.org/abs/2304.13844) [(details)](#gazesam-what-you-see-is-what-you-segment-5e7dace5) | [Code](https://github.com/ukaukaaaa/GazeSAM) |
+| 202304 | K. Zhang and D. Liu | 2025 44th Chinese Control Conference (CCC) | Customized Segment Anything Model for Medical Image Segmentation [(paper)](https://ieeexplore.ieee.org/document/11178681/) [(details)](#customized-segment-anything-model-for-medical-im-2c6385da) | [Code](https://github.com/hitachinsk/SAMed) |
+| 202304 | J. Wu et al. | Medical Image Analysis 2025 | Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation [(paper)](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000945) [(details)](#medical-sam-adapter-adapting-segment-anything-mo-596eb23c) | [Code](https://github.com/WuJunde/Medical-SAM-Adapter) |
+| 202304 | J. Ma and B. Wang | Nature Communications 2024 | Segment Anything in Medical Images [(paper)](https://www.nature.com/articles/s41467-024-44824-z) [(details)](#segment-anything-in-medical-images-571280f8) | [Code](https://github.com/bowang-lab/MedSAM) |
+| 202304 | Y. Zhang et al. | Lecture Notes in Computer Science 2023 | Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model [(paper)](https://link.springer.com/10.1007/978-3-031-47401-9_13) [(details)](#input-augmentation-with-sam-boosting-medical-ima-da1c6730) | None |
 | 202304 | S. He et al. | 2023 | Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks [(paper)](https://arxiv.org/pdf/2304.09324.pdf) [(details)](#accuracy-of-segment-anything-model-sam-in-medica-aa280e13) | None |
-| 202304 | T. Chen et al. | arXiv (Cornell University) 2023 | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](http://arxiv.org/abs/2304.09148) [(details)](#sam-fails-to-segment-anything-sam-adapter-adapti-3f0ab79d) | [Code](http://tianrun-chen.github.io/SAM-Adaptor/) |
-| 202304 | T. Zhou et al. | arXiv (Cornell University) 2023 | Can SAM Segment Polyps? [(paper)](http://arxiv.org/abs/2304.07583) [(details)](#can-sam-segment-polyps-ba840d6d) | [Code](https://github.com/taozh2017/SAMPolyp) |
-| 202304 | Y. Liu et al. | arXiv (Cornell University) 2023 | SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [(paper)](http://arxiv.org/abs/2304.05622) [(details)](#samm-segment-any-medical-model-a-3d-slicer-integ-f797a472) | [Code](https://github.com/bingogome/samm) |
+| 202304 | T. Chen et al. | arXiv.org 2023 | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More [(paper)](https://arxiv.org/abs/2304.09148) [(details)](#sam-fails-to-segment-anything-sam-adapter-adapti-3f0ab79d) | [Code](http://tianrun-chen.github.io/SAM-Adaptor/) |
+| 202304 | T. Zhou et al. | arXiv.org 2023 | Can SAM Segment Polyps? [(paper)](https://arxiv.org/abs/2304.07583) [(details)](#can-sam-segment-polyps-ba840d6d) | [Code](https://github.com/taozh2017/SAMPolyp) |
+| 202304 | Y. Liu et al. | arXiv.org 2023 | SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [(paper)](https://arxiv.org/abs/2304.05622) [(details)](#samm-segment-any-medical-model-a-3d-slicer-integ-f797a472) | [Code](https://github.com/bingogome/samm) |
 >Updating continuously ...
 
 <!-- AUTO-GENERATED LITERATURE TABLES END -->
@@ -521,9 +521,8 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 > **Venue:** Journal of Imaging Informatics in Medicine 2025  
 > **Authors:** H. Buyukpatpat et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/s10278-025-01778-y) [Original Link](https://link.springer.com/article/10.1007/s10278-025-01778-y)
+[Viewable Link](https://link.springer.com/10.1007/s10278-025-01778-y) [Original Link](https://link.springer.com/article/10.1007/s10278-025-01778-y)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -541,12 +540,11 @@ TBD
 ---
 
 ### <a id="comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129">Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data</a>
-> **Venue:** arXiv (Cornell University) 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** S. Chakrabarty et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2511.21926) [Original Link](https://arxiv.org/pdf/2511.21926)
+[Viewable Link](https://arxiv.org/abs/2511.21926) [Original Link](https://arxiv.org/pdf/2511.21926)
 
 <p align="center">
   <img src="imgs/comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129.png" width="920">
@@ -563,12 +561,11 @@ TBD
 ---
 
 ### <a id="medsam3-delving-into-segment-anything-with-medic-54988e2e">MedSAM3: Delving into Segment Anything with Medical Concepts</a>
-> **Venue:** arXiv (Cornell University) 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** A. Liu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.48550/arxiv.2511.19046) [Original Link](https://arxiv.org/pdf/2511.19046) [Code](https://github.com/Joey-S-Liu/MedSAM3)
+[Viewable Link](https://arxiv.org/abs/2511.19046) [Original Link](https://arxiv.org/pdf/2511.19046) [Code](https://github.com/Joey-S-Liu/MedSAM3)
 
 <p align="center">
   <img src="imgs/medsam3-delving-into-segment-anything-with-medic-54988e2e.png" width="920">
@@ -585,12 +582,11 @@ TBD
 ---
 
 ### <a id="zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2">Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2</a>
-> **Venue:** 2025  
+> **Venue:** 34th ACM International Conference on Information and Knowledge Management 2025  
 > **Authors:** M. Shokri et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1145/3746252.3760872) [Original Link](https://dl.acm.org/doi/abs/10.1145/3746252.3760872)
+[Viewable Link](https://dl.acm.org/doi/10.1145/3746252.3760872) [Original Link](https://dl.acm.org/doi/abs/10.1145/3746252.3760872)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -608,12 +604,11 @@ TBD
 ---
 
 ### <a id="towards-better-ultrasound-video-segmentation-fou-27091b1b">Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective</a>
-> **Venue:** arXiv (Cornell University) 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** X. Yao et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.48550/arxiv.2511.05731) [Original Link](https://arxiv.org/pdf/2511.05731)
+[Viewable Link](https://arxiv.org/abs/2511.05731) [Original Link](https://arxiv.org/pdf/2511.05731)
 
 <p align="center">
   <img src="imgs/towards-better-ultrasound-video-segmentation-fou-27091b1b.png" width="920">
@@ -633,9 +628,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2025  
 > **Authors:** L. Guo et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2025.102654) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001636)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001636) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001636)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -653,12 +647,11 @@ TBD
 ---
 
 ### <a id="sam-2-driven-self-training-for-mammogram-segment-a7b605d7">SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP)  
 > **Authors:** M. Fernandez et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/icip55913.2025.11084376) [Original Link](https://ieeexplore.ieee.org/abstract/document/11084376) [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/11084376/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11084376) [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -676,12 +669,11 @@ TBD
 ---
 
 ### <a id="sam2med3d-leveraging-video-foundation-models-for-ed8ec478">SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation</a>
-> **Venue:** Computers & Graphics 2025  
+> **Venue:** Computers &amp; Graphics 2025  
 > **Authors:** Y. Chen et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.cag.2025.104341) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0097849325001827) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001827)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -702,9 +694,8 @@ TBD
 > **Venue:** IEEE Sensors Letters 2025  
 > **Authors:** Z. Wu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/lsens.2025.3595139) [Original Link](https://ieeexplore.ieee.org/abstract/document/11107345)
+[Viewable Link](https://ieeexplore.ieee.org/document/11107345/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11107345)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -722,12 +713,11 @@ TBD
 ---
 
 ### <a id="training-free-breast-ultrasound-image-segmentati-816e6d33">Training-Free Breast Ultrasound Image Segmentation With Retrieval-Based SAM2</a>
-> **Venue:** IEEE Transactions on Biomedical Engineering 2025  
+> **Venue:** IEEE Transactions on Biomedical Engineering 2026  
 > **Authors:** J. He et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tbme.2025.3595981) [Original Link](https://ieeexplore.ieee.org/abstract/document/11113315)
+[Viewable Link](https://ieeexplore.ieee.org/document/11113315/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11113315)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -745,12 +735,11 @@ TBD
 ---
 
 ### <a id="freqsam2-unet-adapter-fine-tuning-frequency-awar-57e962a5">FreqSAM2-UNet: Adapter Fine-Tuning Frequency-Aware Network of SAM2 for Universal Medical Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** C. Wang et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-981-95-0036-9_26) [Original Link](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)
+[Viewable Link](https://link.springer.com/10.1007/978-981-95-0036-9_26) [Original Link](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_26)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -768,12 +757,11 @@ TBD
 ---
 
 ### <a id="depthwise-dilated-convolutional-adapters-for-med-3bd27bdf">Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** Machine Learning: Science and Technology 2025  
 > **Authors:** G. Xu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2507.14613) [Original Link](https://arxiv.org/pdf/2507.14613) [Code](https://github.com/apple1986/DD-SAM2)
+[Viewable Link](https://iopscience.iop.org/article/10.1088/2632-2153/ae13d1) [Original Link](https://arxiv.org/pdf/2507.14613) [Code](https://github.com/apple1986/DD-SAM2)
 
 <p align="center">
   <img src="imgs/depthwise-dilated-convolutional-adapters-for-med-3bd27bdf.png" width="920">
@@ -790,12 +778,11 @@ TBD
 ---
 
 ### <a id="improving-medical-image-segmentation-with-sam2-a-be4a6927">Improving Medical Image Segmentation with SAM2: Analyzing the Impact of Object Characteristics and Finetuning on Multi-Planar Datasets</a>
-> **Venue:** 2025  
+> **Venue:** European Journal of Radiology Artificial Intelligence 2025  
 > **Authors:** E. Chukwujindu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Original Link](https://www.sciencedirect.com/science/article/pii/S3050577125000325) [Code](https://github.com/RadSam2/rad_sam2)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S3050577125000325) [Original Link](https://www.sciencedirect.com/science/article/pii/S3050577125000325) [Code](https://github.com/RadSam2/rad_sam2)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -813,12 +800,11 @@ TBD
 ---
 
 ### <a id="samusa-segment-anything-model-2-for-ultrasound-a-4e4c55ae">SAMUSA: Segment Anything Model 2 for UltraSound Annotation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** B. Podvin et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://hal.science/hal-05475492) [Original Link](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-05141-7_49) [Original Link](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -836,12 +822,11 @@ TBD
 ---
 
 ### <a id="crisp-sam2-sam2-with-cross-modal-interaction-and-aed849b6">CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 33rd ACM International Conference on Multimedia 2025  
 > **Authors:** X. Yu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2506.23121) [Original Link](https://arxiv.org/pdf/2506.23121) [Code](https://github.com/YU-deep/CRISP_SAM2.git)
+[Viewable Link](https://dl.acm.org/doi/10.1145/3746027.3755108) [Original Link](https://arxiv.org/pdf/2506.23121) [Code](https://github.com/YU-deep/CRISP_SAM2.git)
 
 <p align="center">
   <img src="imgs/crisp-sam2-sam2-with-cross-modal-interaction-and-aed849b6.png" width="920">
@@ -858,12 +843,11 @@ TBD
 ---
 
 ### <a id="advancements-in-medical-image-classification-thr-7f9403ed">Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP)  
 > **Authors:** M. Mansoori et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2505.19779) [Original Link](https://arxiv.org/pdf/2505.19779) [Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)
+[Viewable Link](https://ieeexplore.ieee.org/document/11084641/) [Original Link](https://arxiv.org/pdf/2505.19779) [Code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)
 
 <p align="center">
   <img src="imgs/advancements-in-medical-image-classification-thr-7f9403ed.png" width="920">
@@ -883,7 +867,6 @@ TBD
 > **Venue:** 2025  
 > **Authors:** G. Huo et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2505.16304)
 
@@ -902,12 +885,11 @@ TBD
 ---
 
 ### <a id="accelerating-volumetric-medical-image-annotation-c4ec9531">Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** IEEE Transactions on Medical Imaging 2026  
 > **Authors:** Y. Chen et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2505.01854) [Original Link](https://arxiv.org/pdf/2505.01854)
+[Viewable Link](https://ieeexplore.ieee.org/document/11224387/) [Original Link](https://arxiv.org/pdf/2505.01854)
 
 <p align="center">
   <img src="imgs/accelerating-volumetric-medical-image-annotation-c4ec9531.png" width="920">
@@ -927,9 +909,8 @@ TBD
 > **Venue:** JMIR AI 2025  
 > **Authors:** Y. Yamagishi et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.2196/72109) [Original Link](https://ai.jmir.org/2025/1/e72109)
+[Viewable Link](https://ai.jmir.org/2025/1/e72109)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -947,12 +928,11 @@ TBD
 ---
 
 ### <a id="medsam2-segment-anything-in-3d-medical-images-an-9bde8144">MedSAM2: Segment Anything in 3D Medical Images and Videos</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** J. Ma et al.  
 > **Keywords:** InteractiveMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2504.03600) [Original Link](https://arxiv.org/pdf/2504.03600) [Code](https://github.com/bowang-lab/MedSAM2)
+[Viewable Link](https://arxiv.org/abs/2504.03600) [Original Link](https://arxiv.org/pdf/2504.03600) [Code](https://github.com/bowang-lab/MedSAM2)
 
 <p align="center">
   <img src="imgs/medsam2-segment-anything-in-3d-medical-images-an-9bde8144.png" width="920">
@@ -969,12 +949,11 @@ TBD
 ---
 
 ### <a id="prompt-once-segment-everything-leveraging-sam-2-fc574ae1">Prompt Once, Segment Everything: Leveraging Sam 2 Potential for Infinite Medical Image Segmentation with a Single Prompt</a>
-> **Venue:** SSRN Electronic Journal 2024  
+> **Venue:** Algorithms 2025  
 > **Authors:** JD. Gutiérrez et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://doi.org/10.2139/ssrn.4947208) [Original Link](https://www.mdpi.com/1999-4893/18/4/227)
+[Viewable Link](https://www.mdpi.com/1999-4893/18/4/227)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -992,12 +971,11 @@ TBD
 ---
 
 ### <a id="semi-automated-segmentation-of-magnitude-images-cac696be">Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2)</a>
-> **Venue:** 2025  
+> **Venue:** Medical Imaging 2025: Clinical and Biomedical Imaging  
 > **Authors:** A. Kazemi et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1117/12.3051724) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/3051724/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.full) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1015,12 +993,11 @@ TBD
 ---
 
 ### <a id="self-prompting-driven-sam2-for-3d-medical-image-cd20683a">Self-Prompting Driven SAM2 for 3D Medical Image Segmentation</a>
-> **Venue:** 2025  
+> **Venue:** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 > **Authors:** S. Wei et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/icassp49660.2025.10889344) [Original Link](https://ieeexplore.ieee.org/document/10889344)
+[Viewable Link](https://ieeexplore.ieee.org/document/10889344/) [Original Link](https://ieeexplore.ieee.org/document/10889344)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1038,10 +1015,9 @@ TBD
 ---
 
 ### <a id="rethinking-few-shot-medical-image-segmentation-b-e1f08ac9">Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** H. Zu et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2503.04826) [Original Link](https://arxiv.org/pdf/2503.04826)
 
@@ -1063,7 +1039,6 @@ TBD
 > **Venue:** 2025  
 > **Authors:** X. Wang et al.  
 > **Keywords:** InteractiveMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2502.03501)
 
@@ -1082,12 +1057,11 @@ TBD
 ---
 
 ### <a id="rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca">RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** B. Xie et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2502.02741) [Original Link](https://arxiv.org/pdf/2502.02741)
+[Viewable Link](https://arxiv.org/abs/2502.02741) [Original Link](https://arxiv.org/pdf/2502.02741)
 
 <p align="center">
   <img src="imgs/rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca.png" width="920">
@@ -1107,7 +1081,6 @@ TBD
 > **Venue:** 2025  
 > **Authors:** G. Hoyer et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2501.13376)
 
@@ -1126,12 +1099,11 @@ TBD
 ---
 
 ### <a id="few-shot-adaptation-of-training-free-foundation-8b31dd67">Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** X. He et al.  
-> **Keywords:** Zero-ShotMIS, SAM
-
+> **Keywords:** Zero-ShotMIS, SAM2/3
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2501.09138) [Original Link](https://arxiv.org/pdf/2501.09138)
+[Viewable Link](https://arxiv.org/abs/2501.09138) [Original Link](https://arxiv.org/pdf/2501.09138)
 
 <p align="center">
   <img src="imgs/few-shot-adaptation-of-training-free-foundation-8b31dd67.png" width="920">
@@ -1143,7 +1115,7 @@ Vision foundation models have achieved remarkable progress across various image 
 **Summary**  
 TBD
 
-[⬆ Back to Literature Table](#samzsmis)
+[⬆ Back to Literature Table](#sam234zsmis)
 
 ---
 
@@ -1151,9 +1123,8 @@ TBD
 > **Venue:** Entropy 2024  
 > **Authors:** Z. Li et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.3390/e26121059) [Original Link](https://www.mdpi.com/1099-4300/26/12/1059)
+[Viewable Link](https://www.mdpi.com/1099-4300/26/12/1059)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1171,12 +1142,11 @@ TBD
 ---
 
 ### <a id="self-prompting-polyp-segmentation-in-colonoscopy-15431981">Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 > **Authors:** M. Mansoori et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.09484) [Original Link](https://arxiv.org/pdf/2409.09484) [Code](https://github.com/sajjad-sh33/YOLO_SAM2)
+[Viewable Link](https://ieeexplore.ieee.org/document/10887638/) [Original Link](https://arxiv.org/pdf/2409.09484) [Code](https://github.com/sajjad-sh33/YOLO_SAM2)
 
 <p align="center">
   <img src="imgs/self-prompting-polyp-segmentation-in-colonoscopy-15431981.png" width="920">
@@ -1193,12 +1163,11 @@ TBD
 ---
 
 ### <a id="sam-octa2-layer-sequence-octa-segmentation-with-8df9f75d">SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 > **Authors:** X. Chen et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.09286) [Original Link](https://arxiv.org/pdf/2409.09286) [Code](https://github.com/ShellRedia/SAM-OCTA2)
+[Viewable Link](https://ieeexplore.ieee.org/document/10888853/) [Original Link](https://arxiv.org/pdf/2409.09286) [Code](https://github.com/ShellRedia/SAM-OCTA2)
 
 <p align="center">
   <img src="imgs/sam-octa2-layer-sequence-octa-segmentation-with-8df9f75d.png" width="920">
@@ -1215,12 +1184,11 @@ TBD
 ---
 
 ### <a id="retrieval-augmented-few-shot-medical-image-segme-ec75cd75">Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** IEEE Transactions on Neural Networks and Learning Systems 2025  
 > **Authors:** L. Zhao et al.  
 > **Keywords:** Few-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.08813) [Original Link](https://arxiv.org/pdf/2408.08813)
+[Viewable Link](https://ieeexplore.ieee.org/document/11021654/) [Original Link](https://arxiv.org/pdf/2408.08813)
 
 <p align="center">
   <img src="imgs/retrieval-augmented-few-shot-medical-image-segme-ec75cd75.png" width="920">
@@ -1240,7 +1208,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** Z. Yildiz et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2408.15224) [Code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)
 
@@ -1259,12 +1226,11 @@ TBD
 ---
 
 ### <a id="a-short-review-and-evaluation-of-sam2-s-performa-d5027d82">A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Y. He et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.11210) [Original Link](https://arxiv.org/pdf/2408.11210) [Code](https://github.com/Project-MONAI/VISTA)
+[Viewable Link](https://arxiv.org/abs/2408.11210) [Original Link](https://arxiv.org/pdf/2408.11210) [Code](https://github.com/Project-MONAI/VISTA)
 
 <p align="center">
   <img src="imgs/a-short-review-and-evaluation-of-sam2-s-performa-d5027d82.png" width="920">
@@ -1284,9 +1250,8 @@ TBD
 > **Venue:** Visual Intelligence 2026  
 > **Authors:** X. Xiong et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/s44267-025-00106-w) [Original Link](https://arxiv.org/pdf/2408.08870) [Code](https://github.com/WZH0120/SAM2-UNet)
+[Viewable Link](https://link.springer.com/10.1007/s44267-025-00106-w) [Original Link](https://arxiv.org/pdf/2408.08870) [Code](https://github.com/WZH0120/SAM2-UNet)
 
 <p align="center">
   <img src="imgs/sam2-unet-segment-anything-2-makes-strong-encode-8acf7e84.png" width="920">
@@ -1303,12 +1268,11 @@ TBD
 ---
 
 ### <a id="surgical-sam-2-real-time-segment-anything-in-sur-c37ec715">Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** H. Liu et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.07931) [Original Link](https://arxiv.org/pdf/2408.07931) [Code](https://github.com/jinlab-imvr/Surgical-SAM-2)
+[Viewable Link](https://arxiv.org/abs/2408.07931) [Original Link](https://arxiv.org/pdf/2408.07931) [Code](https://github.com/jinlab-imvr/Surgical-SAM-2)
 
 <p align="center">
   <img src="imgs/surgical-sam-2-real-time-segment-anything-in-sur-c37ec715.png" width="920">
@@ -1325,12 +1289,11 @@ TBD
 ---
 
 ### <a id="zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501">Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Y. Yamagishi et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.06170) [Original Link](https://arxiv.org/pdf/2408.06170)
+[Viewable Link](https://arxiv.org/abs/2408.06170) [Original Link](https://arxiv.org/pdf/2408.06170)
 
 <p align="center">
   <img src="imgs/zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501.png" width="920">
@@ -1347,12 +1310,11 @@ TBD
 ---
 
 ### <a id="polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c">Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE 5th International Conference on Human-Machine Systems (ICHMS)  
 > **Authors:** M. Mansoori et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.05892) [Original Link](https://arxiv.org/pdf/2408.05892) [Code](https://github.com/sajjad-sh33/Polyp-SAM-2)
+[Viewable Link](https://ieeexplore.ieee.org/document/11154309/) [Original Link](https://arxiv.org/pdf/2408.05892) [Code](https://github.com/sajjad-sh33/Polyp-SAM-2)
 
 <p align="center">
   <img src="imgs/polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c.png" width="920">
@@ -1369,12 +1331,11 @@ TBD
 ---
 
 ### <a id="novel-adaptation-of-video-segmentation-to-3d-mri-24039159">Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2025: Imaging Informatics  
 > **Authors:** AS. Yu et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.04762) [Original Link](https://arxiv.org/pdf/2408.04762)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13411/3047346/Novel-adaptation-of-video-segmentation-to-3D-MRI--efficient/10.1117/12.3047346.full) [Original Link](https://arxiv.org/pdf/2408.04762)
 
 <p align="center">
   <img src="imgs/novel-adaptation-of-video-segmentation-to-3d-mri-24039159.png" width="920">
@@ -1391,12 +1352,11 @@ TBD
 ---
 
 ### <a id="sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b">SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation</a>
-> **Venue:** Lecture notes in computer science 2026  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** J. Yu et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-13961-0_18) [Original Link](https://arxiv.org/pdf/2408.04593)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-13961-0_18) [Original Link](https://arxiv.org/pdf/2408.04593)
 
 <p align="center">
   <img src="imgs/sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b.png" width="920">
@@ -1416,7 +1376,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** T. Chen et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2408.04579)
 
@@ -1435,12 +1394,11 @@ TBD
 ---
 
 ### <a id="is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e">Is SAM 2 Better than SAM in Medical Image Segmentation?</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2025: Image Processing  
 > **Authors:** S. Sengupta et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.04212) [Original Link](https://arxiv.org/pdf/2408.04212)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047370/Is-SAM-2-better-than-SAM-in-medical-image-segmentation/10.1117/12.3047370.full) [Original Link](https://arxiv.org/pdf/2408.04212)
 
 <p align="center">
   <img src="imgs/is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e.png" width="920">
@@ -1457,12 +1415,11 @@ TBD
 ---
 
 ### <a id="performance-and-nonadversarial-robustness-of-the-cfdbb3ed">Performance and nonadversarial robustness of the segment anything model 2 in surgical video segmentation</a>
-> **Venue:** arXiv.org 2025  
+> **Venue:** Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions, and Modeling  
 > **Authors:** Y. Shen et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1117/12.3047383) [Original Link](https://arxiv.org/pdf/2408.04098)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/3047383/Performance-and-nonadversarial-robustness-of-the-segment-anything-model-2/10.1117/12.3047383.full) [Original Link](https://arxiv.org/pdf/2408.04098)
 
 <p align="center">
   <img src="imgs/performance-and-nonadversarial-robustness-of-the-cfdbb3ed.png" width="920">
@@ -1482,7 +1439,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** M. Zhang et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2408.03651) [Code](https://github.com/simzhangbest/SAM2PATH)
 
@@ -1501,12 +1457,11 @@ TBD
 ---
 
 ### <a id="segment-anything-in-medical-images-and-videos-be-c913c54f">Segment Anything in Medical Images and Videos: Benchmark and Deployment</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Ma et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.03322) [Original Link](https://arxiv.org/pdf/2408.03322) [Code](https://github.com/bowang-lab/MedSAM)
+[Viewable Link](https://arxiv.org/abs/2408.03322) [Original Link](https://arxiv.org/pdf/2408.03322) [Code](https://github.com/bowang-lab/MedSAM)
 
 <p align="center">
   <img src="imgs/segment-anything-in-medical-images-and-videos-be-c913c54f.png" width="920">
@@ -1523,12 +1478,11 @@ TBD
 ---
 
 ### <a id="biomedical-sam-2-segment-anything-in-biomedical-5fda9d03">Biomedical SAM 2: Segment Anything in Biomedical Images and Videos</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Z. Yan et al.  
 > **Keywords:** OtherMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.03286) [Original Link](https://arxiv.org/pdf/2408.03286) [Code](https://github.com/ZhilingYan/Biomedical-SAM-2)
+[Viewable Link](https://arxiv.org/abs/2408.03286) [Original Link](https://arxiv.org/pdf/2408.03286) [Code](https://github.com/ZhilingYan/Biomedical-SAM-2)
 
 <p align="center">
   <img src="imgs/biomedical-sam-2-segment-anything-in-biomedical-5fda9d03.png" width="920">
@@ -1545,12 +1499,11 @@ TBD
 ---
 
 ### <a id="interactive-3d-medical-image-segmentation-with-s-bfc855bf">Interactive 3D Medical Image Segmentation with SAM 2</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** C. Shen et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.02635) [Original Link](https://arxiv.org/pdf/2408.02635) [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)
+[Viewable Link](https://arxiv.org/abs/2408.02635) [Original Link](https://arxiv.org/pdf/2408.02635) [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)
 
 <p align="center">
   <img src="imgs/interactive-3d-medical-image-segmentation-with-s-bfc855bf.png" width="920">
@@ -1567,12 +1520,11 @@ TBD
 ---
 
 ### <a id="zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32">Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2025: Image Processing  
 > **Authors:** A. Lou et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.01648) [Original Link](https://arxiv.org/pdf/2408.01648) [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047479/Zero-shot-surgical-tool-segmentation-in-monocular-video-using-Segment/10.1117/12.3047479.full) [Original Link](https://arxiv.org/pdf/2408.01648) [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)
 
 <p align="center">
   <img src="imgs/zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32.png" width="920">
@@ -1589,12 +1541,11 @@ TBD
 ---
 
 ### <a id="medical-sam-2-segment-medical-images-as-video-vi-c5d7ee91">Medical SAM 2: Segment medical images as video via Segment Anything Model 2</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Zhu et al.  
 > **Keywords:** InteractiveMIS, SAM2/3
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.00874) [Original Link](https://arxiv.org/pdf/2408.00874) [Code](https://github.com/MedicineToken/Medical-SAM2)
+[Viewable Link](https://arxiv.org/abs/2408.00874) [Original Link](https://arxiv.org/pdf/2408.00874) [Code](https://github.com/MedicineToken/Medical-SAM2)
 
 <p align="center">
   <img src="imgs/medical-sam-2-segment-medical-images-as-video-vi-c5d7ee91.png" width="920">
@@ -1614,9 +1565,8 @@ TBD
 > **Venue:** IEEE Transactions on Biomedical Engineering 2026  
 > **Authors:** H. Dong et al.  
 > **Keywords:** InteractiveMIS, SAM2/3
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tbme.2026.3653267) [Original Link](https://arxiv.org/pdf/2408.00756)
+[Viewable Link](https://ieeexplore.ieee.org/document/11347005/) [Original Link](https://arxiv.org/pdf/2408.00756)
 
 <p align="center">
   <img src="imgs/segment-anything-model-2-an-application-to-2d-an-91bc686c.png" width="920">
@@ -1636,9 +1586,8 @@ TBD
 > **Venue:** Photoacoustics 2026  
 > **Authors:** J. Hasan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.pacs.2026.100822) [Original Link](https://www.sciencedirect.com/science/article/pii/S2213597926000285) [Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S2213597926000285) [Original Link](https://www.sciencedirect.com/science/article/pii/S2213597926000285) [Code](https://github.com/DeeplearningBILAB/FM-Adapt-foundation-model-PA-US-segmentation)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1656,12 +1605,11 @@ TBD
 ---
 
 ### <a id="are-general-purpose-vision-models-all-we-need-fo-d6ba4ae7">Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study</a>
-> **Venue:** ArXiv.org 2026  
+> **Venue:** arXiv.org 2026  
 > **Authors:** K. Borst et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2603.13044) [Original Link](https://arxiv.org/pdf/2603.13044) [Code](https://github.com/VanessaBorst/GPVision4MIS)
+[Viewable Link](https://arxiv.org/abs/2603.13044) [Original Link](https://arxiv.org/pdf/2603.13044) [Code](https://github.com/VanessaBorst/GPVision4MIS)
 
 <p align="center">
   <img src="imgs/are-general-purpose-vision-models-all-we-need-fo-d6ba4ae7.png" width="920">
@@ -1678,12 +1626,11 @@ TBD
 ---
 
 ### <a id="toward-clinically-ready-foundation-models-in-med-8f3b99f1">Toward Clinically Ready Foundation Models in Medical Image Analysis: Adaptation Mechanisms and Deployment Trade-offs</a>
-> **Venue:** arXiv (Cornell University) 2026  
+> **Venue:** arXiv.org 2026  
 > **Authors:** K. Phuntsho et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2603.14271) [Original Link](https://arxiv.org/pdf/2603.14271)
+[Viewable Link](https://arxiv.org/abs/2603.14271) [Original Link](https://arxiv.org/pdf/2603.14271)
 
 <p align="center">
   <img src="imgs/toward-clinically-ready-foundation-models-in-med-8f3b99f1.png" width="920">
@@ -1703,9 +1650,8 @@ TBD
 > **Venue:** IEEE Transactions on Medical Imaging 2026  
 > **Authors:** J. Tang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tmi.2026.3674509) [Original Link](https://ieeexplore.ieee.org/abstract/document/11436118)
+[Viewable Link](https://ieeexplore.ieee.org/document/11436118/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11436118)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1723,12 +1669,11 @@ TBD
 ---
 
 ### <a id="prompting-with-the-human-touch-evaluating-model-6600f1ab">Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation</a>
-> **Venue:** ArXiv.org 2026  
+> **Venue:** arXiv.org 2026  
 > **Authors:** C. Magg et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2603.10541) [Original Link](https://arxiv.org/pdf/2603.10541)
+[Viewable Link](https://arxiv.org/abs/2603.10541) [Original Link](https://arxiv.org/pdf/2603.10541)
 
 <p align="center">
   <img src="imgs/prompting-with-the-human-touch-evaluating-model-6600f1ab.png" width="920">
@@ -1745,12 +1690,11 @@ TBD
 ---
 
 ### <a id="synsam-a-hybrid-synchronous-learning-framework-w-28886886">SynSAM: a hybrid synchronous learning framework with knowledge retention for prostate zonal segmentation leveraging the segment anything model</a>
-> **Venue:** Medical & Biological Engineering & Computing 2026  
+> **Venue:** Medical &amp; Biological Engineering &amp; Computing 2026  
 > **Authors:** C. Krishnan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/s11517-026-03522-2) [Original Link](https://link.springer.com/content/pdf/10.1007/s11517-026-03522-2.pdf)
+[Viewable Link](https://link.springer.com/10.1007/s11517-026-03522-2) [Original Link](https://link.springer.com/content/pdf/10.1007/s11517-026-03522-2.pdf)
 
 <p align="center">
   <img src="imgs/synsam-a-hybrid-synchronous-learning-framework-w-28886886.png" width="920">
@@ -1770,9 +1714,8 @@ TBD
 > **Venue:** Medical Image Analysis 2026  
 > **Authors:** R. Ge et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://hal.science/hal-05526088) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841526000654) [Code](https://github.com/XinAloha/UniVG)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841526000654) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841526000654) [Code](https://github.com/XinAloha/UniVG)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1793,9 +1736,8 @@ TBD
 > **Venue:** npj Digital Medicine 2026  
 > **Authors:** M. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41746-025-02306-6) [Original Link](https://www.nature.com/articles/s41746-025-02306-6)
+[Viewable Link](https://www.nature.com/articles/s41746-025-02306-6)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1816,9 +1758,8 @@ TBD
 > **Venue:** Medical Image Analysis 2026  
 > **Authors:** J. Miao et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.media.2026.103973) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841526000423) [Code](https://github.com/JuzhengMiao/CPAC-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841526000423) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841526000423) [Code](https://github.com/JuzhengMiao/CPAC-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1839,9 +1780,8 @@ TBD
 > **Venue:** Pattern Recognition 2026  
 > **Authors:** J. Li et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.patcog.2026.113206) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001718)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0031320326001718) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001718)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1859,12 +1799,11 @@ TBD
 ---
 
 ### <a id="on-the-robustness-of-foundational-3d-medical-ima-d79b0a59">On The Robustness of Foundational 3D Medical Image Segmentation Models Against Imprecise Visual Prompts</a>
-> **Venue:** arXiv (Cornell University) 2026  
+> **Venue:** arXiv.org 2026  
 > **Authors:** S. Chattopadhyay et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.48550/arxiv.2601.16383) [Original Link](https://arxiv.org/pdf/2601.16383) [Code](https://github.com/ucsdbiag/Prompt-Robustness-MedSegFMs)
+[Viewable Link](https://arxiv.org/abs/2601.16383) [Original Link](https://arxiv.org/pdf/2601.16383) [Code](https://github.com/ucsdbiag/Prompt-Robustness-MedSegFMs)
 
 <p align="center">
   <img src="imgs/on-the-robustness-of-foundational-3d-medical-ima-d79b0a59.png" width="920">
@@ -1884,9 +1823,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2026  
 > **Authors:** S. Tang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2026.102698) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000017)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611126000017) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000017)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1907,9 +1845,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2026  
 > **Authors:** J. Zhu et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2026.102708) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S089561112600011X)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S089561112600011X) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S089561112600011X)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1930,9 +1867,8 @@ TBD
 > **Venue:** IEEE Open Journal of Signal Processing 2026  
 > **Authors:** S. Ahn et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/ojsp.2025.3650437) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11321196)
+[Viewable Link](https://ieeexplore.ieee.org/document/11321196/) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11321196)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1950,12 +1886,11 @@ TBD
 ---
 
 ### <a id="atlas-is-your-perfect-context-one-shot-customiza-85662d42">Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Z. Zhang et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2512.18176) [Original Link](https://arxiv.org/pdf/2512.18176)
+[Viewable Link](https://arxiv.org/abs/2512.18176) [Original Link](https://arxiv.org/pdf/2512.18176)
 
 <p align="center">
   <img src="imgs/atlas-is-your-perfect-context-one-shot-customiza-85662d42.png" width="920">
@@ -1975,9 +1910,8 @@ TBD
 > **Venue:** Nature Methods 2025  
 > **Authors:** M. Marks et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41592-025-02879-w) [Original Link](https://www.nature.com/articles/s41592-025-02879-w) [Code](https://cellsam.deepcell.org)
+[Viewable Link](https://www.nature.com/articles/s41592-025-02879-w) [Code](https://cellsam.deepcell.org)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -1995,12 +1929,11 @@ TBD
 ---
 
 ### <a id="voxtell-free-text-promptable-universal-3d-medica-ab791e43">VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** M. Rokuss et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2511.11450) [Original Link](https://arxiv.org/pdf/2511.11450) [Code](www.github.com/MIC-DKFZ/VoxTell)
+[Viewable Link](https://arxiv.org/abs/2511.11450) [Original Link](https://arxiv.org/pdf/2511.11450) [Code](www.github.com/MIC-DKFZ/VoxTell)
 
 <p align="center">
   <img src="imgs/voxtell-free-text-promptable-universal-3d-medica-ab791e43.png" width="920">
@@ -2017,12 +1950,11 @@ TBD
 ---
 
 ### <a id="mediround-multi-round-entity-level-reasoning-seg-fd48fab0">MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Q. Tong et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2511.12110) [Original Link](https://arxiv.org/pdf/2511.12110) [Code](https://github.com/Edisonhimself/MediRound)
+[Viewable Link](https://arxiv.org/abs/2511.12110) [Original Link](https://arxiv.org/pdf/2511.12110) [Code](https://github.com/Edisonhimself/MediRound)
 
 <p align="center">
   <img src="imgs/mediround-multi-round-entity-level-reasoning-seg-fd48fab0.png" width="920">
@@ -2039,12 +1971,11 @@ TBD
 ---
 
 ### <a id="ws-sam-segment-anything-with-sparse-prompts-for-f8cb59c8">WS-SAM: Segment Anything with Sparse Prompts for Weakly-Supervised Medical Segmentation</a>
-> **Venue:** 2025  
+> **Venue:** 2025 21st International Symposium on Biomedical Image Processing and Analysis (SIPAIM)  
 > **Authors:** T. Shaharabany et al.  
 > **Keywords:** Weakly-SupervisedMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/sipaim67325.2025.11283292) [Original Link](https://ieeexplore.ieee.org/abstract/document/11283292)
+[Viewable Link](https://ieeexplore.ieee.org/document/11283292/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11283292)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2062,12 +1993,11 @@ TBD
 ---
 
 ### <a id="sam-guided-prompt-learning-for-multiple-sclerosi-959e8d70">SAM-guided prompt learning for Multiple Sclerosis lesion segmentation</a>
-> **Venue:** Pattern Recognition Letters 2025  
+> **Venue:** Pattern Recognition Letters 2026  
 > **Authors:** FP. Salanitri et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.patrec.2025.11.018) [Original Link](https://www.sciencedirect.com/science/article/pii/S0167865525003708)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0167865525003708) [Original Link](https://www.sciencedirect.com/science/article/pii/S0167865525003708)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2085,12 +2015,11 @@ TBD
 ---
 
 ### <a id="ultrasam-a-foundational-medical-ultrasound-segme-7e0f4836">UltraSAM: A foundational medical ultrasound segmentation model with limited training data</a>
-> **Venue:** Expert Systems with Applications 2025  
+> **Venue:** Expert Systems with Applications 2026  
 > **Authors:** T. Jiang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.eswa.2025.130223) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425038382)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0957417425038382) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425038382)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2108,12 +2037,11 @@ TBD
 ---
 
 ### <a id="boundary-aware-test-time-adaptation-for-zero-sho-09c44473">Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** C. Xu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2512.04520) [Original Link](https://arxiv.org/pdf/2512.04520) [Code](https://github.com/Emilychenlin/BA-TTA-SAM)
+[Viewable Link](https://arxiv.org/abs/2512.04520) [Original Link](https://arxiv.org/pdf/2512.04520) [Code](https://github.com/Emilychenlin/BA-TTA-SAM)
 
 <p align="center">
   <img src="imgs/boundary-aware-test-time-adaptation-for-zero-sho-09c44473.png" width="920">
@@ -2130,10 +2058,9 @@ TBD
 ---
 
 ### <a id="not-quite-anything-overcoming-sams-limitations-f-27319768">Not Quite Anything: Overcoming SAMs Limitations for 3D Medical Imaging</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** K. Moore et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2511.19471) [Original Link](https://arxiv.org/pdf/2511.19471)
 
@@ -2152,12 +2079,11 @@ TBD
 ---
 
 ### <a id="continual-alignment-for-sam-rethinking-foundatio-af6091bd">Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2511.17201) [Original Link](https://arxiv.org/pdf/2511.17201) [Code](https://github.com/azzzzyo/Continual-Alignment-for-SAM)
+[Viewable Link](https://arxiv.org/abs/2511.17201) [Original Link](https://arxiv.org/pdf/2511.17201) [Code](https://github.com/azzzzyo/Continual-Alignment-for-SAM)
 
 <p align="center">
   <img src="imgs/continual-alignment-for-sam-rethinking-foundatio-af6091bd.png" width="920">
@@ -2174,12 +2100,11 @@ TBD
 ---
 
 ### <a id="seganypet-universal-promptable-segmentation-from-d9a8e251">SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2502.14351) [Original Link](https://arxiv.org/pdf/2502.14351) [Code](https://github.com/YichiZhang98/SegAnyPET)
+[Viewable Link](https://arxiv.org/abs/2502.14351) [Original Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SegAnyPET_Universal_Promptable_Segmentation_from_Positron_Emission_Tomography_Images_ICCV_2025_paper.pdf) [Code](https://github.com/YichiZhang98/SegAnyPET)
 
 <p align="center">
   <img src="imgs/seganypet-universal-promptable-segmentation-from-d9a8e251.png" width="920">
@@ -2199,7 +2124,6 @@ TBD
 > **Venue:** ArXiv.org 2025  
 > **Authors:** J. Hu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](http://arxiv.org/abs/2503.02410) [Original Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Neuroverse3D_Developing_In-Context_Learning_Universal_Model_for_Neuroimaging_in_3D_ICCV_2025_paper.pdf) [Code](https://github.com/jiesihu/Neuroverse3D)
 
@@ -2221,7 +2145,6 @@ TBD
 > **Venue:** ArXiv.org 2025  
 > **Authors:** S. Chen et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](http://arxiv.org/abs/2511.08626) [Original Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.pdf) [Code](https://github.com/ShChen233/SAMora)
 
@@ -2240,12 +2163,11 @@ TBD
 ---
 
 ### <a id="enhancing-the-reliability-of-auto-prompting-sam-d01ccbbf">Enhancing the Reliability of Auto-Prompting SAM for Medical Image Segmentation with Uncertainty Estimation and Rectification</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/iccvw69036.2025.00138) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Zhang_Enhancing_the_Reliability_of_Auto-Prompting_SAM_for_Medical_Image_Segmentation_ICCVW_2025_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11374295/) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Zhang_Enhancing_the_Reliability_of_Auto-Prompting_SAM_for_Medical_Image_Segmentation_ICCVW_2025_paper.pdf)
 
 <p align="center">
   <img src="imgs/enhancing-the-reliability-of-auto-prompting-sam-d01ccbbf.png" width="920">
@@ -2262,12 +2184,11 @@ TBD
 ---
 
 ### <a id="medsam-guided-curriculum-learning-for-white-matt-6ca94da7">MedSAM-Guided Curriculum Learning for White Matter Tract Segmentation in Block Face Imaging of Fetal Brain</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)  
 > **Authors:** AK. Shibu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/iccvw69036.2025.00113) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Shibu_MedSAM-Guided_Curriculum_Learning_for_White_Matter_Tract_Segmentation_in_Block_ICCVW_2025_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11375167/) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/papers/Shibu_MedSAM-Guided_Curriculum_Learning_for_White_Matter_Tract_Segmentation_in_Block_ICCVW_2025_paper.pdf)
 
 <p align="center">
   <img src="imgs/medsam-guided-curriculum-learning-for-white-matt-6ca94da7.png" width="920">
@@ -2284,12 +2205,11 @@ TBD
 ---
 
 ### <a id="sam-spjunc-self-prompting-for-junction-detection-916aeb2f">SAM-SPJunc: Self-Prompting for Junction Detection in Retinal Images via Radius-Based Representations</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)  
 > **Authors:** M. Attari et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/iccvw69036.2025.00070) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/BISCUIT/papers/Attari_SAM-SPJunc_Self-Prompting_for_Junction_Detection_in_Retinal_Images_via_Radius-Based_ICCVW_2025_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11375361/) [Original Link](https://openaccess.thecvf.com/content/ICCV2025W/BISCUIT/papers/Attari_SAM-SPJunc_Self-Prompting_for_Junction_Detection_in_Retinal_Images_via_Radius-Based_ICCVW_2025_paper.pdf)
 
 <p align="center">
   <img src="imgs/sam-spjunc-self-prompting-for-junction-detection-916aeb2f.png" width="920">
@@ -2306,12 +2226,11 @@ TBD
 ---
 
 ### <a id="cross-hierarchical-decoding-with-sam-for-semi-su-41bb2918">Cross-Hierarchical Decoding With SAM for Semi-Supervised Medical Image Segmentation</a>
-> **Venue:** IEEE Transactions on Circuits and Systems for Video Technology 2025  
+> **Venue:** IEEE Transactions on Circuits and Systems for Video Technology 2026  
 > **Authors:** H. Chi et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tcsvt.2025.3625276) [Original Link](https://ieeexplore.ieee.org/abstract/document/11217143)
+[Viewable Link](https://ieeexplore.ieee.org/document/11217143/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11217143)
 
 <p align="center">
   <img src="imgs/cross-hierarchical-decoding-with-sam-for-semi-su-41bb2918.png" width="920">
@@ -2328,12 +2247,11 @@ TBD
 ---
 
 ### <a id="fm2-fusing-multiple-foundation-models-for-pathol-077cda3a">FM2: Fusing multiple foundation models for pathology image analysis via disentangled consensus-divergence representation</a>
-> **Venue:** 2025  
+> **Venue:** Information Fusion 2026  
 > **Authors:** Y. Yang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1566253525009029)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1566253525009029) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1566253525009029)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2351,12 +2269,11 @@ TBD
 ---
 
 ### <a id="de-lightsam-modality-decoupled-lightweight-sam-f-f94275f8">De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Q. Xu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2407.14153) [Original Link](https://arxiv.org/pdf/2407.14153) [Code](https://github.com/xq141839/ESP-MedSAM)
+[Viewable Link](https://arxiv.org/abs/2407.14153) [Original Link](https://ieeexplore.ieee.org/abstract/document/11203003) [Code](https://github.com/xq141839/De-LightSAM)
 
 <p align="center">
   <img src="imgs/de-lightsam-modality-decoupled-lightweight-sam-f-f94275f8.png" width="920">
@@ -2373,12 +2290,11 @@ TBD
 ---
 
 ### <a id="sam2-3dmed-empowering-sam2-for-3d-medical-image-f661aa9e">SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Y. Yang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2510.08967) [Original Link](https://arxiv.org/pdf/2510.08967)
+[Viewable Link](https://arxiv.org/abs/2510.08967) [Original Link](https://arxiv.org/pdf/2510.08967)
 
 <p align="center">
   <img src="imgs/sam2-3dmed-empowering-sam2-for-3d-medical-image-f661aa9e.png" width="920">
@@ -2395,12 +2311,11 @@ TBD
 ---
 
 ### <a id="dynamic-prompt-generation-for-interactive-3d-med-5059610d">Dynamic Prompt Generation for Interactive 3D Medical Image Segmentation Training</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** TC. Ndir et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2510.03189) [Original Link](https://arxiv.org/pdf/2510.03189)
+[Viewable Link](https://arxiv.org/abs/2510.03189) [Original Link](https://arxiv.org/pdf/2510.03189)
 
 <p align="center">
   <img src="imgs/dynamic-prompt-generation-for-interactive-3d-med-5059610d.png" width="920">
@@ -2420,9 +2335,8 @@ TBD
 > **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
 > **Authors:** G. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3613497) [Original Link](https://ieeexplore.ieee.org/abstract/document/11177220) [Code](https://github.com/HiLab-git/IPLC)
+[Viewable Link](https://ieeexplore.ieee.org/document/11177220/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11177220) [Code](https://github.com/HiLab-git/IPLC)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2440,10 +2354,9 @@ TBD
 ---
 
 ### <a id="balr-sam-boundary-aware-low-rank-adaptation-of-s-b7576818">BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Z. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2509.24204?) [Original Link](https://arxiv.org/pdf/2509.24204?)
 
@@ -2462,12 +2375,11 @@ TBD
 ---
 
 ### <a id="bio2vol-adapting-2d-biomedical-foundation-models-8d1e0f68">Bio2Vol: Adapting 2D Biomedical Foundation Models for Volumetric Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** J. Zhuang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04978-0_3) [Original Link](https://papers.miccai.org/miccai-2025/paper/1852_paper.pdf) [Code](https://github.com/JiaxinZhuang/Bio2Vol)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04978-0_3) [Original Link](https://papers.miccai.org/miccai-2025/paper/1852_paper.pdf) [Code](https://github.com/JiaxinZhuang/Bio2Vol)
 
 <p align="center">
   <img src="imgs/bio2vol-adapting-2d-biomedical-foundation-models-8d1e0f68.png" width="920">
@@ -2484,12 +2396,11 @@ TBD
 ---
 
 ### <a id="ha-sam-hierarchically-adapting-sam-for-nerve-seg-1b6df244">HA-SAM: Hierarchically Adapting SAM for Nerve Segmentation in Ultrasound Images</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** Z. Peng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04978-0_31) [Original Link](https://papers.miccai.org/miccai-2025/paper/3104_paper.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04978-0_31) [Original Link](https://papers.miccai.org/miccai-2025/paper/3104_paper.pdf)
 
 <p align="center">
   <img src="imgs/ha-sam-hierarchically-adapting-sam-for-nerve-seg-1b6df244.png" width="920">
@@ -2509,9 +2420,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2025  
 > **Authors:** Y. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2025.102650) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001594) [Code](https://github.com/mileswyn/VasCab)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001594) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0895611125001594) [Code](https://github.com/mileswyn/VasCab)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2532,9 +2442,8 @@ TBD
 > **Venue:** npj Digital Medicine 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41746-025-01881-y) [Original Link](https://www.nature.com/articles/s41746-025-01881-y.pdf) [Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)
+[Viewable Link](https://www.nature.com/articles/s41746-025-01881-y) [Original Link](https://www.nature.com/articles/s41746-025-01881-y.pdf) [Code](https://github.com/yuhoo0302/Segment-Anything-Model-for-Medical-Images)
 
 <p align="center">
   <img src="imgs/embedded-framework-for-clinical-medical-image-se-f5b99baf.png" width="920">
@@ -2554,9 +2463,8 @@ TBD
 > **Venue:** Cancer Medicine 2025  
 > **Authors:** L. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1002/cam4.71246) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)
+[Viewable Link](https://onlinelibrary.wiley.com/doi/10.1002/cam4.71246) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2574,12 +2482,11 @@ TBD
 ---
 
 ### <a id="spatial-temporal-memory-filtering-sam-for-lesion-b834589c">Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** Z. Tu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04937-7_52) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_52) [Code](https://github.com/tzz-ahu/STMFSAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04937-7_52) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_52) [Code](https://github.com/tzz-ahu/STMFSAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2597,12 +2504,11 @@ TBD
 ---
 
 ### <a id="moe-sam-enhancing-sam-for-medical-image-segmenta-85cf6d0f">MoE-SAM: Enhancing SAM for Medical Image Segmentation with Mixture-of-Experts</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** R. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04937-7_35) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_35) [Code](https://github.com/Asphyxiate-Rye/E-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04937-7_35) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_35) [Code](https://github.com/Asphyxiate-Rye/E-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2620,12 +2526,11 @@ TBD
 ---
 
 ### <a id="from-generalist-to-specialist-distilling-a-mixtu-0c769308">From Generalist to Specialist: Distilling a Mixture of Foundation Models for Domain-Specific Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** Q. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04937-7_19) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04937-7_19) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_19)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2643,12 +2548,11 @@ TBD
 ---
 
 ### <a id="towards-robust-retinal-vessel-segmentation-via-r-53ad2453">Towards Robust Retinal Vessel Segmentation via Reducing Open-Set Label Noises from SAM-Generated Masks</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** M. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04937-7_60) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_60)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04937-7_60) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04937-7_60)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2666,12 +2570,11 @@ TBD
 ---
 
 ### <a id="sparsely-annotated-medical-image-segmentation-vi-55970c6a">Sparsely Annotated Medical Image Segmentation via Cross-SAM of 3D and 2D Networks</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** H. Su et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-05141-7_51) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_51) [Code](https://github.com/CTSegPilot/SA-Net.git)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-05141-7_51) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-05141-7_51) [Code](https://github.com/CTSegPilot/SA-Net.git)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2689,12 +2592,11 @@ TBD
 ---
 
 ### <a id="pfedsam-personalized-federated-learning-of-segme-9fef3358">pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** T. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2509.15638) [Original Link](https://arxiv.org/pdf/2509.15638)
+[Viewable Link](https://arxiv.org/abs/2509.15638) [Original Link](https://arxiv.org/pdf/2509.15638)
 
 <p align="center">
   <img src="imgs/pfedsam-personalized-federated-learning-of-segme-9fef3358.png" width="920">
@@ -2711,12 +2613,11 @@ TBD
 ---
 
 ### <a id="dur-net-semi-supervised-abdominal-ct-pheochromoc-678a0928">DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D</a>
-> **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
+> **Venue:** IEEE Journal of Biomedical and Health Informatics 2026  
 > **Authors:** C. Qin et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3594897) [Original Link](https://ieeexplore.ieee.org/abstract/document/11162509)
+[Viewable Link](https://ieeexplore.ieee.org/document/11162509/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11162509)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2734,12 +2635,11 @@ TBD
 ---
 
 ### <a id="samtnu-adaptive-segment-anything-model-for-thyro-a848035d">SAMTNU: Adaptive Segment Anything Model for Thyroid and Nodule Ultrasound Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** D. Chen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04546-1_29) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04546-1_29)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04546-1_29) [Original Link](https://link.springer.com/chapter/10.1007/978-3-032-04546-1_29)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2757,12 +2657,11 @@ TBD
 ---
 
 ### <a id="leveraging-multi-text-joint-prompts-in-sam-for-r-01d9134a">Leveraging Multi-Text Joint Prompts in SAM for Robust Medical Image Segmentation</a>
-> **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
+> **Venue:** IEEE Journal of Biomedical and Health Informatics 2026  
 > **Authors:** X. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3607023) [Original Link](https://ieeexplore.ieee.org/abstract/document/11153032)
+[Viewable Link](https://ieeexplore.ieee.org/document/11153032/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11153032)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2780,12 +2679,11 @@ TBD
 ---
 
 ### <a id="a-probabilistic-segment-anything-model-for-ambig-5c3f73e2">A probabilistic segment anything model for ambiguity‑aware medical image segmentation</a>
-> **Venue:** arXiv.org 2026  
+> **Venue:** Medical Imaging 2026: Imaging Informatics  
 > **Authors:** T. Ward et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1117/12.3086125) [Original Link](https://arxiv.org/pdf/2509.05809) [Code](https://github.com/tbwa233/Probabilistic-SAM)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13930/3086125/A-probabilistic-segment-anything-model-for-ambiguityaware-medical-image-segmentation/10.1117/12.3086125.full) [Original Link](https://arxiv.org/pdf/2509.05809) [Code](https://github.com/tbwa233/Probabilistic-SAM)
 
 <p align="center">
   <img src="imgs/a-probabilistic-segment-anything-model-for-ambig-5c3f73e2.png" width="920">
@@ -2805,9 +2703,8 @@ TBD
 > **Venue:** Computers in Biology and Medicine 2025  
 > **Authors:** X. Yu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compbiomed.2025.110928) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482525012806)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0010482525012806) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482525012806)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2828,9 +2725,8 @@ TBD
 > **Venue:** Nature Biomedical Engineering 2025  
 > **Authors:** S. Zhang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41551-025-01497-3) [Original Link](https://www.nature.com/articles/s41551-025-01497-3) [Code](https://github.com/MedSegX/MedSegX-code)
+[Viewable Link](https://www.nature.com/articles/s41551-025-01497-3) [Code](https://github.com/MedSegX/MedSegX-code)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2848,12 +2744,11 @@ TBD
 ---
 
 ### <a id="large-vocabulary-segmentation-for-medical-images-5ebf18ad">Large-Vocabulary Segmentation for Medical Images with Text Prompts</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Z. Zhao et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2312.17183) [Original Link](https://arxiv.org/pdf/2312.17183.pdf) [Code](https://zhaoziheng.github.io/MedUniSeg)
+[Viewable Link](https://arxiv.org/abs/2312.17183) [Original Link](https://www.nature.com/articles/s41746-025-01964-w) [Code](https://github.com/zhaoziheng/SAT)
 
 <p align="center">
   <img src="imgs/large-vocabulary-segmentation-for-medical-images-5ebf18ad.png" width="920">
@@ -2870,12 +2765,11 @@ TBD
 ---
 
 ### <a id="persistent-homology-and-segment-anything-model-f-b2cfe487">Persistent Homology and Segment Anything Model for Automated Zero-Shot Localized Medical X-ray Images Segmentation (PH-SAM)</a>
-> **Venue:** Lecture notes in networks and systems 2025  
+> **Venue:** Lecture Notes in Networks and Systems 2025  
 > **Authors:** AA. Shami et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-99965-9_37) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-99965-9_37)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-99965-9_37) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-99965-9_37)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2893,12 +2787,11 @@ TBD
 ---
 
 ### <a id="e-bayessam-efficient-bayesian-adaptation-of-sam-a45bc870">E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** B. Huang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-05185-1_13) [Original Link](https://arxiv.org/pdf/2508.17408) [Code](https://github.com/mp31192/E-BayesSAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-05185-1_13) [Original Link](https://arxiv.org/pdf/2508.17408) [Code](https://github.com/mp31192/E-BayesSAM)
 
 <p align="center">
   <img src="imgs/e-bayessam-efficient-bayesian-adaptation-of-sam-a45bc870.png" width="920">
@@ -2915,12 +2808,11 @@ TBD
 ---
 
 ### <a id="mfb-sac-a-multi-scale-frequency-and-boundary-enh-790e1d91">MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP)  
 > **Authors:** X. Sun et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/icip55913.2025.11084537) [Original Link](https://ieeexplore.ieee.org/abstract/document/11084537) [Code](https://github.com/Mrliujunwen/SAC)
+[Viewable Link](https://ieeexplore.ieee.org/document/11084537/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11084537) [Code](https://github.com/Mrliujunwen/SAC)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2938,12 +2830,11 @@ TBD
 ---
 
 ### <a id="enhancing-feature-discrimination-with-pseudo-lab-b40b4f94">Enhancing feature discrimination with pseudo-labels for foundation model in segmentation of 3D medical images</a>
-> **Venue:** Neural Networks 2025  
+> **Venue:** Neural Networks 2026  
 > **Authors:** G. Jin et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.neunet.2025.107979) [Original Link](https://www.sciencedirect.com/science/article/pii/S0893608025008603) [Code](https://github.com/lonezhizi/PESF)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0893608025008603) [Original Link](https://www.sciencedirect.com/science/article/pii/S0893608025008603) [Code](https://github.com/lonezhizi/PESF)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -2961,12 +2852,11 @@ TBD
 ---
 
 ### <a id="medsamix-a-training-free-model-merging-approach-e015befc">MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation</a>
-> **Venue:** Proceedings of the AAAI Conference on Artificial Intelligence 2026  
+> **Venue:** AAAI Conference on Artificial Intelligence 2026  
 > **Authors:** Y. Yang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1609/aaai.v40i14.38161) [Original Link](https://arxiv.org/pdf/2508.11032)
+[Viewable Link](https://ojs.aaai.org/index.php/AAAI/article/view/38161) [Original Link](https://arxiv.org/pdf/2508.11032)
 
 <p align="center">
   <img src="imgs/medsamix-a-training-free-model-merging-approach-e015befc.png" width="920">
@@ -2983,12 +2873,11 @@ TBD
 ---
 
 ### <a id="enhancing-segment-anything-model-with-spatial-co-5ff547ec">Enhancing Segment Anything Model with spatial context and textural detail for cardiac MRI segmentation</a>
-> **Venue:** Biomedical Signal Processing and Control 2025  
+> **Venue:** Biomedical Signal Processing and Control 2026  
 > **Authors:** G. Zheng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.bspc.2025.108437) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486) [Code](https://github.com/LZUzgw/CD-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1746809425009486) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486) [Code](https://github.com/LZUzgw/CD-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3006,12 +2895,11 @@ TBD
 ---
 
 ### <a id="multi-sequence-parotid-gland-lesion-segmentation-3b5092d8">Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model</a>
-> **Venue:** arXiv.org  
+> **Venue:** Expert Systems with Applications 2026  
 > **Authors:** Z. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2508.09645) [Original Link](https://arxiv.org/pdf/2508.09645)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0957417426012819) [Original Link](https://arxiv.org/pdf/2508.09645)
 
 <p align="center">
   <img src="imgs/multi-sequence-parotid-gland-lesion-segmentation-3b5092d8.png" width="920">
@@ -3031,9 +2919,8 @@ TBD
 > **Venue:** Radiology 2025  
 > **Authors:** R. Bhayana et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1148/radiol.252185) [Original Link](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)
+[Viewable Link](http://pubs.rsna.org/doi/10.1148/radiol.252185) [Original Link](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3054,7 +2941,6 @@ TBD
 > **Venue:** 2025  
 > **Authors:** Y. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2508.02464)
 
@@ -3073,12 +2959,11 @@ TBD
 ---
 
 ### <a id="samsa-2-0-prompting-segment-anything-with-spectr-f1621e27">SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** A. Roddan et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2508.00493) [Original Link](https://arxiv.org/pdf/2508.00493)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-05114-1_46) [Original Link](https://arxiv.org/pdf/2508.00493)
 
 <p align="center">
   <img src="imgs/samsa-2-0-prompting-segment-anything-with-spectr-f1621e27.png" width="920">
@@ -3095,10 +2980,9 @@ TBD
 ---
 
 ### <a id="is-exchangeability-better-than-i-i-d-to-handle-d-1a2c57e5">Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** A. Roy et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2507.19575) [Original Link](https://arxiv.org/pdf/2507.19575) [Code](https://github.com/AyushRoy2001/Exchangeable-feature-disentanglement)
 
@@ -3120,9 +3004,8 @@ TBD
 > **Venue:** IEEE Transactions on Neural Networks and Learning Systems 2025  
 > **Authors:** H. Wang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tnnls.2025.3586694) [Original Link](https://ieeexplore.ieee.org/abstract/document/11105528) [Code](https://github.com/uni-medical/SAM-Med3D)
+[Viewable Link](https://ieeexplore.ieee.org/document/11105528/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11105528) [Code](https://github.com/uni-medical/SAM-Med3D)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3140,12 +3023,11 @@ TBD
 ---
 
 ### <a id="fully-automated-sam-for-single-source-domain-gen-b0bff5d1">Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)  
 > **Authors:** H. Zhuo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2507.17281) [Original Link](https://arxiv.org/pdf/2507.17281)
+[Viewable Link](https://ieeexplore.ieee.org/document/11343166/) [Original Link](https://arxiv.org/pdf/2507.17281)
 
 <p align="center">
   <img src="imgs/fully-automated-sam-for-single-source-domain-gen-b0bff5d1.png" width="920">
@@ -3162,12 +3044,11 @@ TBD
 ---
 
 ### <a id="kd-medsam-lightweight-knowledge-distillation-of-7e8a54c6">KD-MedSAM: Lightweight Knowledge Distillation of Segment Anything Model for Multi-modality Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** W. Zhou et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-981-95-0036-9_31) [Original Link](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_31)
+[Viewable Link](https://link.springer.com/10.1007/978-981-95-0036-9_31) [Original Link](https://link.springer.com/chapter/10.1007/978-981-95-0036-9_31)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3185,12 +3066,11 @@ TBD
 ---
 
 ### <a id="zap-2-5dsam-zero-additional-parameters-advancing-dddb917c">ZAP-2.5DSAM: Zero Additional Parameters Advancing 2.5D SAM Adaptation to 3D Tumor Segmentation</a>
-> **Venue:** Research Square 2025  
+> **Venue:** The Visual Computer 2025  
 > **Authors:** C. Guo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.21203/rs.3.rs-6916638/v1) [Original Link](https://link.springer.com/article/10.1007/s00371-025-04092-4) [Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git)
+[Viewable Link](https://link.springer.com/10.1007/s00371-025-04092-4) [Original Link](https://link.springer.com/article/10.1007/s00371-025-04092-4) [Code](https://github.com/CaiGuoHS/ZAP-2.5DSAM.git)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3208,12 +3088,11 @@ TBD
 ---
 
 ### <a id="samed-2-selective-memory-enhanced-medical-segmen-2e0b83a2">SAMed-2: Selective Memory Enhanced Medical Segment Anything Model</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** Z. Yan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2507.03698) [Original Link](https://arxiv.org/pdf/2507.03698) [Code](https://github.com/ZhilingYan/Medical-SAM-Bench)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-05169-1_52) [Original Link](https://arxiv.org/pdf/2507.03698) [Code](https://github.com/ZhilingYan/Medical-SAM-Bench)
 
 <p align="center">
   <img src="imgs/samed-2-selective-memory-enhanced-medical-segmen-2e0b83a2.png" width="920">
@@ -3230,12 +3109,11 @@ TBD
 ---
 
 ### <a id="causal-sam-llm-large-language-models-as-causal-r-34c7c7c5">Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** T. Tang et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2507.03585) [Original Link](https://arxiv.org/pdf/2507.03585)
+[Viewable Link](https://arxiv.org/abs/2507.03585) [Original Link](https://arxiv.org/pdf/2507.03585)
 
 <p align="center">
   <img src="imgs/causal-sam-llm-large-language-models-as-causal-r-34c7c7c5.png" width="920">
@@ -3255,9 +3133,8 @@ TBD
 > **Venue:** Knowledge-Based Systems 2025  
 > **Authors:** S. Zhu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.knosys.2025.114006) [Original Link](https://www.sciencedirect.com/science/article/pii/S0950705125010512)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0950705125010512) [Original Link](https://www.sciencedirect.com/science/article/pii/S0950705125010512)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3275,12 +3152,11 @@ TBD
 ---
 
 ### <a id="prompt2segcxr-prompt-to-segment-all-organs-and-d-dfdfb307">Prompt2SegCXR:Prompt to Segment All Organs and Diseases in Chest X-rays</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** A. Zami et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2507.00673) [Original Link](https://arxiv.org/pdf/2507.00673)
+[Viewable Link](https://arxiv.org/abs/2507.00673) [Original Link](https://arxiv.org/pdf/2507.00673)
 
 <p align="center">
   <img src="imgs/prompt2segcxr-prompt-to-segment-all-organs-and-d-dfdfb307.png" width="920">
@@ -3300,9 +3176,8 @@ TBD
 > **Venue:** BMC Medical Imaging 2025  
 > **Authors:** Y. Sui et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1186/s12880-025-01779-x) [Original Link](https://link.springer.com/content/pdf/10.1186/s12880-025-01779-x.pdf)
+[Viewable Link](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-025-01779-x) [Original Link](https://link.springer.com/content/pdf/10.1186/s12880-025-01779-x.pdf)
 
 <p align="center">
   <img src="imgs/cross-domain-subcortical-brain-structure-segment-42c903d4.png" width="920">
@@ -3322,9 +3197,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2025  
 > **Authors:** A. Wang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2025.102591) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125001004)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611125001004) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125001004)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3342,10 +3216,9 @@ TBD
 ---
 
 ### <a id="medsam-ca-a-cnn-augmented-vit-with-attention-enh-fea93cb8">MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** P. Tian et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2506.23700) [Original Link](https://arxiv.org/pdf/2506.23700)
 
@@ -3364,12 +3237,11 @@ TBD
 ---
 
 ### <a id="medprompt-llm-cnn-fusion-with-weight-routing-for-4fff7242">MedPrompt: LLM–CNN Fusion with Weight Routing for Medical Image Segmentation and Classification</a>
-> **Venue:** Biomedical Signal Processing and Control 2025  
+> **Venue:** Biomedical Signal Processing and Control 2026  
 > **Authors:** S. Sobhan et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.bspc.2025.109251) [Original Link](https://arxiv.org/pdf/2506.21199)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1746809425017628) [Original Link](https://arxiv.org/pdf/2506.21199)
 
 <p align="center">
   <img src="imgs/medprompt-llm-cnn-fusion-with-weight-routing-for-4fff7242.png" width="920">
@@ -3389,9 +3261,8 @@ TBD
 > **Venue:** Computer Vision and Image Understanding 2025  
 > **Authors:** X. Han et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.cviu.2025.104425) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001481)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1077314225001481) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001481)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3412,9 +3283,8 @@ TBD
 > **Venue:** npj Digital Medicine 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41746-025-01756-2) [Original Link](https://www.nature.com/articles/s41746-025-01756-2) [Code](https://github.com/ZhangYH0502/PCaSAM)
+[Viewable Link](https://www.nature.com/articles/s41746-025-01756-2) [Code](https://github.com/ZhangYH0502/PCaSAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3435,9 +3305,8 @@ TBD
 > **Venue:** Expert Systems with Applications 2025  
 > **Authors:** Q. Liang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.eswa.2025.128650) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0957417425022699) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3455,12 +3324,11 @@ TBD
 ---
 
 ### <a id="medseg-r-reasoning-segmentation-in-medical-image-41d835eb">MedSeg-R: Reasoning Segmentation in Medical Images with Multimodal Large Language Models</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Y. Huang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2506.10465) [Original Link](https://arxiv.org/pdf/2506.10465)
+[Viewable Link](https://arxiv.org/abs/2506.10465) [Original Link](https://arxiv.org/pdf/2506.10465)
 
 <p align="center">
   <img src="imgs/medseg-r-reasoning-segmentation-in-medical-image-41d835eb.png" width="920">
@@ -3480,9 +3348,8 @@ TBD
 > **Venue:** Biomedical Signal Processing and Control 2025  
 > **Authors:** W. Shi et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.bspc.2025.108086) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X) [Code](https://github.com/wentao0429/SIT-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S174680942500597X) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X) [Code](https://github.com/wentao0429/SIT-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3500,12 +3367,11 @@ TBD
 ---
 
 ### <a id="vista3d-a-unified-segmentation-foundation-model-2fb7a04b">VISTA3D: A Unified Segmentation Foundation Model For 3D Medical Imaging</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Y. He et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2406.05285) [Original Link](https://openaccess.thecvf.com/content/CVPR2025/papers/He_VISTA3D_A_Unified_Segmentation_Foundation_Model_For_3D_Medical_Imaging_CVPR_2025_paper.pdf) [Code](https://github.com/Project-MONAI/VISTA)
+[Viewable Link](https://ieeexplore.ieee.org/document/11094751/) [Original Link](https://openaccess.thecvf.com/content/CVPR2025/papers/He_VISTA3D_A_Unified_Segmentation_Foundation_Model_For_3D_Medical_Imaging_CVPR_2025_paper.pdf) [Code](https://github.com/Project-MONAI/VISTA)
 
 <p align="center">
   <img src="imgs/vista3d-a-unified-segmentation-foundation-model-2fb7a04b.png" width="920">
@@ -3522,12 +3388,11 @@ TBD
 ---
 
 ### <a id="unified-medical-lesion-segmentation-via-self-ref-b2480d24">Unified Medical Lesion Segmentation via Self-referring Indicator</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** S. Chang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/cvpr52734.2025.00974) [Original Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11094651/) [Original Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Unified_Medical_Lesion_Segmentation_via_Self-referring_Indicator_CVPR_2025_paper.pdf)
 
 <p align="center">
   <img src="imgs/unified-medical-lesion-segmentation-via-self-ref-b2480d24.png" width="920">
@@ -3544,12 +3409,11 @@ TBD
 ---
 
 ### <a id="sam-aware-test-time-adaptation-for-universal-med-2935270e">SAM-aware Test-time Adaptation for Universal Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** J. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2506.05221) [Original Link](https://arxiv.org/pdf/2506.05221)
+[Viewable Link](https://arxiv.org/abs/2506.05221) [Original Link](https://arxiv.org/pdf/2506.05221)
 
 <p align="center">
   <img src="imgs/sam-aware-test-time-adaptation-for-universal-med-2935270e.png" width="920">
@@ -3566,12 +3430,11 @@ TBD
 ---
 
 ### <a id="zero-shot-pseudo-labels-generation-using-sam-and-3d49e5f3">Zero-Shot Pseudo Labels Generation Using Sam and Clip for Semi-Supervised Semantic Segmentation</a>
-> **Venue:** arXiv.org 2025  
+> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP)  
 > **Authors:** N. Saito et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/icip55913.2025.11084652) [Original Link](https://arxiv.org/pdf/2505.19846)
+[Viewable Link](https://ieeexplore.ieee.org/document/11084652/) [Original Link](https://arxiv.org/pdf/2505.19846)
 
 <p align="center">
   <img src="imgs/zero-shot-pseudo-labels-generation-using-sam-and-3d49e5f3.png" width="920">
@@ -3588,12 +3451,11 @@ TBD
 ---
 
 ### <a id="mias-sam-medical-image-anomaly-segmentation-with-bf786cc6">MIAS-SAM: Medical Image Anomaly Segmentation without thresholding</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** M. Colussi et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2505.22762) [Original Link](https://arxiv.org/pdf/2505.22762) [Code](https://github.com/warpcut/MIAS-SAM)
+[Viewable Link](https://arxiv.org/abs/2505.22762) [Original Link](https://arxiv.org/pdf/2505.22762) [Code](https://github.com/warpcut/MIAS-SAM)
 
 <p align="center">
   <img src="imgs/mias-sam-medical-image-anomaly-segmentation-with-bf786cc6.png" width="920">
@@ -3613,7 +3475,6 @@ TBD
 > **Venue:** 2025  
 > **Authors:** QH. Trinh et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2505.11872)
 
@@ -3635,9 +3496,8 @@ TBD
 > **Venue:** IEEE Transactions on Medical Imaging 2025  
 > **Authors:** Q. Pan et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tmi.2025.3573018) [Original Link](https://ieeexplore.ieee.org/abstract/document/11014494) [Code](https://github.com/QingtaoPan/AMVLM)
+[Viewable Link](https://ieeexplore.ieee.org/document/11014494/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11014494) [Code](https://github.com/QingtaoPan/AMVLM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3658,9 +3518,8 @@ TBD
 > **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
 > **Authors:** W. Zhou et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3571430) [Original Link](https://ieeexplore.ieee.org/abstract/document/11006907) [Code](https://github.com/ggllllll/MASG-SAM.git)
+[Viewable Link](https://ieeexplore.ieee.org/document/11006907/) [Original Link](https://ieeexplore.ieee.org/abstract/document/11006907) [Code](https://github.com/ggllllll/MASG-SAM.git)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3678,12 +3537,11 @@ TBD
 ---
 
 ### <a id="spinefm-leveraging-foundation-models-for-automat-038a349a">SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** SJ. Simons et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.00326) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980854)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980854/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980854)
 
 <p align="center">
   <img src="imgs/spinefm-leveraging-foundation-models-for-automat-038a349a.png" width="920">
@@ -3700,12 +3558,11 @@ TBD
 ---
 
 ### <a id="synthfm-training-modality-agnostic-foundation-mo-2804d9de">SynthFM: Training Modality-Agnostic Foundation Models for Medical Image Segmentation Without Real Medical Data</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** S. Sengupta et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10980740) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980740)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980740/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980740)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3723,12 +3580,11 @@ TBD
 ---
 
 ### <a id="annotation-efficient-task-guidance-for-medical-s-4fb4f47d">Annotation-Efficient Task Guidance for Medical Segment Anything</a>
-> **Venue:** arXiv.org  
-> **Authors:** Y. Luo et al.  
+> **Venue:** arXiv.org 2024  
+> **Authors:** T. Ward et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2412.08575) [Original Link](https://arxiv.org/pdf/2412.08575) [Code](https://github.com/GalacticHogrider/Med-FastSAM)
+[Viewable Link](https://arxiv.org/abs/2412.08575) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981303) [Code](https://github.com/tbwa233/SAM-Mix)
 
 <p align="center">
   <img src="imgs/annotation-efficient-task-guidance-for-medical-s-4fb4f47d.png" width="920">
@@ -3745,12 +3601,11 @@ TBD
 ---
 
 ### <a id="efficient-fine-tuning-of-sam-for-interactive-med-5f57cc76">Efficient Fine-Tuning of SAM for Interactive Medical Image Multi-Organ Segmentation</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** M. Wang et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10981084) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981084)
+[Viewable Link](https://ieeexplore.ieee.org/document/10981084/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981084)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3768,12 +3623,11 @@ TBD
 ---
 
 ### <a id="dasam-medical-domain-adaptation-of-segment-anyth-8eb588ce">DASAM: Medical Domain Adaptation of Segment Anything Model Without Further Pre-Training</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** Y. Yao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10980758) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980758)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980758/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980758)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3791,12 +3645,11 @@ TBD
 ---
 
 ### <a id="evaluating-segmentation-accuracy-with-diverse-pr-cc39ecae">Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** M. Nouman et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10980865) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980865)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980865/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10980865)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3814,12 +3667,11 @@ TBD
 ---
 
 ### <a id="asam-anatomy-encoded-segment-anything-model-for-b4844539">ASAM: Anatomy-Encoded Segment Anything Model for Medical Images</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** J. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10981134) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981134)
+[Viewable Link](https://ieeexplore.ieee.org/document/10981134/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981134)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3837,12 +3689,11 @@ TBD
 ---
 
 ### <a id="vss-sam-visual-state-space-enhanced-sam-for-3d-m-724e652b">VSS-SAM: Visual State Space-Enhanced SAM for 3D Medical Image Segmentation</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** J. Lyu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10981185) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981185)
+[Viewable Link](https://ieeexplore.ieee.org/document/10981185/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981185)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3860,12 +3711,11 @@ TBD
 ---
 
 ### <a id="sam3x-efficient-3d-aware-network-for-medical-ima-59371829">SAM3X: Efficient 3D-Aware Network for Medical Image Segmentation Using SAM</a>
-> **Venue:** 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** D. Lee et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10981074) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981074) [Code](https://github.com/SSTDV-Project/SAM3X)
+[Viewable Link](https://ieeexplore.ieee.org/document/10981074/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10981074) [Code](https://github.com/SSTDV-Project/SAM3X)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3883,12 +3733,11 @@ TBD
 ---
 
 ### <a id="using-foundation-models-as-pseudo-label-generato-41bfbb62">Using Foundation Models as Pseudo-label Generators for Pre-clinical 4D Cardiac CT Segmentation</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** AM. Rickmann et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-94562-5_23) [Original Link](https://arxiv.org/pdf/2505.09564)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-94562-5_23) [Original Link](https://arxiv.org/pdf/2505.09564)
 
 <p align="center">
   <img src="imgs/using-foundation-models-as-pseudo-label-generato-41bfbb62.png" width="920">
@@ -3908,9 +3757,8 @@ TBD
 > **Venue:** Computer Vision and Image Understanding 2025  
 > **Authors:** S. Liu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.cviu.2025.104389) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001122) [Code](https://github.com/1683194873xrn/HF-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1077314225001122) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001122) [Code](https://github.com/1683194873xrn/HF-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -3928,12 +3776,11 @@ TBD
 ---
 
 ### <a id="brainsegdmlf-a-dynamic-fusion-enhanced-sam-for-b-e845d388">BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 33rd ACM International Conference on Multimedia 2025  
 > **Authors:** H. Wang et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2505.06133) [Original Link](https://arxiv.org/pdf/2505.06133)
+[Viewable Link](https://dl.acm.org/doi/10.1145/3746027.3755230) [Original Link](https://arxiv.org/pdf/2505.06133)
 
 <p align="center">
   <img src="imgs/brainsegdmlf-a-dynamic-fusion-enhanced-sam-for-b-e845d388.png" width="920">
@@ -3950,12 +3797,11 @@ TBD
 ---
 
 ### <a id="advancing-generalizable-tumor-segmentation-with-43d99d2b">Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Y. Jiang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2505.02753) [Original Link](https://arxiv.org/pdf/2505.02753) [Code](https://github.com/Yankai96/DiffuGTS)
+[Viewable Link](https://ieeexplore.ieee.org/document/11094149/) [Original Link](https://arxiv.org/pdf/2505.02753) [Code](https://github.com/Yankai96/DiffuGTS)
 
 <p align="center">
   <img src="imgs/advancing-generalizable-tumor-segmentation-with-43d99d2b.png" width="920">
@@ -3975,9 +3821,8 @@ TBD
 > **Venue:** Scientific Reports 2025  
 > **Authors:** Z. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41598-025-99278-0) [Original Link](https://www.nature.com/articles/s41598-025-99278-0.pdf)
+[Viewable Link](https://www.nature.com/articles/s41598-025-99278-0) [Original Link](https://www.nature.com/articles/s41598-025-99278-0.pdf)
 
 <p align="center">
   <img src="imgs/integrating-sam-priors-with-u-net-for-enhanced-m-20b0cf44.png" width="920">
@@ -3997,9 +3842,8 @@ TBD
 > **Venue:** The Visual Computer 2025  
 > **Authors:** T. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/s00371-025-03892-y) [Original Link](https://link.springer.com/article/10.1007/s00371-025-03892-y)
+[Viewable Link](https://link.springer.com/10.1007/s00371-025-03892-y) [Original Link](https://link.springer.com/article/10.1007/s00371-025-03892-y)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4020,9 +3864,8 @@ TBD
 > **Venue:** Medical Image Analysis 2025  
 > **Authors:** Z. Chen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.media.2025.103607) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549) [Code](https://github.com/CUHK-AIM-Group/UN-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525001549) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001549) [Code](https://github.com/CUHK-AIM-Group/UN-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4040,12 +3883,11 @@ TBD
 ---
 
 ### <a id="sam4em-efficient-memory-based-two-stage-prompt-f-35353866">SAM4EM: Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks</a>
-> **Venue:** arXiv.org  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** U. Shah et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2504.21544) [Original Link](https://arxiv.org/pdf/2504.21544) [Code](https://github.com/Uzshah/SAM4EM)
+[Viewable Link](https://ieeexplore.ieee.org/document/11147546/) [Original Link](https://arxiv.org/pdf/2504.21544) [Code](https://github.com/Uzshah/SAM4EM)
 
 <p align="center">
   <img src="imgs/sam4em-efficient-memory-based-two-stage-prompt-f-35353866.png" width="920">
@@ -4062,12 +3904,11 @@ TBD
 ---
 
 ### <a id="radsam-segmenting-3d-radiological-images-with-a-ed1f6d22">RadSAM: Segmenting 3D Radiological Images with a 2D Promptable Model</a>
-> **Venue:** Lecture notes in computer science 2025  
+> **Venue:** Lecture Notes in Computer Science 2026  
 > **Authors:** J. Khlaut et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-032-04965-0_41) [Original Link](https://arxiv.org/pdf/2504.20837)
+[Viewable Link](https://link.springer.com/10.1007/978-3-032-04965-0_41) [Original Link](https://arxiv.org/pdf/2504.20837)
 
 <p align="center">
   <img src="imgs/radsam-segmenting-3d-radiological-images-with-a-ed1f6d22.png" width="920">
@@ -4084,12 +3925,11 @@ TBD
 ---
 
 ### <a id="sam-guided-robust-representation-learning-for-on-f52e8a78">SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** J. Wang et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2504.20501) [Original Link](https://arxiv.org/pdf/2504.20501)
+[Viewable Link](https://arxiv.org/abs/2504.20501) [Original Link](https://arxiv.org/pdf/2504.20501)
 
 <p align="center">
   <img src="imgs/sam-guided-robust-representation-learning-for-on-f52e8a78.png" width="920">
@@ -4106,12 +3946,11 @@ TBD
 ---
 
 ### <a id="prompt-tuning-sam-from-generalist-to-specialist-c0d1b0a3">Prompt-Tuning SAM: From Generalist to Specialist with only 2048 Parameters and 16 Training Images</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** T. Piater et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2504.16739) [Original Link](https://arxiv.org/pdf/2504.16739)
+[Viewable Link](https://ieeexplore.ieee.org/document/11147247/) [Original Link](https://arxiv.org/pdf/2504.16739)
 
 <p align="center">
   <img src="imgs/prompt-tuning-sam-from-generalist-to-specialist-c0d1b0a3.png" width="920">
@@ -4131,9 +3970,8 @@ TBD
 > **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
 > **Authors:** X. Zhou et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3561425) [Original Link](https://ieeexplore.ieee.org/abstract/document/10966035) [Code](https://github.com/jojodan514/MIT-SAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10966035/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10966035) [Code](https://github.com/jojodan514/MIT-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4154,9 +3992,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2025  
 > **Authors:** X. Yan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compmedimag.2025.102555) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125000643) [Code](https://github.com/BessiePei/ICA-SAMv7)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611125000643) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125000643) [Code](https://github.com/BessiePei/ICA-SAMv7)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4177,9 +4014,8 @@ TBD
 > **Venue:** Computers in Biology and Medicine 2025  
 > **Authors:** L. Yu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.compbiomed.2025.110159) [Original Link](https://www.sciencedirect.com/science/article/pii/S0010482525005104)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0010482525005104) [Original Link](https://www.sciencedirect.com/science/article/pii/S0010482525005104)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4200,9 +4036,8 @@ TBD
 > **Venue:** Scientific Reports 2025  
 > **Authors:** N. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41598-025-87409-6) [Original Link](https://www.nature.com/articles/s41598-025-87409-6.pdf)
+[Viewable Link](https://www.nature.com/articles/s41598-025-87409-6) [Original Link](https://www.nature.com/articles/s41598-025-87409-6.pdf)
 
 <p align="center">
   <img src="imgs/a-prediction-method-for-radiation-proctitis-base-950580d7.png" width="920">
@@ -4219,12 +4054,11 @@ TBD
 ---
 
 ### <a id="sambv-a-fine-tuned-sam-with-interpolation-consis-40e84296">SAMBV: A fine-tuned SAM with interpolation consistency regularization for semi-supervised bi-ventricle segmentation from cardiac MRI</a>
-> **Venue:** Medical Engineering & Physics 2025  
+> **Venue:** Medical Engineering &amp; Physics 2025  
 > **Authors:** Y. Wang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.medengphy.2025.104341) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1350453325000608)
+[Viewable Link](https://iopscience.iop.org/article/10.1016/j.medengphy.2025.104341) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1350453325000608)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4242,12 +4076,11 @@ TBD
 ---
 
 ### <a id="mixture-of-shape-experts-mose-end-to-end-shape-d-cf02bf93">Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation</a>
-> **Venue:** arXiv.org  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** J. Wei et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2504.09601) [Original Link](https://arxiv.org/pdf/2504.09601)
+[Viewable Link](https://ieeexplore.ieee.org/document/11147816/) [Original Link](https://arxiv.org/pdf/2504.09601)
 
 <p align="center">
   <img src="imgs/mixture-of-shape-experts-mose-end-to-end-shape-d-cf02bf93.png" width="920">
@@ -4264,12 +4097,11 @@ TBD
 ---
 
 ### <a id="balancing-multi-target-semi-supervised-medical-i-a157dd57">Balancing Multi-Target Semi-Supervised Medical Image Segmentation with Collaborative Generalist and Specialists</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** IEEE Transactions on Medical Imaging 2025  
 > **Authors:** Y. Wang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2504.00862) [Original Link](https://arxiv.org/pdf/2504.00862) [Code](https://github.com/wangyou0804/CGS)
+[Viewable Link](https://ieeexplore.ieee.org/document/10948494/) [Original Link](https://arxiv.org/pdf/2504.00862) [Code](https://github.com/wangyou0804/CGS)
 
 <p align="center">
   <img src="imgs/balancing-multi-target-semi-supervised-medical-i-a157dd57.png" width="920">
@@ -4286,12 +4118,11 @@ TBD
 ---
 
 ### <a id="zero-shot-domain-generalization-of-foundational-9ee989a0">Zero-shot Domain Generalization of Foundational Models for 3D Medical Image Segmentation: An Experimental Study</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** S. Chattopadhyay et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2503.22862) [Original Link](https://arxiv.org/pdf/2503.22862)
+[Viewable Link](https://arxiv.org/abs/2503.22862) [Original Link](https://arxiv.org/pdf/2503.22862)
 
 <p align="center">
   <img src="imgs/zero-shot-domain-generalization-of-foundational-9ee989a0.png" width="920">
@@ -4308,10 +4139,9 @@ TBD
 ---
 
 ### <a id="biprompt-sam-enhancing-image-segmentation-via-ex-5ea94fa7">BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** S. Xu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2503.19769) [Original Link](https://arxiv.org/pdf/2503.19769)
 
@@ -4331,12 +4161,11 @@ TBD
 ---
 
 ### <a id="show-and-segment-universal-medical-image-segment-f44aae05">Show and Segment: Universal Medical Image Segmentation via In-Context Learning</a>
-> **Venue:** arXiv.org 2025  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Y. Gao et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/cvpr52734.2025.01940) [Original Link](https://arxiv.org/pdf/2503.19359)
+[Viewable Link](https://ieeexplore.ieee.org/document/11094913/) [Original Link](https://arxiv.org/pdf/2503.19359)
 
 <p align="center">
   <img src="imgs/show-and-segment-universal-medical-image-segment-f44aae05.png" width="920">
@@ -4353,12 +4182,11 @@ TBD
 ---
 
 ### <a id="optimization-of-medsam-model-based-on-bounding-b-84601017">Optimization of MedSAM Model Based on Bounding Box Adaptive Perturbation Algorithm</a>
-> **Venue:** Communications in computer and information science 2025  
+> **Venue:** Communications in Computer and Information Science 2025  
 > **Authors:** B. Li et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-981-96-9952-0_2) [Original Link](https://arxiv.org/pdf/2503.18227)
+[Viewable Link](https://link.springer.com/10.1007/978-981-96-9952-0_2) [Original Link](https://arxiv.org/pdf/2503.18227)
 
 <p align="center">
   <img src="imgs/optimization-of-medsam-model-based-on-bounding-b-84601017.png" width="920">
@@ -4375,12 +4203,11 @@ TBD
 ---
 
 ### <a id="steady-progress-beats-stagnation-mutual-aid-of-f-3db652cb">Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Q. Ma et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2503.16997) [Original Link](https://arxiv.org/pdf/2503.16997) [Code](https://github.com/MQinghe/SynFoC)
+[Viewable Link](https://ieeexplore.ieee.org/document/11094453/) [Original Link](https://arxiv.org/pdf/2503.16997) [Code](https://github.com/MQinghe/SynFoC)
 
 <p align="center">
   <img src="imgs/steady-progress-beats-stagnation-mutual-aid-of-f-3db652cb.png" width="920">
@@ -4397,12 +4224,11 @@ TBD
 ---
 
 ### <a id="learning-to-efficiently-adapt-foundation-models-72774640">Learning to Efficiently Adapt Foundation Models for Self-Supervised Endoscopic 3D Scene Reconstruction from Any Cameras</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** B. Cui et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2503.15917) [Original Link](https://arxiv.org/pdf/2503.15917)
+[Viewable Link](https://arxiv.org/abs/2503.15917) [Original Link](https://arxiv.org/pdf/2503.15917)
 
 <p align="center">
   <img src="imgs/learning-to-efficiently-adapt-foundation-models-72774640.png" width="920">
@@ -4419,12 +4245,11 @@ TBD
 ---
 
 ### <a id="nninteractive-redefining-3d-promptable-segmentat-dfc02114">nnInteractive: Redefining 3D Promptable Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** F. Isensee et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2503.08373) [Original Link](https://arxiv.org/pdf/2503.08373) [Code](https://github.com/MIC-DKFZ/nnInteractive)
+[Viewable Link](https://arxiv.org/abs/2503.08373) [Original Link](https://arxiv.org/pdf/2503.08373) [Code](https://github.com/MIC-DKFZ/nnInteractive)
 
 <p align="center">
   <img src="imgs/nninteractive-redefining-3d-promptable-segmentat-dfc02114.png" width="920">
@@ -4444,9 +4269,8 @@ TBD
 > **Venue:** Medical Image Analysis 2025  
 > **Authors:** X. Liu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.media.2025.103550) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841525000970) [Code](https://github.com/SnowRain510/Segment-Any-Tissue)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000970) [Original Link](https://www.sciencedirect.com/science/article/pii/S1361841525000970) [Code](https://github.com/SnowRain510/Segment-Any-Tissue)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4467,9 +4291,8 @@ TBD
 > **Venue:** IEEE Transactions on Medical Imaging 2025  
 > **Authors:** T. Huang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tmi.2025.3548985) [Original Link](https://ieeexplore.ieee.org/abstract/document/10916782?casa_token=kvCZt-j2cmwAAAAA:z87WPzwpnZWZdb2Q-T_QpuOHBXIXmg2dNIIKipR53JL3xSXPGne6DK-KVxtNuTyrgzdWFbbM) [Code](https://sam-auxol.github.io/AuxOL)
+[Viewable Link](https://ieeexplore.ieee.org/document/10916782/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10916782?casa_token=kvCZt-j2cmwAAAAA:z87WPzwpnZWZdb2Q-T_QpuOHBXIXmg2dNIIKipR53JL3xSXPGne6DK-KVxtNuTyrgzdWFbbM) [Code](https://sam-auxol.github.io/AuxOL)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4487,12 +4310,11 @@ TBD
 ---
 
 ### <a id="semisam-rethinking-semi-supervised-medical-image-d74217a0">SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** Medical Image Analysis 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2502.20749) [Original Link](https://arxiv.org/pdf/2502.20749) [Code](https://github.com/YichiZhang98/SemiSAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525002804) [Original Link](https://arxiv.org/pdf/2502.20749) [Code](https://github.com/YichiZhang98/SemiSAM)
 
 <p align="center">
   <img src="imgs/semisam-rethinking-semi-supervised-medical-image-d74217a0.png" width="920">
@@ -4512,9 +4334,8 @@ TBD
 > **Venue:** Journal of Medical Imaging 2025  
 > **Authors:** F. Tian et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11865838/) [Original Link](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-2/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.short)
+[Viewable Link](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-02/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.full) [Original Link](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-2/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.short)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4535,9 +4356,8 @@ TBD
 > **Venue:** arXiv.org 2025  
 > **Authors:** A. Iltaf et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.36227/techrxiv.174234663.37696124/v1) [Original Link](https://arxiv.org/pdf/2502.18185) [Code](https://github.com/Adnan-CAS/AtrousLora)
+[Viewable Link](https://www.semanticscholar.org/paper/38315e5a5cb7bcc1c9dd09d5134e91c4055a4119) [Original Link](https://arxiv.org/pdf/2502.18185) [Code](https://github.com/Adnan-CAS/AtrousLora)
 
 <p align="center">
   <img src="imgs/vesselsam-leveraging-sam-for-aortic-vessel-segme-61efefd8.png" width="920">
@@ -4554,10 +4374,9 @@ TBD
 ---
 
 ### <a id="seganypet-universal-promptable-segmentation-from-d9a8e251">SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2502.14351) [Original Link](https://arxiv.org/pdf/2502.14351) [Code](https://github.com/YichiZhang98/SegAnyPET)
 
@@ -4576,12 +4395,11 @@ TBD
 ---
 
 ### <a id="diffusion-empowered-autoprompt-medsam-4b7c91c8">Diffusion-empowered AutoPrompt MedSAM</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** P. Huang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2502.06817) [Original Link](https://arxiv.org/pdf/2502.06817) [Code](https://github.com/HP-ML/AutoPromptMedSAM)
+[Viewable Link](https://arxiv.org/abs/2502.06817) [Original Link](https://arxiv.org/pdf/2502.06817) [Code](https://github.com/HP-ML/AutoPromptMedSAM)
 
 <p align="center">
   <img src="imgs/diffusion-empowered-autoprompt-medsam-4b7c91c8.png" width="920">
@@ -4598,12 +4416,11 @@ TBD
 ---
 
 ### <a id="self-prompt-sam-medical-image-segmentation-via-a-5111f86e">Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** B. Xie et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2502.00630) [Original Link](https://arxiv.org/pdf/2502.00630)
+[Viewable Link](https://arxiv.org/abs/2502.00630) [Original Link](https://arxiv.org/pdf/2502.00630)
 
 <p align="center">
   <img src="imgs/self-prompt-sam-medical-image-segmentation-via-a-5111f86e.png" width="920">
@@ -4623,9 +4440,8 @@ TBD
 > **Venue:** Computerized Medical Imaging and Graphics 2025  
 > **Authors:** Y. Shen et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11875884/) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125000102)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0895611125000102) [Original Link](https://www.sciencedirect.com/science/article/pii/S0895611125000102)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4643,12 +4459,11 @@ TBD
 ---
 
 ### <a id="self-prompt-sam-medical-image-segmentation-via-a-5111f86e">Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** B. Xie et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2502.00630) [Original Link](https://arxiv.org/pdf/2502.00630)
+[Viewable Link](https://arxiv.org/abs/2502.00630) [Original Link](https://arxiv.org/pdf/2502.00630)
 
 <p align="center">
   <img src="imgs/self-prompt-sam-medical-image-segmentation-via-a-5111f86e.png" width="920">
@@ -4665,12 +4480,11 @@ TBD
 ---
 
 ### <a id="few-shot-adaptation-of-training-free-foundation-8b31dd67">Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation</a>
-> **Venue:** ArXiv.org 2025  
+> **Venue:** arXiv.org 2025  
 > **Authors:** X. He et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2501.09138) [Original Link](https://arxiv.org/pdf/2501.09138)
+[Viewable Link](https://arxiv.org/abs/2501.09138) [Original Link](https://arxiv.org/pdf/2501.09138)
 
 <p align="center">
   <img src="imgs/few-shot-adaptation-of-training-free-foundation-8b31dd67.png" width="920">
@@ -4690,9 +4504,8 @@ TBD
 > **Venue:** IEEE Access 2025  
 > **Authors:** D. Tan et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/access.2025.3528658) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10838509)
+[Viewable Link](https://ieeexplore.ieee.org/document/10838509/) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10838509)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4710,12 +4523,11 @@ TBD
 ---
 
 ### <a id="pgp-sam-prototype-guided-prompt-learning-for-eff-984ec24c">PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation</a>
-> **Venue:** arXiv.org 2025  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** Z. Yan et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/isbi60581.2025.10980911) [Original Link](https://arxiv.org/pdf/2501.06692)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980911/) [Original Link](https://arxiv.org/pdf/2501.06692)
 
 <p align="center">
   <img src="imgs/pgp-sam-prototype-guided-prompt-learning-for-eff-984ec24c.png" width="920">
@@ -4732,12 +4544,11 @@ TBD
 ---
 
 ### <a id="spa-leveraging-the-sam-with-spatial-priors-adapt-6013f4a0">SPA: Leveraging the SAM With Spatial Priors Adapter for Enhanced Medical Image Segmentation</a>
-> **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
+> **Venue:** IEEE Journal of Biomedical and Health Informatics 2026  
 > **Authors:** J. Hu et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2025.3526174) [Original Link](https://ieeexplore.ieee.org/document/10829779)
+[Viewable Link](https://ieeexplore.ieee.org/document/10829779/) [Original Link](https://ieeexplore.ieee.org/document/10829779)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4755,12 +4566,11 @@ TBD
 ---
 
 ### <a id="semisam-enhancing-semi-supervised-medical-image-7f39521f">SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2312.06316) [Original Link](https://arxiv.org/pdf/2312.06316.pdf)
+[Viewable Link](https://arxiv.org/abs/2312.06316) [Original Link](https://ieeexplore.ieee.org/abstract/document/10821951) [Code](https://github.com/YichiZhang98/SemiSAM)
 
 <p align="center">
   <img src="imgs/semisam-enhancing-semi-supervised-medical-image-7f39521f.png" width="920">
@@ -4780,9 +4590,8 @@ TBD
 > **Venue:** IEEE Transactions on Medical Imaging 2025  
 > **Authors:** D. Fan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tmi.2024.3524570) [Original Link](https://ieeexplore.ieee.org/document/10819446) [Code](https://github.com/findingway221/ma-sam)
+[Viewable Link](https://ieeexplore.ieee.org/document/10819446/) [Original Link](https://ieeexplore.ieee.org/document/10819446) [Code](https://github.com/findingway221/ma-sam)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4800,12 +4609,11 @@ TBD
 ---
 
 ### <a id="trans-sam-transfer-segment-anything-model-to-med-8e23b0cc">Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning</a>
-> **Venue:** Knowledge-Based Systems 2024  
+> **Venue:** Knowledge-Based Systems 2025  
 > **Authors:** Y. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.knosys.2024.112909) [Original Link](https://www.sciencedirect.com/science/article/pii/S0950705124015430) [Code](https://github.com/wuyanlin-wyl/Trans-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0950705124015430) [Original Link](https://www.sciencedirect.com/science/article/pii/S0950705124015430) [Code](https://github.com/wuyanlin-wyl/Trans-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4823,12 +4631,11 @@ TBD
 ---
 
 ### <a id="meat-sam-more-efficient-automated-tongue-segment-7735959a">MEAT-SAM: More Efficient Automated Tongue Segmentation Model</a>
-> **Venue:** IEEE Access 2024  
+> **Venue:** IEEE Access 2025  
 > **Authors:** F. Zhong et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/access.2024.3522961) [Original Link](https://ieeexplore.ieee.org/abstract/document/10816397)
+[Viewable Link](https://ieeexplore.ieee.org/document/10816397/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10816397)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -4846,12 +4653,11 @@ TBD
 ---
 
 ### <a id="multiverseg-scalable-interactive-segmentation-of-ea468651">MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** HE. Wong et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2412.15058) [Original Link](https://arxiv.org/pdf/2412.15058) [Code](https://multiverseg.csail.mit.edu/)
+[Viewable Link](https://arxiv.org/abs/2412.15058) [Original Link](https://arxiv.org/pdf/2412.15058) [Code](https://multiverseg.csail.mit.edu/)
 
 <p align="center">
   <img src="imgs/multiverseg-scalable-interactive-segmentation-of-ea468651.png" width="920">
@@ -4868,12 +4674,11 @@ TBD
 ---
 
 ### <a id="memorizing-sam-3d-medical-segment-anything-model-7bc64c5e">Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2025: Image Processing  
 > **Authors:** X. Shao et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2412.13908) [Original Link](https://arxiv.org/pdf/2412.13908) [Code](https://github.com/swedfr/memorizingSAM)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047046/Memorizing-SAM--3D-medical-Segment-Anything-Model-with-memorizing/10.1117/12.3047046.full) [Original Link](https://arxiv.org/pdf/2412.13908) [Code](https://github.com/swedfr/memorizingSAM)
 
 <p align="center">
   <img src="imgs/memorizing-sam-3d-medical-segment-anything-model-7bc64c5e.png" width="920">
@@ -4890,12 +4695,11 @@ TBD
 ---
 
 ### <a id="seg-sam-semantic-guided-sam-for-unified-medical-3976b888">SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** S. Huang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2412.12660) [Original Link](https://arxiv.org/pdf/2412.12660)
+[Viewable Link](https://arxiv.org/abs/2412.12660) [Original Link](https://arxiv.org/pdf/2412.12660)
 
 <p align="center">
   <img src="imgs/seg-sam-semantic-guided-sam-for-unified-medical-3976b888.png" width="920">
@@ -4912,12 +4716,11 @@ TBD
 ---
 
 ### <a id="annotation-efficient-task-guidance-for-medical-s-4fb4f47d">Annotation-Efficient Task Guidance for Medical Segment Anything</a>
-> **Venue:** arXiv.org  
-> **Authors:** Y. Luo et al.  
+> **Venue:** arXiv.org 2024  
+> **Authors:** T. Ward et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2412.08575) [Original Link](https://arxiv.org/pdf/2412.08575) [Code](https://github.com/GalacticHogrider/Med-FastSAM)
+[Viewable Link](https://arxiv.org/abs/2412.08575) [Original Link](https://arxiv.org/pdf/2412.08575) [Code](https://github.com/tbwa233/SAM-Mix)
 
 <p align="center">
   <img src="imgs/annotation-efficient-task-guidance-for-medical-s-4fb4f47d.png" width="920">
@@ -4937,7 +4740,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** Y. Luo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2412.08575) [Code](https://github.com/GalacticHogrider/Med-FastSAM)
 
@@ -4956,12 +4758,11 @@ TBD
 ---
 
 ### <a id="refsam3d-adapting-sam-with-cross-modal-reference-76cfbf8f">RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** X. Gao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2412.05605) [Original Link](https://arxiv.org/pdf/2412.05605)
+[Viewable Link](https://arxiv.org/abs/2412.05605) [Original Link](https://arxiv.org/pdf/2412.05605)
 
 <p align="center">
   <img src="imgs/refsam3d-adapting-sam-with-cross-modal-reference-76cfbf8f.png" width="920">
@@ -4978,12 +4779,11 @@ TBD
 ---
 
 ### <a id="biasam-bidirectional-attention-guided-segment-an-3d361a06">BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation</a>
-> **Venue:** IEEE Signal Processing Letters 2024  
+> **Venue:** IEEE Signal Processing Letters 2025  
 > **Authors:** Y. Luo et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/lsp.2024.3513240) [Original Link](https://ieeexplore.ieee.org/abstract/document/10787063) [Code](https://github.com/ggllllll/BiASAM-.git)
+[Viewable Link](https://ieeexplore.ieee.org/document/10787063/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10787063) [Code](https://github.com/ggllllll/BiASAM-.git)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5001,12 +4801,11 @@ TBD
 ---
 
 ### <a id="echoone-segmenting-multiple-echocardiography-pla-1e7de2bd">EchoONE: Segmenting Multiple echocardiography Planes in One Model</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** J. Hu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2412.02993) [Original Link](https://arxiv.org/pdf/2412.02993) [Code](https://github.com/a2502503/EchoONE)
+[Viewable Link](https://ieeexplore.ieee.org/document/11092827/) [Original Link](https://arxiv.org/pdf/2412.02993) [Code](https://github.com/a2502503/EchoONE)
 
 <p align="center">
   <img src="imgs/echoone-segmenting-multiple-echocardiography-pla-1e7de2bd.png" width="920">
@@ -5023,12 +4822,11 @@ TBD
 ---
 
 ### <a id="vesselfm-a-foundation-model-for-universal-3d-blo-212b1244">vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** B. Wittmann et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.17386) [Original Link](https://arxiv.org/pdf/2411.17386) [Code](https://github.com/bwittmann/vesselFM)
+[Viewable Link](https://ieeexplore.ieee.org/document/11092528/) [Original Link](https://arxiv.org/pdf/2411.17386) [Code](https://github.com/bwittmann/vesselFM)
 
 <p align="center">
   <img src="imgs/vesselfm-a-foundation-model-for-universal-3d-blo-212b1244.png" width="920">
@@ -5045,10 +4843,9 @@ TBD
 ---
 
 ### <a id="sam-mpa-applying-sam-to-few-shot-medical-image-s-0449c357">SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Xu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2411.17363) [Original Link](https://arxiv.org/pdf/2411.17363)
 
@@ -5067,12 +4864,11 @@ TBD
 ---
 
 ### <a id="med-persam-one-shot-visual-prompt-tuning-for-per-13b4c30c">Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** H. Yoon et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.16123) [Original Link](https://arxiv.org/pdf/2411.16123)
+[Viewable Link](https://arxiv.org/abs/2411.16123) [Original Link](https://arxiv.org/pdf/2411.16123)
 
 <p align="center">
   <img src="imgs/med-persam-one-shot-visual-prompt-tuning-for-per-13b4c30c.png" width="920">
@@ -5089,12 +4885,11 @@ TBD
 ---
 
 ### <a id="a-sam-guided-and-match-based-semi-supervised-seg-e5ff8a3a">A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Physics 2025  
 > **Authors:** G. Xu et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.16949) [Original Link](https://arxiv.org/pdf/2411.16949) [Code](https://github.com/apple1986/SAMatch)
+[Viewable Link](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17785) [Original Link](https://arxiv.org/pdf/2411.16949) [Code](https://github.com/apple1986/SAMatch)
 
 <p align="center">
   <img src="imgs/a-sam-guided-and-match-based-semi-supervised-seg-e5ff8a3a.png" width="920">
@@ -5111,12 +4906,11 @@ TBD
 ---
 
 ### <a id="cosam-self-correcting-sam-for-domain-generalizat-f04b0bf4">CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Y. Fu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.10136) [Original Link](https://arxiv.org/pdf/2411.10136)
+[Viewable Link](https://arxiv.org/abs/2411.10136) [Original Link](https://arxiv.org/pdf/2411.10136)
 
 <p align="center">
   <img src="imgs/cosam-self-correcting-sam-for-domain-generalizat-f04b0bf4.png" width="920">
@@ -5136,7 +4930,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** J. Huo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2411.12755)
 
@@ -5155,12 +4948,11 @@ TBD
 ---
 
 ### <a id="sam-carries-the-burden-a-semi-supervised-approac-6ab7c53e">SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** R. Keuth et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2411.12602) [Original Link](https://arxiv.org/pdf/2411.12602) [Code](https://github.com/multimodallearning/SamCarriesTheBurden)
+[Viewable Link](https://arxiv.org/abs/2411.12602) [Original Link](https://arxiv.org/pdf/2411.12602) [Code](https://github.com/multimodallearning/SamCarriesTheBurden)
 
 <p align="center">
   <img src="imgs/sam-carries-the-burden-a-semi-supervised-approac-6ab7c53e.png" width="920">
@@ -5177,12 +4969,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-for-few-shot-medical-imag-460aff7f">Segment anything model for few-shot medical image segmentation with domain tuning</a>
-> **Venue:** Complex & Intelligent Systems 2024  
+> **Venue:** Complex &amp; Intelligent Systems 2025  
 > **Authors:** W. Shi et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/s40747-024-01625-7) [Original Link](https://link.springer.com/article/10.1007/s40747-024-01625-7)
+[Viewable Link](https://link.springer.com/10.1007/s40747-024-01625-7) [Original Link](https://link.springer.com/article/10.1007/s40747-024-01625-7)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5203,9 +4994,8 @@ TBD
 > **Venue:** Communications Engineering 2024  
 > **Authors:** X. Ouyang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s44172-024-00287-0) [Original Link](https://www.nature.com/articles/s44172-024-00287-0)
+[Viewable Link](https://www.nature.com/articles/s44172-024-00287-0)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5223,12 +5013,11 @@ TBD
 ---
 
 ### <a id="plug-and-play-segment-anything-model-improves-nn-96725226">Plug‐and‐play segment anything model improves nnUNet performance</a>
-> **Venue:** Medical Physics 2024  
+> **Venue:** Medical Physics 2025  
 > **Authors:** Y. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1002/mp.17481) [Original Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17481) [Code](https://github.com/Kent0n-Li/nnSAM)
+[Viewable Link](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17481) [Original Link](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.17481) [Code](https://github.com/Kent0n-Li/nnSAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5246,12 +5035,11 @@ TBD
 ---
 
 ### <a id="sam-swin-sam-driven-dual-swin-transformers-with-2335ca25">SAM-Swin: SAM-driven dual-swin transformers with adaptive lesion enhancement for Laryngo-Pharyngeal tumor detection</a>
-> **Venue:** Medical Image Analysis 2025  
+> **Venue:** Medical Image Analysis 2026  
 > **Authors:** J. Wei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.media.2025.103906) [Original Link](https://arxiv.org/pdf/2410.21813) [Code](https://github.com/VVJia/SAM-Swin)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525004529) [Original Link](https://arxiv.org/pdf/2410.21813) [Code](https://github.com/VVJia/SAM-Swin)
 
 <p align="center">
   <img src="imgs/sam-swin-sam-driven-dual-swin-transformers-with-2335ca25.png" width="920">
@@ -5268,12 +5056,11 @@ TBD
 ---
 
 ### <a id="generalizing-segmentation-foundation-model-under-0d31ba16">Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Y. Wen et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2410.07460) [Original Link](https://arxiv.org/pdf/2410.07460)
+[Viewable Link](https://arxiv.org/abs/2410.07460) [Original Link](https://arxiv.org/pdf/2410.07460)
 
 <p align="center">
   <img src="imgs/generalizing-segmentation-foundation-model-under-0d31ba16.png" width="920">
@@ -5290,12 +5077,11 @@ TBD
 ---
 
 ### <a id="db-sam-delving-into-high-quality-universal-medic-ee292d4a">DB-SAM: Delving into High Quality Universal Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** C. Qin et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2410.04172) [Original Link](https://arxiv.org/pdf/2410.04172) [Code](https://github.com/AlfredQin/DB-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72390-2_47) [Original Link](https://arxiv.org/pdf/2410.04172) [Code](https://github.com/AlfredQin/DB-SAM)
 
 <p align="center">
   <img src="imgs/db-sam-delving-into-high-quality-universal-medic-ee292d4a.png" width="920">
@@ -5312,12 +5098,11 @@ TBD
 ---
 
 ### <a id="prompting-segment-anything-model-with-domain-ada-d02bae02">Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Z. Wei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.12522) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50) [Code](https://github.com/wkklavis/DAPSAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_50) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50) [Code](https://github.com/wkklavis/DAPSAM)
 
 <p align="center">
   <img src="imgs/prompting-segment-anything-model-with-domain-ada-d02bae02.png" width="920">
@@ -5334,12 +5119,11 @@ TBD
 ---
 
 ### <a id="fm-abs-promptable-foundation-model-drives-active-edabc19b">FM-ABS: Promptable Foundation Model Drives Active Barely Supervised Learning for 3D Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Z. Xu et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-72111-3_28) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_28)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_28) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_28)
 
 <p align="center">
   <img src="imgs/fm-abs-promptable-foundation-model-drives-active-edabc19b.png" width="920">
@@ -5356,12 +5140,11 @@ TBD
 ---
 
 ### <a id="fedfms-exploring-federated-foundation-models-for-c31a08c8">FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.05408) [Original Link](https://arxiv.org/pdf/2403.05408.pdf) [Code](https://github.com/LIU-YUXI/FedFMS)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_27) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_27) [Code](https://github.com/LIU-YUXI/FedFMS)
 
 <p align="center">
   <img src="imgs/fedfms-exploring-federated-foundation-models-for-c31a08c8.png" width="920">
@@ -5378,12 +5161,11 @@ TBD
 ---
 
 ### <a id="superpixel-guided-segment-anything-model-for-liv-9d8d0aba">Superpixel-Guided Segment Anything Model for Liver Tumor Segmentation with Couinaud Segment Prompt</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** F. Lyu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-72111-3_64) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_64)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_64) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_64)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5401,12 +5183,11 @@ TBD
 ---
 
 ### <a id="mask-enhanced-segment-anything-model-for-tumor-l-ba252d79">Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** H. Shi et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.05912) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_38) [Code](https://github.com/nanase1025/M-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_38) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_38) [Code](https://github.com/nanase1025/M-SAM)
 
 <p align="center">
   <img src="imgs/mask-enhanced-segment-anything-model-for-tumor-l-ba252d79.png" width="920">
@@ -5423,12 +5204,11 @@ TBD
 ---
 
 ### <a id="optimizing-efficiency-and-effectiveness-in-seque-1ed564bb">Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Huang et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-72111-3_45) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_45) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5446,12 +5226,11 @@ TBD
 ---
 
 ### <a id="tp-drseg-improving-diabetic-retinopathy-lesion-s-0fcc9bee">TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** W. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2406.15764) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_70) [Code](https://github.com/wxliii/TP-DRSeg)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_70) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_70) [Code](https://github.com/wxliii/TP-DRSeg)
 
 <p align="center">
   <img src="imgs/tp-drseg-improving-diabetic-retinopathy-lesion-s-0fcc9bee.png" width="920">
@@ -5468,12 +5247,11 @@ TBD
 ---
 
 ### <a id="beyond-adapting-sam-towards-end-to-end-ultrasoun-ddcedf03">Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting</a>
-> **Venue:** arXiv.org  
+> **Venue:** arXiv.org 2023  
 > **Authors:** X. Lin et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://arxiv.org/abs/2309.06824) [Original Link](https://arxiv.org/pdf/2309.06824.pdf) [Code](https://github.com/xianlin7/SAMUS)
+[Viewable Link](https://arxiv.org/abs/2309.06824) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_3) [Code](https://github.com/xianlin7/SAMUS)
 
 <p align="center">
   <img src="imgs/beyond-adapting-sam-towards-end-to-end-ultrasoun-ddcedf03.png" width="920">
@@ -5490,12 +5268,11 @@ TBD
 ---
 
 ### <a id="cryosam-training-free-cryoet-tomogram-segmentati-24a564eb">CryoSAM: Training-Free CryoET Tomogram Segmentation with Foundation Models</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Zhao et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12923679/) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_12) [Code](https://github.com/xulabs/aitom)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_12) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_12) [Code](https://github.com/xulabs/aitom)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5513,12 +5290,11 @@ TBD
 ---
 
 ### <a id="adapting-segment-anything-model-to-melanoma-segm-8abdd2c1">Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** Q. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2410.02207) [Original Link](https://arxiv.org/pdf/2410.02207)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-91721-9_10) [Original Link](https://arxiv.org/pdf/2410.02207)
 
 <p align="center">
   <img src="imgs/adapting-segment-anything-model-to-melanoma-segm-8abdd2c1.png" width="920">
@@ -5535,12 +5311,11 @@ TBD
 ---
 
 ### <a id="medical-image-segmentation-with-sam-generated-an-798e017d">Medical Image Segmentation with SAM-generated Annotations</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** I. Häkkinen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.20253) [Original Link](https://arxiv.org/pdf/2409.20253)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-92089-9_4) [Original Link](https://arxiv.org/pdf/2409.20253)
 
 <p align="center">
   <img src="imgs/medical-image-segmentation-with-sam-generated-an-798e017d.png" width="920">
@@ -5557,12 +5332,11 @@ TBD
 ---
 
 ### <a id="automating-medsam-by-learning-prompts-with-weak-19273e69">Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** M. Gaillochet et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.20293) [Original Link](https://arxiv.org/pdf/2409.20293) [Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-73471-7_7) [Original Link](https://arxiv.org/pdf/2409.20293) [Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)
 
 <p align="center">
   <img src="imgs/automating-medsam-by-learning-prompts-with-weak-19273e69.png" width="920">
@@ -5579,12 +5353,11 @@ TBD
 ---
 
 ### <a id="medclip-samv2-towards-universal-text-driven-medi-ae6fc3f5">MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Image Analysis 2025  
 > **Authors:** T. Koleilat et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.19483) [Original Link](https://arxiv.org/pdf/2409.19483) [Code](https://github.com/HealthX-Lab/MedCLIP-SAMv2)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525002968) [Original Link](https://arxiv.org/pdf/2409.19483) [Code](https://github.com/HealthX-Lab/MedCLIP-SAMv2)
 
 <p align="center">
   <img src="imgs/medclip-samv2-towards-universal-text-driven-medi-ae6fc3f5.png" width="920">
@@ -5601,12 +5374,11 @@ TBD
 ---
 
 ### <a id="towards-ground-truth-free-evaluation-of-any-segm-46165576">Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** A. Senbi et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.14874) [Original Link](https://arxiv.org/pdf/2409.14874) [Code](https://github.com/ahjolsenbics/EvanySeg)
+[Viewable Link](https://arxiv.org/abs/2409.14874) [Original Link](https://arxiv.org/pdf/2409.14874) [Code](https://github.com/ahjolsenbics/EvanySeg)
 
 <p align="center">
   <img src="imgs/towards-ground-truth-free-evaluation-of-any-segm-46165576.png" width="920">
@@ -5623,12 +5395,11 @@ TBD
 ---
 
 ### <a id="mcicsam-monte-carlo-guided-interpolation-consist-cb70abf3">MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** G. Huang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.13371) [Original Link](https://arxiv.org/pdf/2409.13371)
+[Viewable Link](https://arxiv.org/abs/2409.13371) [Original Link](https://arxiv.org/pdf/2409.13371)
 
 <p align="center">
   <img src="imgs/mcicsam-monte-carlo-guided-interpolation-consist-cb70abf3.png" width="920">
@@ -5645,12 +5416,11 @@ TBD
 ---
 
 ### <a id="tri-plane-mamba-efficiently-adapting-segment-any-f441c105">Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** H. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-72114-4_61) [Original Link](https://arxiv.org/pdf/2409.08492) [Code](https://github.com/xmed-lab/TP-Mamba)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72114-4_61) [Original Link](https://arxiv.org/pdf/2409.08492) [Code](https://github.com/xmed-lab/TP-Mamba)
 
 <p align="center">
   <img src="imgs/tri-plane-mamba-efficiently-adapting-segment-any-f441c105.png" width="920">
@@ -5667,12 +5437,11 @@ TBD
 ---
 
 ### <a id="sam2rad-a-segmentation-model-for-medical-images-18c21f70">Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Computers in Biology and Medicine 2025  
 > **Authors:** AS. Wahd et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.06821) [Original Link](https://arxiv.org/pdf/2409.06821) [Code](https://github.com/aswahd/SamRadiology)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0010482525000757) [Original Link](https://arxiv.org/pdf/2409.06821) [Code](https://github.com/aswahd/SamRadiology)
 
 <p align="center">
   <img src="imgs/sam2rad-a-segmentation-model-for-medical-images-18c21f70.png" width="920">
@@ -5689,12 +5458,11 @@ TBD
 ---
 
 ### <a id="when-3d-partial-points-meets-sam-tooth-point-clo-b603cd6c">When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** Weakly-SupervisedMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.01691) [Original Link](https://arxiv.org/pdf/2409.01691) [Code](https://github.com/CUHK-AIM-Group/SAMTooth)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72120-5_72) [Original Link](https://arxiv.org/pdf/2409.01691) [Code](https://github.com/CUHK-AIM-Group/SAMTooth)
 
 <p align="center">
   <img src="imgs/when-3d-partial-points-meets-sam-tooth-point-clo-b603cd6c.png" width="920">
@@ -5711,12 +5479,11 @@ TBD
 ---
 
 ### <a id="curriculum-prompting-foundation-models-for-medic-9b2fb910">Curriculum Prompting Foundation Models for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** X. Zheng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2409.00695) [Original Link](https://arxiv.org/pdf/2409.00695) [Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72390-2_46) [Original Link](https://arxiv.org/pdf/2409.00695) [Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)
 
 <p align="center">
   <img src="imgs/curriculum-prompting-foundation-models-for-medic-9b2fb910.png" width="920">
@@ -5733,12 +5500,11 @@ TBD
 ---
 
 ### <a id="generalized-sam-efficient-fine-tuning-of-sam-for-127ab9cf">Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** S. Kato et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.12406) [Original Link](https://arxiv.org/pdf/2408.12406) [Code](https://github.com/usagisukisuki/G-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-91979-4_14) [Original Link](https://arxiv.org/pdf/2408.12406) [Code](https://github.com/usagisukisuki/G-SAM)
 
 <p align="center">
   <img src="imgs/generalized-sam-efficient-fine-tuning-of-sam-for-127ab9cf.png" width="920">
@@ -5755,12 +5521,11 @@ TBD
 ---
 
 ### <a id="sam-sp-self-prompting-makes-sam-great-again-54d124e8">SAM-SP: Self-Prompting Makes SAM Great Again</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** C. Zhou et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.12364) [Original Link](https://arxiv.org/pdf/2408.12364)
+[Viewable Link](https://arxiv.org/abs/2408.12364) [Original Link](https://arxiv.org/pdf/2408.12364)
 
 <p align="center">
   <img src="imgs/sam-sp-self-prompting-makes-sam-great-again-54d124e8.png" width="920">
@@ -5780,7 +5545,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** S. Yang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2408.09886) [Code](https://github.com/Hhankyangg/sam-unet)
 
@@ -5799,12 +5563,11 @@ TBD
 ---
 
 ### <a id="sam-fnet-sam-guided-fusion-network-for-laryngo-p-8fbefa66">SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)  
 > **Authors:** J. Wei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.05426) [Original Link](https://arxiv.org/pdf/2408.05426) [Code](https://github.com/VVJia/SAM-FNet)
+[Viewable Link](https://ieeexplore.ieee.org/document/10822832/) [Original Link](https://arxiv.org/pdf/2408.05426) [Code](https://github.com/VVJia/SAM-FNet)
 
 <p align="center">
   <img src="imgs/sam-fnet-sam-guided-fusion-network-for-laryngo-p-8fbefa66.png" width="920">
@@ -5821,12 +5584,11 @@ TBD
 ---
 
 ### <a id="promptsam-malware-detection-based-on-prompt-segm-0a0171c3">PromptSAM+: Malware Detection based on Prompt Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** X. Wei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.02066) [Original Link](https://arxiv.org/pdf/2408.02066) [Code](https://github.com/XingYuanWei/PromptSAM)
+[Viewable Link](https://arxiv.org/abs/2408.02066) [Original Link](https://arxiv.org/pdf/2408.02066) [Code](https://github.com/XingYuanWei/PromptSAM)
 
 <p align="center">
   <img src="imgs/promptsam-malware-detection-based-on-prompt-segm-0a0171c3.png" width="920">
@@ -5843,12 +5605,11 @@ TBD
 ---
 
 ### <a id="pesam-privacy-enhanced-segment-anything-model-fo-e8631809">PESAM: Privacy-Enhanced Segment Anything Model for Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** J. Cai et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-981-97-5581-3_8) [Original Link](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)
+[Viewable Link](https://link.springer.com/10.1007/978-981-97-5581-3_8) [Original Link](https://link.springer.com/chapter/10.1007/978-981-97-5581-3_8)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5866,12 +5627,11 @@ TBD
 ---
 
 ### <a id="a-federated-learning-friendly-approach-for-param-f09b695f">A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** M. Asokan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.21739) [Original Link](https://arxiv.org/pdf/2407.21739) [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-77610-6_21) [Original Link](https://arxiv.org/pdf/2407.21739) [Code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)
 
 <p align="center">
   <img src="imgs/a-federated-learning-friendly-approach-for-param-f09b695f.png" width="920">
@@ -5888,12 +5648,11 @@ TBD
 ---
 
 ### <a id="cc-sam-sam-with-cross-feature-attention-and-cont-de622525">CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** SN. Gowda et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2408.00181) [Original Link](https://arxiv.org/pdf/2408.00181)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72995-9_7) [Original Link](https://arxiv.org/pdf/2408.00181)
 
 <p align="center">
   <img src="imgs/cc-sam-sam-with-cross-feature-attention-and-cont-de622525.png" width="920">
@@ -5910,12 +5669,11 @@ TBD
 ---
 
 ### <a id="dr-sam-u-shape-structure-segment-anything-model-f0dfbb60">Dr-SAM: U-Shape Structure Segment Anything Model for Generalizable Medical Image Segmentation</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** X. Huo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-981-97-5600-1_17) [Original Link](https://link.springer.com/chapter/10.1007/978-981-97-5600-1_17)
+[Viewable Link](https://link.springer.com/10.1007/978-981-97-5600-1_17) [Original Link](https://link.springer.com/chapter/10.1007/978-981-97-5600-1_17)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -5933,12 +5691,11 @@ TBD
 ---
 
 ### <a id="sam-mil-a-spatial-contextual-aware-multiple-inst-a29711d6">SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 32nd ACM International Conference on Multimedia 2024  
 > **Authors:** H. Fang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.17689) [Original Link](https://arxiv.org/pdf/2407.17689)
+[Viewable Link](https://dl.acm.org/doi/10.1145/3664647.3681534) [Original Link](https://arxiv.org/pdf/2407.17689)
 
 <p align="center">
   <img src="imgs/sam-mil-a-spatial-contextual-aware-multiple-inst-a29711d6.png" width="920">
@@ -5958,7 +5715,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** Q. Xu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2407.14153) [Code](https://github.com/xq141839/ESP-MedSAM)
 
@@ -5977,12 +5733,11 @@ TBD
 ---
 
 ### <a id="sam-driven-weakly-supervised-nodule-segmentation-e2675158">SAM-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** X. Zhao et al.  
 > **Keywords:** Weakly-SupervisedMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.13553) [Original Link](https://arxiv.org/pdf/2407.13553)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635682/) [Original Link](https://arxiv.org/pdf/2407.13553)
 
 <p align="center">
   <img src="imgs/sam-driven-weakly-supervised-nodule-segmentation-e2675158.png" width="920">
@@ -5999,12 +5754,11 @@ TBD
 ---
 
 ### <a id="protosam-one-shot-medical-image-segmentation-wit-033cc5d9">ProtoSAM: One-Shot Medical Image Segmentation With Foundational Models</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Scientific Reports 2025  
 > **Authors:** Q. Xu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.07042) [Original Link](https://arxiv.org/pdf/2407.07042) [Code](https://github.com/levayz/ProtoSAM)
+[Viewable Link](https://www.nature.com/articles/s41598-025-06643-0) [Original Link](https://arxiv.org/pdf/2407.07042) [Code](https://github.com/levayz/ProtoSAM)
 
 <p align="center">
   <img src="imgs/protosam-one-shot-medical-image-segmentation-wit-033cc5d9.png" width="920">
@@ -6024,7 +5778,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** A. Murali et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2407.06795)
 
@@ -6043,12 +5796,11 @@ TBD
 ---
 
 ### <a id="tinysam-med3d-a-lightweight-segment-anything-mod-55d33a8d">TinySAM-Med3D: A Lightweight Segment Anything Model for Volumetric Medical Imaging with Mixture of Experts</a>
-> **Venue:** Lecture notes in computer science 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** T. Song et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-66535-6_15) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-66535-6_15)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-66535-6_15) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-66535-6_15)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6066,12 +5818,11 @@ TBD
 ---
 
 ### <a id="mba-net-sam-driven-bidirectional-aggregation-net-1e3eb007">MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Gao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.05984) [Original Link](https://arxiv.org/pdf/2407.05984)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72120-5_41) [Original Link](https://arxiv.org/pdf/2407.05984)
 
 <p align="center">
   <img src="imgs/mba-net-sam-driven-bidirectional-aggregation-net-1e3eb007.png" width="920">
@@ -6088,12 +5839,11 @@ TBD
 ---
 
 ### <a id="cross-prompting-consistency-with-segment-anythin-224fb66c">Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** J. Miao et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.05416) [Original Link](https://arxiv.org/pdf/2407.05416) [Code](https://github.com/JuzhengMiao/CPC-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72120-5_16) [Original Link](https://arxiv.org/pdf/2407.05416) [Code](https://github.com/JuzhengMiao/CPC-SAM)
 
 <p align="center">
   <img src="imgs/cross-prompting-consistency-with-segment-anythin-224fb66c.png" width="920">
@@ -6110,12 +5860,11 @@ TBD
 ---
 
 ### <a id="sam-med3d-moe-towards-a-non-forgetting-segment-a-cfefd28d">SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** G. Wang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.04938) [Original Link](https://arxiv.org/pdf/2407.04938)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72114-4_53) [Original Link](https://arxiv.org/pdf/2407.04938)
 
 <p align="center">
   <img src="imgs/sam-med3d-moe-towards-a-non-forgetting-segment-a-cfefd28d.png" width="920">
@@ -6135,9 +5884,8 @@ TBD
 > **Venue:** Scientific Reports 2024  
 > **Authors:** Z. Zhang et al.  
 > **Keywords:** Weakly-SupervisedMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1038/s41598-024-65567-3) [Original Link](https://www.nature.com/articles/s41598-024-65567-3)
+[Viewable Link](https://www.nature.com/articles/s41598-024-65567-3)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6155,12 +5903,11 @@ TBD
 ---
 
 ### <a id="asps-augmented-segment-anything-model-for-polyp-2556af92">ASPS: Augmented Segment Anything Model for Polyp Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** H. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.00718) [Original Link](https://arxiv.org/pdf/2407.00718) [Code](https://github.com/HuiqianLi/ASPS)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72114-4_12) [Original Link](https://arxiv.org/pdf/2407.00718) [Code](https://github.com/HuiqianLi/ASPS)
 
 <p align="center">
   <img src="imgs/asps-augmented-segment-anything-model-for-polyp-2556af92.png" width="920">
@@ -6177,12 +5924,11 @@ TBD
 ---
 
 ### <a id="simtxtseg-weakly-supervised-medical-image-segmen-366d0db5">SimTxtSeg: Weakly-Supervised Medical Image Segmentation with Simple Text Cues</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Xie et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2406.19364) [Original Link](https://arxiv.org/pdf/2406.19364)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_60) [Original Link](https://arxiv.org/pdf/2406.19364)
 
 <p align="center">
   <img src="imgs/simtxtseg-weakly-supervised-medical-image-segmen-366d0db5.png" width="920">
@@ -6199,12 +5945,11 @@ TBD
 ---
 
 ### <a id="memsam-taming-segment-anything-model-for-echocar-c686f516">MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation</a>
-> **Venue:** 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** X. Deng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/cvpr52733.2024.00919) [Original Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf) [Code](https://github.com/dengxl0520/MemSAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10656025/) [Original Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf) [Code](https://github.com/dengxl0520/MemSAM)
 
 <p align="center">
   <img src="imgs/memsam-taming-segment-anything-model-for-echocar-c686f516.png" width="920">
@@ -6221,12 +5966,11 @@ TBD
 ---
 
 ### <a id="training-like-a-medical-resident-context-prior-l-2cf1d418">Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Y. Gao  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.02416) [Original Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf) [Code](https://github.com/yhygao/universal-medical-image-segmentation)
+[Viewable Link](https://ieeexplore.ieee.org/document/10658004/) [Original Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Training_Like_a_Medical_Resident_Context-Prior_Learning_Toward_Universal_Medical_CVPR_2024_paper.pdf) [Code](https://github.com/yhygao/universal-medical-image-segmentation)
 
 <p align="center">
   <img src="imgs/training-like-a-medical-resident-context-prior-l-2cf1d418.png" width="920">
@@ -6243,12 +5987,11 @@ TBD
 ---
 
 ### <a id="how-sam-perceives-different-mp-mri-brain-tumor-d-cab11a15">How SAM Perceives Different mp-MRI Brain Tumor Domains?</a>
-> **Venue:** 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** CD. Albelda et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/cvprw63382.2024.00501) [Original Link](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf) [Code](github.com/vpulab/med-sam-brain)
+[Viewable Link](https://ieeexplore.ieee.org/document/10678163/) [Original Link](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Diana-Albelda_How_SAM_Perceives_Different_mp-MRI_Brain_Tumor_Domains_CVPRW_2024_paper.pdf) [Code](github.com/vpulab/med-sam-brain)
 
 <p align="center">
   <img src="imgs/how-sam-perceives-different-mp-mri-brain-tumor-d-cab11a15.png" width="920">
@@ -6265,12 +6008,11 @@ TBD
 ---
 
 ### <a id="improving-segment-anything-on-the-fly-auxiliary-2672bda8">Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** T. Huang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2406.00956) [Original Link](https://arxiv.org/pdf/2406.00956) [Code](https://sam-auxol.github.io/AuxOL/)
+[Viewable Link](https://arxiv.org/abs/2406.00956) [Original Link](https://arxiv.org/pdf/2406.00956) [Code](https://sam-auxol.github.io/AuxOL/)
 
 <p align="center">
   <img src="imgs/improving-segment-anything-on-the-fly-auxiliary-2672bda8.png" width="920">
@@ -6287,12 +6029,11 @@ TBD
 ---
 
 ### <a id="simsam-zero-shot-medical-image-segmentation-via-61a15d39">SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** B. Towle et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2406.00663) [Original Link](https://arxiv.org/pdf/2406.00663) [Code](https://github.com/BenjaminTowle/SimSAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635227/) [Original Link](https://arxiv.org/pdf/2406.00663) [Code](https://github.com/BenjaminTowle/SimSAM)
 
 <p align="center">
   <img src="imgs/simsam-zero-shot-medical-image-segmentation-via-61a15d39.png" width="920">
@@ -6312,9 +6053,8 @@ TBD
 > **Venue:** IEEE Journal of Biomedical and Health Informatics 2024  
 > **Authors:** Y. Gu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/jbhi.2024.3406871) [Original Link](https://ieeexplore.ieee.org/abstract/document/10540651)
+[Viewable Link](https://ieeexplore.ieee.org/document/10540651/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10540651)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6335,9 +6075,8 @@ TBD
 > **Venue:** Journal of Endourology 2024  
 > **Authors:** J. Leng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1089/end.2023.0740) [Original Link](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740)
+[Viewable Link](https://journals.sagepub.com/doi/10.1089/end.2023.0740) [Original Link](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6355,12 +6094,11 @@ TBD
 ---
 
 ### <a id="pp-sam-perturbed-prompts-for-robust-adaptation-o-ab432046">PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** MM. Rahman et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2405.16740) [Original Link](https://arxiv.org/pdf/2405.16740) [Code](https://github.com/SLDGroup/PP-SAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10678514/) [Original Link](https://arxiv.org/pdf/2405.16740) [Code](https://github.com/SLDGroup/PP-SAM)
 
 <p align="center">
   <img src="imgs/pp-sam-perturbed-prompts-for-robust-adaptation-o-ab432046.png" width="920">
@@ -6377,12 +6115,11 @@ TBD
 ---
 
 ### <a id="a-foundation-model-for-brain-lesion-segmentation-7a1c3590">A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** IEEE Transactions on Medical Imaging 2025  
 > **Authors:** X. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2405.10246) [Original Link](https://arxiv.org/pdf/2405.10246) [Code](https://github.com/ZhangxinruBIT/MoME)
+[Viewable Link](https://ieeexplore.ieee.org/document/10879789/) [Original Link](https://arxiv.org/pdf/2405.10246) [Code](https://github.com/ZhangxinruBIT/MoME)
 
 <p align="center">
   <img src="imgs/a-foundation-model-for-brain-lesion-segmentation-7a1c3590.png" width="920">
@@ -6399,12 +6136,11 @@ TBD
 ---
 
 ### <a id="sam3d-zero-shot-semi-automatic-segmentation-in-3-88de5a37">SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2025: Image Processing  
 > **Authors:** TJ. Chan et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2405.06786) [Original Link](https://arxiv.org/pdf/2405.06786)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047242/SAM3D--zero-shot-semi-automatic-segmentation-in-3D-medical/10.1117/12.3047242.full) [Original Link](https://arxiv.org/pdf/2405.06786)
 
 <p align="center">
   <img src="imgs/sam3d-zero-shot-semi-automatic-segmentation-in-3-88de5a37.png" width="920">
@@ -6421,12 +6157,11 @@ TBD
 ---
 
 ### <a id="sammi-segment-anything-model-for-malaria-identif-8553dd51">SAMMI: Segment Anything Model for Malaria Identification</a>
-> **Venue:** 2024  
+> **Venue:** 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications 2024  
 > **Authors:** HL. Zedda et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://dx.doi.org/10.5220/0012325500003660) [Original Link](https://iris.unica.it/bitstream/11584/397665/1/2024_VISAPP_SAM.pdf)
+[Viewable Link](https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0012325500003660) [Original Link](https://iris.unica.it/bitstream/11584/397665/1/2024_VISAPP_SAM.pdf)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6447,9 +6182,8 @@ TBD
 > **Venue:** Bioengineering 2024  
 > **Authors:** H. Zhou et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.3390/bioengineering11050447) [Original Link](https://www.mdpi.com/2306-5354/11/5/447)
+[Viewable Link](https://www.mdpi.com/2306-5354/11/5/447)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6467,12 +6201,11 @@ TBD
 ---
 
 ### <a id="dr-sam-an-end-to-end-framework-for-vascular-segm-c6c3296e">Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** V. Zohranyan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.17029) [Original Link](https://arxiv.org/pdf/2404.17029.pdf) [Code](https://github.com/vazgenzohranyan/Dr.SAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10678211/) [Original Link](https://arxiv.org/pdf/2404.17029.pdf) [Code](https://github.com/vazgenzohranyan/Dr.SAM)
 
 <p align="center">
   <img src="imgs/dr-sam-an-end-to-end-framework-for-vascular-segm-c6c3296e.png" width="920">
@@ -6489,12 +6222,11 @@ TBD
 ---
 
 ### <a id="ultrasound-sam-adapter-adapting-sam-for-breast-l-21c14929">Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Z. Tu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.14837) [Original Link](https://arxiv.org/pdf/2404.14837.pdf) [Code](https://github.com/bscs12/BUSSAM)
+[Viewable Link](https://arxiv.org/abs/2404.14837) [Original Link](https://arxiv.org/pdf/2404.14837.pdf) [Code](https://github.com/bscs12/BUSSAM)
 
 <p align="center">
   <img src="imgs/ultrasound-sam-adapter-adapting-sam-for-breast-l-21c14929.png" width="920">
@@ -6511,12 +6243,11 @@ TBD
 ---
 
 ### <a id="surgical-desam-decoupling-sam-for-instrument-seg-09b2d802">Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** International Journal of Computer Assisted Radiology and Surgery 2024  
 > **Authors:** Y. Sheng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.14040) [Original Link](https://arxiv.org/pdf/2404.14040.pdf)
+[Viewable Link](https://link.springer.com/10.1007/s11548-024-03163-6) [Original Link](https://arxiv.org/pdf/2404.14040.pdf)
 
 <p align="center">
   <img src="imgs/surgical-desam-decoupling-sam-for-instrument-seg-09b2d802.png" width="920">
@@ -6533,12 +6264,11 @@ TBD
 ---
 
 ### <a id="adapting-sam-for-surgical-instrument-tracking-an-c0fbaccd">Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Yu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.10640) [Original Link](https://arxiv.org/pdf/2404.10640.pdf)
+[Viewable Link](https://arxiv.org/abs/2404.10640) [Original Link](https://arxiv.org/pdf/2404.10640.pdf)
 
 <p align="center">
   <img src="imgs/adapting-sam-for-surgical-instrument-tracking-an-c0fbaccd.png" width="920">
@@ -6555,12 +6285,11 @@ TBD
 ---
 
 ### <a id="how-to-build-the-best-medical-image-segmentation-933a52cf">How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Machine Learning for Biomedical Imaging 2025  
 > **Authors:** H. Gu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.09957) [Original Link](https://arxiv.org/pdf/2404.09957.pdf) [Code](https://github.com/mazurowski-lab/finetune-SAM)
+[Viewable Link](https://melba-journal.org/2025:006) [Original Link](https://arxiv.org/pdf/2404.09957.pdf) [Code](https://github.com/mazurowski-lab/finetune-SAM)
 
 <p align="center">
   <img src="imgs/how-to-build-the-best-medical-image-segmentation-933a52cf.png" width="920">
@@ -6577,12 +6306,11 @@ TBD
 ---
 
 ### <a id="sam-i-am-semantic-boosting-for-zero-shot-atomic-f193da58">SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Computational Materials Science 2025  
 > **Authors:** W. Abebe et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.06638) [Original Link](https://arxiv.org/pdf/2404.06638.pdf)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0927025624006219) [Original Link](https://arxiv.org/pdf/2404.06638.pdf)
 
 <p align="center">
   <img src="imgs/sam-i-am-semantic-boosting-for-zero-shot-atomic-f193da58.png" width="920">
@@ -6599,12 +6327,11 @@ TBD
 ---
 
 ### <a id="test-time-adaptation-with-salip-a-cascade-of-sam-a9e284b3">Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  
 > **Authors:** S. Aleem et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2404.06362) [Original Link](https://arxiv.org/pdf/2404.06362.pdf) [Code](https://github.com/aleemsidra/SaLIP)
+[Viewable Link](https://ieeexplore.ieee.org/document/10678616/) [Original Link](https://arxiv.org/pdf/2404.06362.pdf) [Code](https://github.com/aleemsidra/SaLIP)
 
 <p align="center">
   <img src="imgs/test-time-adaptation-with-salip-a-cascade-of-sam-a9e284b3.png" width="920">
@@ -6621,12 +6348,11 @@ TBD
 ---
 
 ### <a id="adapting-sam-to-histopathology-images-for-tumor-1620cb20">Adapting SAM to histopathology images for tumor bud segmentation in colorectal cancer</a>
-> **Venue:** 2024  
+> **Venue:** Medical Imaging 2024: Digital and Computational Pathology  
 > **Authors:** Z. Su et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://www.ncbi.nlm.nih.gov/pmc/articles/11099868) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/129330C/Adapting-SAM-to-histopathology-images-for-tumor-bud-segmentation-in/10.1117/12.3006517.short#_=_)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/3006517/Adapting-SAM-to-histopathology-images-for-tumor-bud-segmentation-in/10.1117/12.3006517.full) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/129330C/Adapting-SAM-to-histopathology-images-for-tumor-bud-segmentation-in/10.1117/12.3006517.short#_=_)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6644,12 +6370,11 @@ TBD
 ---
 
 ### <a id="barely-supervised-brain-tumor-segmentation-via-e-c7109dc6">Barely-Supervised Brain Tumor Segmentation via Employing Segment Anything Model</a>
-> **Venue:** IEEE Transactions on Circuits and Systems for Video Technology 2024  
+> **Venue:** IEEE Transactions on Circuits and Systems for Video Technology 2025  
 > **Authors:** Y. Ding et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/tcsvt.2024.3384503) [Original Link](https://ieeexplore.ieee.org/abstract/document/10491099)
+[Viewable Link](https://ieeexplore.ieee.org/document/10491099/) [Original Link](https://ieeexplore.ieee.org/abstract/document/10491099)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6670,9 +6395,8 @@ TBD
 > **Venue:** IEEE Access 2024  
 > **Authors:** Y. Zhu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1109/access.2024.3384383) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488364)
+[Viewable Link](https://ieeexplore.ieee.org/document/10488364/) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488364)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6690,12 +6414,11 @@ TBD
 ---
 
 ### <a id="universal-3d-ct-lesion-segmentation-using-sam-wi-cc44f814">Universal 3D CT lesion segmentation using SAM with RECIST annotation</a>
-> **Venue:** 2024  
+> **Venue:** Medical Imaging 2024: Image Processing  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1117/12.3006527) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292605/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.short#_=_)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3006527/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.full) [Original Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292605/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.short#_=_)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -6713,12 +6436,11 @@ TBD
 ---
 
 ### <a id="unleashing-the-potential-of-sam-for-medical-adap-c484b446">Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  
 > **Authors:** Z. Cheng et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.18271) [Original Link](https://arxiv.org/pdf/2403.18271.pdf) [Code](https://github.com/Cccccczh404/H-SAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10656144/) [Original Link](https://arxiv.org/pdf/2403.18271.pdf) [Code](https://github.com/Cccccczh404/H-SAM)
 
 <p align="center">
   <img src="imgs/unleashing-the-potential-of-sam-for-medical-adap-c484b446.png" width="920">
@@ -6735,12 +6457,11 @@ TBD
 ---
 
 ### <a id="segment-any-medical-model-extended-730407eb">Segment Any Medical Model Extended</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2024: Image Processing  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.18114) [Original Link](https://arxiv.org/pdf/2403.18114.pdf)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3001069/Segment-any-medical-model-extended/10.1117/12.3001069.full) [Original Link](https://arxiv.org/pdf/2403.18114.pdf)
 
 <p align="center">
   <img src="imgs/segment-any-medical-model-extended-730407eb.png" width="920">
@@ -6757,12 +6478,11 @@ TBD
 ---
 
 ### <a id="anytime-anywhere-anyone-investigating-the-feasib-93111d66">Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** P. Kulkarni et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.15218) [Original Link](https://arxiv.org/pdf/2403.15218.pdf)
+[Viewable Link](https://arxiv.org/abs/2403.15218) [Original Link](https://arxiv.org/pdf/2403.15218.pdf)
 
 <p align="center">
   <img src="imgs/anytime-anywhere-anyone-investigating-the-feasib-93111d66.png" width="920">
@@ -6779,12 +6499,11 @@ TBD
 ---
 
 ### <a id="towards-a-comprehensive-efficient-and-promptable-f5b7a56f">Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model Using 3D Whole-Body CT Scans</a>
-> **Venue:** Proceedings of the AAAI Conference on Artificial Intelligence 2025  
+> **Venue:** AAAI Conference on Artificial Intelligence 2025  
 > **Authors:** H. Guo et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1609/aaai.v39i3.32335) [Original Link](https://arxiv.org/pdf/2403.15063.pdf)
+[Viewable Link](https://ojs.aaai.org/index.php/AAAI/article/view/32335) [Original Link](https://arxiv.org/pdf/2403.15063.pdf)
 
 <p align="center">
   <img src="imgs/towards-a-comprehensive-efficient-and-promptable-f5b7a56f.png" width="920">
@@ -6804,7 +6523,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** S. Li et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2403.11229.pdf) [Code](https://github.com/ShumengLI/CFR)
 
@@ -6826,7 +6544,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** M. Jiang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2403.10931.pdf)
 
@@ -6848,7 +6565,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** Z. Chen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2403.10009.pdf)
 
@@ -6867,12 +6583,11 @@ TBD
 ---
 
 ### <a id="fastsam3d-an-efficient-segment-anything-model-fo-61183fb7">FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Shen et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.09827) [Original Link](https://arxiv.org/pdf/2403.09827.pdf) [Code](https://github.com/arcadelab/FastSAM3D)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72390-2_51) [Original Link](https://arxiv.org/pdf/2403.09827.pdf) [Code](https://github.com/arcadelab/FastSAM3D)
 
 <p align="center">
   <img src="imgs/fastsam3d-an-efficient-segment-anything-model-fo-61183fb7.png" width="920">
@@ -6889,12 +6604,11 @@ TBD
 ---
 
 ### <a id="wsi-sam-multi-resolution-segment-anything-model-cb419997">WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** H. Liu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.09257) [Original Link](https://arxiv.org/pdf/2403.09257.pdf) [Code](https://github.com/HongLiuuuuu/WSI-SAM)
+[Viewable Link](https://arxiv.org/abs/2403.09257) [Original Link](https://arxiv.org/pdf/2403.09257.pdf) [Code](https://github.com/HongLiuuuuu/WSI-SAM)
 
 <p align="center">
   <img src="imgs/wsi-sam-multi-resolution-segment-anything-model-cb419997.png" width="920">
@@ -6911,12 +6625,11 @@ TBD
 ---
 
 ### <a id="segmentation-of-knee-bones-for-osteoarthritis-as-0dd3a52e">Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** IFMBE Proceedings 2024  
 > **Authors:** YX. Teoh et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.08761) [Original Link](https://arxiv.org/pdf/2403.08761.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-62523-7_37) [Original Link](https://arxiv.org/pdf/2403.08761.pdf)
 
 <p align="center">
   <img src="imgs/segmentation-of-knee-bones-for-osteoarthritis-as-0dd3a52e.png" width="920">
@@ -6933,12 +6646,11 @@ TBD
 ---
 
 ### <a id="samda-leveraging-sam-on-few-shot-domain-adaptati-0656632f">SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** Y. Wang et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.07951) [Original Link](https://arxiv.org/pdf/2403.07951.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10980811/) [Original Link](https://arxiv.org/pdf/2403.07951.pdf)
 
 <p align="center">
   <img src="imgs/samda-leveraging-sam-on-few-shot-domain-adaptati-0656632f.png" width="920">
@@ -6955,12 +6667,11 @@ TBD
 ---
 
 ### <a id="fedfms-exploring-federated-foundation-models-for-c31a08c8">FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.05408) [Original Link](https://arxiv.org/pdf/2403.05408.pdf) [Code](https://github.com/LIU-YUXI/FedFMS)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72111-3_27) [Original Link](https://arxiv.org/pdf/2403.05408.pdf) [Code](https://github.com/LIU-YUXI/FedFMS)
 
 <p align="center">
   <img src="imgs/fedfms-exploring-federated-foundation-models-for-c31a08c8.png" width="920">
@@ -6980,7 +6691,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** C. Zhao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2403.05433.pdf)
 
@@ -6999,12 +6709,11 @@ TBD
 ---
 
 ### <a id="promise-promptable-medical-image-segmentation-us-bea5a709">ProMISe: Promptable Medical Image Segmentation using SAM</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2403.04164) [Original Link](https://arxiv.org/pdf/2403.04164.pdf)
+[Viewable Link](https://arxiv.org/abs/2403.04164) [Original Link](https://arxiv.org/pdf/2403.04164.pdf)
 
 <p align="center">
   <img src="imgs/promise-promptable-medical-image-segmentation-us-bea5a709.png" width="920">
@@ -7024,7 +6733,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** L. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2402.16338.pdf) [Code](https://github.com/importZL/BLO-SAM)
 
@@ -7043,12 +6751,11 @@ TBD
 ---
 
 ### <a id="from-generalization-to-precision-exploring-sam-f-ac3beadb">From generalization to precision: exploring SAM for tool segmentation in surgical environments</a>
-> **Venue:** arXiv.org 2024  
+> **Venue:** Medical Imaging 2024: Image Processing  
 > **Authors:** KJ. Oguine et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2402.17972) [Original Link](https://arxiv.org/pdf/2402.17972.pdf)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/3006981/From-generalization-to-precision--exploring-SAM-for-tool-segmentation/10.1117/12.3006981.full) [Original Link](https://arxiv.org/pdf/2402.17972.pdf)
 
 <p align="center">
   <img src="imgs/from-generalization-to-precision-exploring-sam-f-ac3beadb.png" width="920">
@@ -7065,12 +6772,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-for-head-and-neck-tumor-s-269fa57f">Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** J. Ren et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2402.17454) [Original Link](https://arxiv.org/pdf/2402.17454.pdf)
+[Viewable Link](https://arxiv.org/abs/2402.17454) [Original Link](https://arxiv.org/pdf/2402.17454.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-for-head-and-neck-tumor-s-269fa57f.png" width="920">
@@ -7087,12 +6793,11 @@ TBD
 ---
 
 ### <a id="un-sam-universal-prompt-free-segmentation-for-ge-7f1cd137">UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** arXiv.org 2024  
 > **Authors:** Z. Chen et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2402.16663) [Original Link](https://arxiv.org/pdf/2402.16663.pdf) [Code](https://github.com/CUHK-AIM-Group/UN-SAM)
+[Viewable Link](https://arxiv.org/abs/2402.16663) [Original Link](https://arxiv.org/pdf/2402.16663.pdf) [Code](https://github.com/CUHK-AIM-Group/UN-SAM)
 
 <p align="center">
   <img src="imgs/un-sam-universal-prompt-free-segmentation-for-ge-7f1cd137.png" width="920">
@@ -7109,12 +6814,11 @@ TBD
 ---
 
 ### <a id="tumor-segmentation-on-whole-slide-images-trainin-4fb71f1a">Tumor segmentation on whole slide images: training or prompting?</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** H. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2402.13932) [Original Link](https://arxiv.org/pdf/2402.13932.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635239/) [Original Link](https://arxiv.org/pdf/2402.13932.pdf)
 
 <p align="center">
   <img src="imgs/tumor-segmentation-on-whole-slide-images-trainin-4fb71f1a.png" width="920">
@@ -7134,7 +6838,6 @@ TBD
 > **Venue:** 2024  
 > **Authors:** P. Farmanifard et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2402.06497.pdf)
 
@@ -7153,12 +6856,11 @@ TBD
 ---
 
 ### <a id="clicksam-fine-tuning-segment-anything-model-usin-8cb0d5d0">ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Imaging 2024: Ultrasonic Imaging and Tomography  
 > **Authors:** A. Guo et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2402.05902) [Original Link](https://arxiv.org/pdf/2402.05902.pdf)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/3005879/ClickSAM--fine-tuning-Segment-Anything-Model-using-click-prompts/10.1117/12.3005879.full) [Original Link](https://arxiv.org/pdf/2402.05902.pdf)
 
 <p align="center">
   <img src="imgs/clicksam-fine-tuning-segment-anything-model-usin-8cb0d5d0.png" width="920">
@@ -7178,9 +6880,8 @@ TBD
 > **Venue:** IEEE Journal of Biomedical and Health Informatics 2025  
 > **Authors:** J. Wan et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC13041565/) [Original Link](https://arxiv.org/pdf/2401.13961.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11027715/) [Original Link](https://arxiv.org/pdf/2401.13961.pdf)
 
 <p align="center">
   <img src="imgs/trisam-tri-plane-sam-for-zero-shot-cortical-bloo-7f61e3a9.png" width="920">
@@ -7197,12 +6898,11 @@ TBD
 ---
 
 ### <a id="segment-any-cell-a-sam-based-auto-prompting-fine-6aa4efaf">Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** IEEE Transactions on Neural Networks and Learning Systems 2025  
 > **Authors:** S. Na et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2401.13220) [Original Link](https://arxiv.org/pdf/2401.13220.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/11218040/) [Original Link](https://arxiv.org/pdf/2401.13220.pdf)
 
 <p align="center">
   <img src="imgs/segment-any-cell-a-sam-based-auto-prompting-fine-6aa4efaf.png" width="920">
@@ -7219,12 +6919,11 @@ TBD
 ---
 
 ### <a id="segmentanybone-a-universal-model-that-segments-a-a83cb8a8">SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Medical Image Analysis 2025  
 > **Authors:** H. Gu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2401.12974) [Original Link](https://arxiv.org/pdf/2401.12974.pdf) [Code](https://github.com/mazurowski-lab/SegmentAnyBone)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000179) [Original Link](https://arxiv.org/pdf/2401.12974.pdf) [Code](https://github.com/mazurowski-lab/SegmentAnyBone)
 
 <p align="center">
   <img src="imgs/segmentanybone-a-universal-model-that-segments-a-a83cb8a8.png" width="920">
@@ -7241,12 +6940,11 @@ TBD
 ---
 
 ### <a id="clipsam-clip-and-sam-collaboration-for-zero-shot-50ce7eda">ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** Neurocomputing 2025  
 > **Authors:** S. Li et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2401.12665) [Original Link](https://arxiv.org/pdf/2401.12665.pdf) [Code](https://github.com/Lszcoding/ClipSAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S0925231224018939) [Original Link](https://arxiv.org/pdf/2401.12665.pdf) [Code](https://github.com/Lszcoding/ClipSAM)
 
 <p align="center">
   <img src="imgs/clipsam-clip-and-sam-collaboration-for-zero-shot-50ce7eda.png" width="920">
@@ -7263,12 +6961,11 @@ TBD
 ---
 
 ### <a id="no-more-training-sam-s-zero-shot-transfer-capabi-e623af2b">No More Training: SAM's Zero-Shot Transfer Capabilities for Cost-Efficient Medical Image Segmentation</a>
-> **Venue:** 2024  
+> **Venue:** IEEE Access 2024  
 > **Authors:** JD. Gutiérrez et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10388320)
+[Viewable Link](https://ieeexplore.ieee.org/document/10388320/) [Original Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10388320)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -7286,12 +6983,11 @@ TBD
 ---
 
 ### <a id="leveraging-sam-for-single-source-domain-generali-6db32fe5">Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)  
 > **Authors:** H. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2401.02076) [Original Link](https://arxiv.org/pdf/2401.02076.pdf) [Code](https://github.com/SARIHUST/SAMMed)
+[Viewable Link](https://ieeexplore.ieee.org/document/11343166/) [Original Link](https://arxiv.org/pdf/2401.02076.pdf) [Code](https://github.com/SARIHUST/SAMMed)
 
 <p align="center">
   <img src="imgs/leveraging-sam-for-single-source-domain-generali-6db32fe5.png" width="920">
@@ -7308,12 +7004,11 @@ TBD
 ---
 
 ### <a id="swinsam-fine-grained-polyp-segmentation-in-colon-19f23f47">Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder</a>
-> **Venue:** SSRN Electronic Journal 2024  
+> **Venue:** Biomedical Signal Processing and Control 2025  
 > **Authors:** Z. Feng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.2139/ssrn.4673046) [Original Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1746809424011133) [Original Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -7334,7 +7029,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** Z. Zhao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2312.17183.pdf) [Code](https://zhaoziheng.github.io/MedUniSeg)
 
@@ -7356,7 +7050,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** W. Yue et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2312.14481.pdf) [Code](https://github.com/wenxi-yue/SurgicalPart-SAM)
 
@@ -7375,12 +7068,11 @@ TBD
 ---
 
 ### <a id="repurposing-traditional-u-net-predictions-for-sp-ec8cf23d">Repurposing traditional U-Net predictions for sparse SAM prompting in medical image segmentation</a>
-> **Venue:** Biomedical Physics & Engineering Express 2023  
+> **Venue:** Biomedical Physics &amp; Engineering Express 2024  
 > **Authors:** ZM. Colbert et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1088/2057-1976/ad17a7) [Original Link](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7/meta)
+[Viewable Link](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7) [Original Link](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7/meta)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -7398,12 +7090,11 @@ TBD
 ---
 
 ### <a id="sam-fewshot-finetuning-for-anatomical-segmentati-63e6e4b8">SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2024  
+> **Venue:** 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)  
 > **Authors:** W. Xie et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2407.04651) [Original Link](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_SAM_Fewshot_Finetuning_for_Anatomical_Segmentation_in_Medical_Images_WACV_2024_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10484400/) [Original Link](https://openaccess.thecvf.com/content/WACV2024/papers/Xie_SAM_Fewshot_Finetuning_for_Anatomical_Segmentation_in_Medical_Images_WACV_2024_paper.pdf)
 
 <p align="center">
   <img src="imgs/sam-fewshot-finetuning-for-anatomical-segmentati-63e6e4b8.png" width="920">
@@ -7420,12 +7111,11 @@ TBD
 ---
 
 ### <a id="testing-the-segment-anything-model-on-radiology-af05eff1">Testing the Segment Anything Model on radiology data</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** JG. Almeida et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2312.12880) [Original Link](https://arxiv.org/pdf/2312.12880.pdf)
+[Viewable Link](https://arxiv.org/abs/2312.12880) [Original Link](https://arxiv.org/pdf/2312.12880.pdf)
 
 <p align="center">
   <img src="imgs/testing-the-segment-anything-model-on-radiology-af05eff1.png" width="920">
@@ -7442,12 +7132,11 @@ TBD
 ---
 
 ### <a id="towards-samba-segment-anything-model-for-brain-t-7662c153">Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** M. Barakat et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2312.11775) [Original Link](https://arxiv.org/pdf/2312.11775.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-76163-8_18) [Original Link](https://arxiv.org/pdf/2312.11775.pdf)
 
 <p align="center">
   <img src="imgs/towards-samba-segment-anything-model-for-brain-t-7662c153.png" width="920">
@@ -7464,12 +7153,11 @@ TBD
 ---
 
 ### <a id="sqa-sam-segmentation-quality-assessment-for-medi-f90c58ba">SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2312.09899) [Original Link](https://arxiv.org/pdf/2312.09899.pdf) [Code](https://github.com/yizhezhang2000/SQA-SAM)
+[Viewable Link](https://arxiv.org/abs/2312.09899) [Original Link](https://arxiv.org/pdf/2312.09899.pdf) [Code](https://github.com/yizhezhang2000/SQA-SAM)
 
 <p align="center">
   <img src="imgs/sqa-sam-segmentation-quality-assessment-for-medi-f90c58ba.png" width="920">
@@ -7486,12 +7174,11 @@ TBD
 ---
 
 ### <a id="aslseg-adapting-sam-in-the-loop-for-semi-supervi-77350955">ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** S. Chen et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2312.07969) [Original Link](https://arxiv.org/pdf/2312.07969.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635501/) [Original Link](https://arxiv.org/pdf/2312.07969.pdf)
 
 <p align="center">
   <img src="imgs/aslseg-adapting-sam-in-the-loop-for-semi-supervi-77350955.png" width="920">
@@ -7511,7 +7198,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** HE. Wong et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2312.07381.pdf) [Code](https://scribbleprompt.csail.mit.edu)
 
@@ -7533,7 +7219,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2312.06316.pdf)
 
@@ -7552,12 +7237,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-guided-collaborative-lear-77ded422">Segment Anything Model-guided Collaborative Learning Network for Scribble-supervised Polyp Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Y. Zhao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2312.00312) [Original Link](https://arxiv.org/pdf/2312.00312.pdf)
+[Viewable Link](https://arxiv.org/abs/2312.00312) [Original Link](https://arxiv.org/pdf/2312.00312.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-guided-collaborative-lear-77ded422.png" width="920">
@@ -7577,9 +7261,8 @@ TBD
 > **Venue:** SSRN Electronic Journal 2023  
 > **Authors:** N. Li et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.2139/ssrn.4477443) [Original Link](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_11)
+[Viewable Link](https://www.ssrn.com/abstract=4477443) [Original Link](https://link.springer.com/chapter/10.1007/978-981-99-8141-0_11)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -7597,12 +7280,11 @@ TBD
 ---
 
 ### <a id="i-medsam-implicit-medical-image-segmentation-wit-d6b96e13">I-MedSAM: Implicit Medical Image Segmentation with Segment Anything</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** X. Wei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.17081) [Original Link](https://arxiv.org/pdf/2311.17081.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-72684-2_6) [Original Link](https://arxiv.org/pdf/2311.17081.pdf)
 
 <p align="center">
   <img src="imgs/i-medsam-implicit-medical-image-segmentation-wit-d6b96e13.png" width="920">
@@ -7619,12 +7301,11 @@ TBD
 ---
 
 ### <a id="unleashing-the-power-of-prompt-driven-nucleus-in-654f1c0a">Unleashing the Power of Prompt-driven Nucleus Instance Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** Z. Shui et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.15939) [Original Link](https://arxiv.org/pdf/2311.15939.pdf) [Code](https://github.com/windygoo/PromptNucSeg)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-73383-3_17) [Original Link](https://arxiv.org/pdf/2311.15939.pdf) [Code](https://github.com/windygoo/PromptNucSeg)
 
 <p align="center">
   <img src="imgs/unleashing-the-power-of-prompt-driven-nucleus-in-654f1c0a.png" width="920">
@@ -7641,12 +7322,11 @@ TBD
 ---
 
 ### <a id="where-to-begin-from-random-to-foundation-model-i-9191fae9">Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** M. Li and G. Yang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.15463) [Original Link](https://arxiv.org/pdf/2311.15463.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635665/) [Original Link](https://arxiv.org/pdf/2311.15463.pdf)
 
 <p align="center">
   <img src="imgs/where-to-begin-from-random-to-foundation-model-i-9191fae9.png" width="920">
@@ -7666,7 +7346,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** AK. Tyagi et al.  
 > **Keywords:** Weakly-SupervisedMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2311.17960.pdf) [Code](https://github.com/dair-iitd/Guided-Prompting-SAM)
 
@@ -7685,12 +7364,11 @@ TBD
 ---
 
 ### <a id="segvol-universal-and-interactive-volumetric-medi-48019e92">SegVol: Universal and Interactive Volumetric Medical Image Segmentation</a>
-> **Venue:** arXiv.org 2024  
+> **Venue:** Advances in Neural Information Processing Systems 37 2024  
 > **Authors:** Y. Du et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.52202/079017-3516) [Original Link](https://arxiv.org/pdf/2311.13385.pdf) [Code](https://github.com/BAAI-DCAI/SegVol)
+[Viewable Link](http://www.proceedings.com/079017-3516.html) [Original Link](https://arxiv.org/pdf/2311.13385.pdf) [Code](https://github.com/BAAI-DCAI/SegVol)
 
 <p align="center">
   <img src="imgs/segvol-universal-and-interactive-volumetric-medi-48019e92.png" width="920">
@@ -7707,12 +7385,11 @@ TBD
 ---
 
 ### <a id="on-the-out-of-distribution-robustness-of-foundat-c0fff4c7">On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** DM. Nguyen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.11096) [Original Link](https://arxiv.org/pdf/2311.11096.pdf)
+[Viewable Link](https://arxiv.org/abs/2311.11096) [Original Link](https://arxiv.org/pdf/2311.11096.pdf)
 
 <p align="center">
   <img src="imgs/on-the-out-of-distribution-robustness-of-foundat-c0fff4c7.png" width="920">
@@ -7729,12 +7406,11 @@ TBD
 ---
 
 ### <a id="a-foundation-model-for-cell-segmentation-2ad0446e">A Foundation Model for Cell Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Nature Methods 2025  
 > **Authors:** U. Israel et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.11004) [Original Link](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v2.abstract) [Code](https://label-dev.deepcell.org)
+[Viewable Link](https://www.nature.com/articles/s41592-025-02879-w) [Original Link](https://www.biorxiv.org/content/10.1101/2023.11.17.567630v2.abstract) [Code](https://label-dev.deepcell.org)
 
 <p align="center">
   <img src="imgs/a-foundation-model-for-cell-segmentation-2ad0446e.png" width="920">
@@ -7751,12 +7427,11 @@ TBD
 ---
 
 ### <a id="slide-sam-medical-sam-meets-sliding-window-4e19b117">Slide-SAM: Medical SAM Meets Sliding Window</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Q. Quan et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.10121) [Original Link](https://arxiv.org/pdf/2311.10121.pdf)
+[Viewable Link](https://arxiv.org/abs/2311.10121) [Original Link](https://arxiv.org/pdf/2311.10121.pdf)
 
 <p align="center">
   <img src="imgs/slide-sam-medical-sam-meets-sliding-window-4e19b117.png" width="920">
@@ -7776,7 +7451,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2311.10529.pdf) [Code](https://github.com/YichiZhang98/UR-SAM)
 
@@ -7795,12 +7469,11 @@ TBD
 ---
 
 ### <a id="samihs-adaptation-of-segment-anything-model-for-b428bfa5">SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** Y. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.08190) [Original Link](https://arxiv.org/pdf/2311.08190.pdf) [Code](https://github.com/mileswyn/SAMIHS)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635673/) [Original Link](https://arxiv.org/pdf/2311.08190.pdf) [Code](https://github.com/mileswyn/SAMIHS)
 
 <p align="center">
   <img src="imgs/samihs-adaptation-of-segment-anything-model-for-b428bfa5.png" width="920">
@@ -7820,7 +7493,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** H. Jiang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2311.08075.pdf)
 
@@ -7839,12 +7511,11 @@ TBD
 ---
 
 ### <a id="eviprompt-a-training-free-evidential-prompt-gene-09940681">EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** IEEE Transactions on Image Processing 2024  
 > **Authors:** Y. Xu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.06400) [Original Link](https://arxiv.org/pdf/2311.06400.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10729707/) [Original Link](https://arxiv.org/pdf/2311.06400.pdf)
 
 <p align="center">
   <img src="imgs/eviprompt-a-training-free-evidential-prompt-gene-09940681.png" width="920">
@@ -7861,12 +7532,11 @@ TBD
 ---
 
 ### <a id="are-foundation-models-efficient-for-medical-imag-e81ab192">Are foundation models efficient for medical image segmentation?</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Informatik aktuell 2026  
 > **Authors:** DL. Ferreira and R. Arnaout  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2311.04847) [Original Link](https://arxiv.org/pdf/2311.04847.pdf) [Code](https://github.com/ArnaoutLabUCSF/CardioML)
+[Viewable Link](https://link.springer.com/10.1007/978-3-658-51100-5_8) [Original Link](https://arxiv.org/pdf/2311.04847.pdf) [Code](https://github.com/ArnaoutLabUCSF/CardioML)
 
 <p align="center">
   <img src="imgs/are-foundation-models-efficient-for-medical-imag-e81ab192.png" width="920">
@@ -7883,12 +7553,11 @@ TBD
 ---
 
 ### <a id="promise-prompt-driven-3d-medical-image-segmentat-434e4e25">Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** H. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.19721) [Original Link](https://arxiv.org/pdf/2310.19721.pdf) [Code](https://github.com/MedICL-VU/ProMISe)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635207/) [Original Link](https://arxiv.org/pdf/2310.19721.pdf) [Code](https://github.com/MedICL-VU/ProMISe)
 
 <p align="center">
   <img src="imgs/promise-prompt-driven-3d-medical-image-segmentat-434e4e25.png" width="920">
@@ -7905,12 +7574,11 @@ TBD
 ---
 
 ### <a id="one-shot-localization-and-segmentation-of-medica-8297cfd6">One-shot Localization and Segmentation of Medical Images with Foundation Models</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** D. Anand et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.18642) [Original Link](https://arxiv.org/pdf/2310.18642.pdf)
+[Viewable Link](https://arxiv.org/abs/2310.18642) [Original Link](https://arxiv.org/pdf/2310.18642.pdf)
 
 <p align="center">
   <img src="imgs/one-shot-localization-and-segmentation-of-medica-8297cfd6.png" width="920">
@@ -7930,7 +7598,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** H. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2310.15161.pdf) [Code](https://github.com/uni-medical/SAM-Med3D)
 
@@ -7949,12 +7616,11 @@ TBD
 ---
 
 ### <a id="evaluation-and-improvement-of-segment-anything-m-35835e3f">Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** SK. Kim et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.10493) [Original Link](https://arxiv.org/pdf/2310.10493.pdf) [Code](https://github.com/hvcl/SAM_Interactive_Histopathology)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_24) [Original Link](https://arxiv.org/pdf/2310.10493.pdf) [Code](https://github.com/hvcl/SAM_Interactive_Histopathology)
 
 <p align="center">
   <img src="imgs/evaluation-and-improvement-of-segment-anything-m-35835e3f.png" width="920">
@@ -7971,12 +7637,11 @@ TBD
 ---
 
 ### <a id="sam-octa-prompting-segment-anything-for-octa-ima-47f2bc6c">SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation</a>
-> **Venue:** SSRN Electronic Journal 2024  
+> **Venue:** Biomedical Signal Processing and Control 2025  
 > **Authors:** X. Chen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://dx.doi.org/10.2139/ssrn.4844681) [Original Link](https://arxiv.org/pdf/2310.07183.pdf) [Code](https://github.com/ShellRedia/SAM-OCTA)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1746809425002095) [Original Link](https://arxiv.org/pdf/2310.07183.pdf) [Code](https://github.com/ShellRedia/SAM-OCTA)
 
 <p align="center">
   <img src="imgs/sam-octa-prompting-segment-anything-for-octa-ima-47f2bc6c.png" width="920">
@@ -7993,12 +7658,11 @@ TBD
 ---
 
 ### <a id="empirical-evaluation-of-the-segment-anything-mod-512eedc1">Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** M. Peivandi et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.06162) [Original Link](https://arxiv.org/pdf/2310.06162.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635848/) [Original Link](https://arxiv.org/pdf/2310.06162.pdf)
 
 <p align="center">
   <img src="imgs/empirical-evaluation-of-the-segment-anything-mod-512eedc1.png" width="920">
@@ -8015,12 +7679,11 @@ TBD
 ---
 
 ### <a id="sonosam-segment-anything-on-ultrasound-images-0825b5f5">SonoSAM - Segment Anything on Ultrasound Images</a>
-> **Venue:** Lecture notes in computer science 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** H. Ravishankar et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-44521-7_3) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_3)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-44521-7_3) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-44521-7_3)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8038,12 +7701,11 @@ TBD
 ---
 
 ### <a id="exploring-sam-ablations-for-enhancing-medical-se-69c9f13f">Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** A. Ranem et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.00504) [Original Link](https://arxiv.org/pdf/2310.00504.pdf)
+[Viewable Link](https://arxiv.org/abs/2310.00504) [Original Link](https://arxiv.org/pdf/2310.00504.pdf)
 
 <p align="center">
   <img src="imgs/exploring-sam-ablations-for-enhancing-medical-se-69c9f13f.png" width="920">
@@ -8060,12 +7722,11 @@ TBD
 ---
 
 ### <a id="comprehensive-multimodal-segmentation-in-medical-8adfbaac">Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)  
 > **Authors:** S. Pandey et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2310.12995) [Original Link](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pandey_Comprehensive_Multimodal_Segmentation_in_Medical_Imaging_Combining_YOLOv8_with_SAM_ICCVW_2023_paper.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10350376/) [Original Link](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Pandey_Comprehensive_Multimodal_Segmentation_in_Medical_Imaging_Combining_YOLOv8_with_SAM_ICCVW_2023_paper.pdf)
 
 <p align="center">
   <img src="imgs/comprehensive-multimodal-segmentation-in-medical-8adfbaac.png" width="920">
@@ -8082,12 +7743,11 @@ TBD
 ---
 
 ### <a id="nnsam-plug-and-play-segment-anything-model-impro-e4709b8a">nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Physics 2025  
 > **Authors:** Y. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.16967) [Original Link](https://arxiv.org/pdf/2309.16967.pdf) [Code](https://github.com/Kent0n-Li/Medical-Image-Segmentation)
+[Viewable Link](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17481) [Original Link](https://arxiv.org/pdf/2309.16967.pdf) [Code](https://github.com/Kent0n-Li/Medical-Image-Segmentation)
 
 <p align="center">
   <img src="imgs/nnsam-plug-and-play-segment-anything-model-impro-e4709b8a.png" width="920">
@@ -8107,9 +7767,8 @@ TBD
 > **Venue:** Journal of Visual Communication and Image Representation 2023  
 > **Authors:** Y. Zhao et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.jvcir.2023.103946) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1047320323001967) [Code](https://github.com/VDT-2048/Bi-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1047320323001967) [Original Link](https://www.sciencedirect.com/science/article/abs/pii/S1047320323001967) [Code](https://github.com/VDT-2048/Bi-SAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8127,12 +7786,11 @@ TBD
 ---
 
 ### <a id="sam-octa-a-fine-tuning-strategy-for-applying-fou-e760a655">SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 > **Authors:** C. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.11758) [Original Link](https://arxiv.org/pdf/2309.11758.pdf) [Code](https://github.com/ShellRedia/SAM-OCTA)
+[Viewable Link](https://ieeexplore.ieee.org/document/10446904/) [Original Link](https://arxiv.org/pdf/2309.11758.pdf) [Code](https://github.com/ShellRedia/SAM-OCTA)
 
 <p align="center">
   <img src="imgs/sam-octa-a-fine-tuning-strategy-for-applying-fou-e760a655.png" width="920">
@@ -8149,12 +7807,11 @@ TBD
 ---
 
 ### <a id="3d-u-sam-network-for-few-shot-tooth-segmentation-b81b5364">3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.11015) [Original Link](https://arxiv.org/pdf/2309.11015.pdf)
+[Viewable Link](https://arxiv.org/abs/2309.11015) [Original Link](https://arxiv.org/pdf/2309.11015.pdf)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8172,12 +7829,11 @@ TBD
 ---
 
 ### <a id="comparative-eminence-foundation-versus-domain-sp-76ab4bd7">Comparative Eminence: Foundation versus Domain-Specific Model for Cardiac Ultrasound Segmentation</a>
-> **Venue:** 2023  
+> **Venue:** medRxiv 2023  
 > **Authors:** CJ. Chao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Original Link](https://www.medrxiv.org/content/medrxiv/early/2023/09/19/2023.09.19.23295772.full.pdf)
+[Viewable Link](https://www.semanticscholar.org/paper/07e87e4f8625071fb509b532a07e057493e87e1e) [Original Link](https://www.medrxiv.org/content/medrxiv/early/2023/09/19/2023.09.19.23295772.full.pdf)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8195,12 +7851,11 @@ TBD
 ---
 
 ### <a id="an-accurate-and-efficient-neural-network-for-oct-4ec02809">An Accurate and Efficient Neural Network for OCTA Vessel Segmentation and a New Dataset</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 > **Authors:** H. Ning et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.09483) [Original Link](https://arxiv.org/pdf/2309.09483.pdf) [Code](https://github.com/nhjydywd/OCTA-FRNet)
+[Viewable Link](https://ieeexplore.ieee.org/document/10447708/) [Original Link](https://arxiv.org/pdf/2309.09483.pdf) [Code](https://github.com/nhjydywd/OCTA-FRNet)
 
 <p align="center">
   <img src="imgs/an-accurate-and-efficient-neural-network-for-oct-4ec02809.png" width="920">
@@ -8217,12 +7872,11 @@ TBD
 ---
 
 ### <a id="ma-sam-modality-agnostic-sam-adaptation-for-3d-m-a5173ed5">MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Image Analysis 2024  
 > **Authors:** C. Chen et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.08842) [Original Link](https://arxiv.org/pdf/2309.08842.pdf) [Code](https://github.com/cchen-cc/MA-SAM)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841524002354) [Original Link](https://arxiv.org/pdf/2309.08842.pdf) [Code](https://github.com/cchen-cc/MA-SAM)
 
 <p align="center">
   <img src="imgs/ma-sam-modality-agnostic-sam-adaptation-for-3d-m-a5173ed5.png" width="920">
@@ -8239,12 +7893,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-for-brain-tumor-segmentat-66561c0b">Segment Anything Model for Brain Tumor Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** P. Zhang and Y. Wang  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.08434) [Original Link](https://arxiv.org/pdf/2309.08434.pdf)
+[Viewable Link](https://arxiv.org/abs/2309.08434) [Original Link](https://arxiv.org/pdf/2309.08434.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-for-brain-tumor-segmentat-66561c0b.png" width="920">
@@ -8261,12 +7914,11 @@ TBD
 ---
 
 ### <a id="adapting-segment-anything-model-sam-for-retinal-4513b7ce">Adapting Segment Anything Model (SAM) for Retinal OCT</a>
-> **Venue:** Lecture notes in computer science 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** B. Fazekas et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1007/978-3-031-44013-7_10) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-44013-7_10)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-44013-7_10) [Original Link](https://link.springer.com/chapter/10.1007/978-3-031-44013-7_10)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8287,7 +7939,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** X. Lin et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2309.06824.pdf) [Code](https://github.com/xianlin7/SAMUS)
 
@@ -8306,12 +7957,11 @@ TBD
 ---
 
 ### <a id="segmentanything-helps-microscopy-images-based-au-b251c401">SegmentAnything helps microscopy images based automatic and quantitative organoid detection and analysis</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Imaging 2024: Clinical and Biomedical Imaging  
 > **Authors:** X. Xing et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.04190) [Original Link](https://arxiv.org/pdf/2309.04190.pdf) [Code](https://github.com/XiaodanXing/SAM4organoid)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12930/3006022/SegmentAnything-helps-microscopy-images-based-on-automatic-and-quantitative-organoid/10.1117/12.3006022.full) [Original Link](https://arxiv.org/pdf/2309.04190.pdf) [Code](https://github.com/XiaodanXing/SAM4organoid)
 
 <p align="center">
   <img src="imgs/segmentanything-helps-microscopy-images-based-au-b251c401.png" width="920">
@@ -8328,12 +7978,11 @@ TBD
 ---
 
 ### <a id="sam3d-segment-anything-model-in-volumetric-medic-7f25586a">SAM3D: Segment Anything Model in Volumetric Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE International Symposium on Biomedical Imaging (ISBI)  
 > **Authors:** NT. Bui et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2309.03493) [Original Link](https://arxiv.org/pdf/2309.03493.pdf) [Code](https://github.com/DinhHieuHoang/SAM3D)
+[Viewable Link](https://ieeexplore.ieee.org/document/10635844/) [Original Link](https://arxiv.org/pdf/2309.03493.pdf) [Code](https://github.com/DinhHieuHoang/SAM3D)
 
 <p align="center">
   <img src="imgs/sam3d-segment-anything-model-in-volumetric-medic-7f25586a.png" width="920">
@@ -8350,12 +7999,11 @@ TBD
 ---
 
 ### <a id="self-sampling-meta-sam-enhancing-few-shot-medica-50ad66d0">Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.16466) [Original Link](https://arxiv.org/pdf/2308.16466.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10483717/) [Original Link](https://arxiv.org/pdf/2308.16466.pdf)
 
 <p align="center">
   <img src="imgs/self-sampling-meta-sam-enhancing-few-shot-medica-50ad66d0.png" width="920">
@@ -8375,9 +8023,8 @@ TBD
 > **Venue:** arXiv (Cornell University) 2023  
 > **Authors:** J. Cheng et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.16184) [Original Link](https://arxiv.org/pdf/2308.16184.pdf) [Code](https://github.com/uni-medical/SAM-Med2D)
+[Viewable Link](https://www.semanticscholar.org/paper/d7fb24b589f714cb237c05b2f5312c41f88cec68) [Original Link](https://arxiv.org/pdf/2308.16184.pdf) [Code](https://github.com/uni-medical/SAM-Med2D)
 
 <p align="center">
   <img src="imgs/sam-med2d-5905b4d6.png" width="920">
@@ -8397,7 +8044,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** C. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2308.14936.pdf)
 
@@ -8416,12 +8062,11 @@ TBD
 ---
 
 ### <a id="cheap-lunch-for-medical-image-segmentation-by-fi-7e2486ba">Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** W. Feng et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.14133) [Original Link](https://arxiv.org/pdf/2308.14133.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-76160-7_2) [Original Link](https://arxiv.org/pdf/2308.14133.pdf)
 
 <p align="center">
   <img src="imgs/cheap-lunch-for-medical-image-segmentation-by-fi-7e2486ba.png" width="920">
@@ -8438,12 +8083,11 @@ TBD
 ---
 
 ### <a id="samdsk-combining-segment-anything-model-with-dom-239cb98b">SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2025  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** SSLMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.13759) [Original Link](https://arxiv.org/pdf/2308.13759.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-981-97-8496-7_24) [Original Link](https://arxiv.org/pdf/2308.13759.pdf)
 
 <p align="center">
   <img src="imgs/samdsk-combining-segment-anything-model-with-dom-239cb98b.png" width="920">
@@ -8460,12 +8104,11 @@ TBD
 ---
 
 ### <a id="samsnerf-segment-anything-model-sam-guides-dynam-0c027516">SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Imaging 2024: Image-Guided Procedures, Robotic Interventions, and Modeling  
 > **Authors:** A. Lou et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.11774) [Original Link](https://arxiv.org/pdf/2308.11774.pdf) [Code](https://github.com/AngeLouCN/SAMSNeRF)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12928/3008392/SAMSNeRF--segment-anything-model-SAM-guided-dynamic-surgical-scene/10.1117/12.3008392.full) [Original Link](https://arxiv.org/pdf/2308.11774.pdf) [Code](https://github.com/AngeLouCN/SAMSNeRF)
 
 <p align="center">
   <img src="imgs/samsnerf-segment-anything-model-sam-guides-dynam-0c027516.png" width="920">
@@ -8482,12 +8125,11 @@ TBD
 ---
 
 ### <a id="segment-anything-for-microscopy-f4a1a431">Segment Anything for Microscopy</a>
-> **Venue:** bioRxiv (Cold Spring Harbor Laboratory) 2023  
+> **Venue:** Nature Methods 2025  
 > **Authors:** A. Archit et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1101/2023.08.21.554208) [Original Link](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf) [Code](https://github.com/computational-cell-analytics/micro-sam)
+[Viewable Link](https://www.nature.com/articles/s41592-024-02580-4) [Original Link](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf) [Code](https://github.com/computational-cell-analytics/micro-sam)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -8505,12 +8147,11 @@ TBD
 ---
 
 ### <a id="false-negative-positive-control-for-sam-on-noisy-f13784d0">False Negative/Positive Control for SAM on Noisy Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** X. Yao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.10382) [Original Link](https://arxiv.org/pdf/2308.10382.pdf) [Code](https://github.com/xyimaging/FNPC)
+[Viewable Link](https://arxiv.org/abs/2308.10382) [Original Link](https://arxiv.org/pdf/2308.10382.pdf) [Code](https://github.com/xyimaging/FNPC)
 
 <p align="center">
   <img src="imgs/false-negative-positive-control-for-sam-on-noisy-f13784d0.png" width="920">
@@ -8527,12 +8168,11 @@ TBD
 ---
 
 ### <a id="samedoct-adapting-segment-anything-model-sam-for-71535cab">SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** B. Fazekas et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.09331) [Original Link](https://arxiv.org/pdf/2308.09331.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-44013-7_10) [Original Link](https://arxiv.org/pdf/2308.09331.pdf)
 
 <p align="center">
   <img src="imgs/samedoct-adapting-segment-anything-model-sam-for-71535cab.png" width="920">
@@ -8549,12 +8189,11 @@ TBD
 ---
 
 ### <a id="surgicalsam-efficient-class-promptable-surgical-ab4451b7">SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** AAAI Conference on Artificial Intelligence 2024  
 > **Authors:** W. Yue et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.08746) [Original Link](https://arxiv.org/pdf/2308.08746.pdf) [Code](https://github.com/wenxi-yue/SurgicalSAM)
+[Viewable Link](https://ojs.aaai.org/index.php/AAAI/article/view/28514) [Original Link](https://arxiv.org/pdf/2308.08746.pdf) [Code](https://github.com/wenxi-yue/SurgicalSAM)
 
 <p align="center">
   <img src="imgs/surgicalsam-efficient-class-promptable-surgical-ab4451b7.png" width="920">
@@ -8571,12 +8210,11 @@ TBD
 ---
 
 ### <a id="care-a-large-scale-ct-image-dataset-and-clinical-19b00751">CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** H. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.08283) [Original Link](https://arxiv.org/pdf/2308.08283.pdf) [Code](https://github.com/kanydao/U-SAM)
+[Viewable Link](https://arxiv.org/abs/2308.08283) [Original Link](https://arxiv.org/pdf/2308.08283.pdf) [Code](https://github.com/kanydao/U-SAM)
 
 <p align="center">
   <img src="imgs/care-a-large-scale-ct-image-dataset-and-clinical-19b00751.png" width="920">
@@ -8593,12 +8231,11 @@ TBD
 ---
 
 ### <a id="self-prompting-large-vision-models-for-few-shot-16e550f9">Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** Q. Wu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.07624) [Original Link](https://arxiv.org/pdf/2308.07624.pdf) [Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-45857-6_16) [Original Link](https://arxiv.org/pdf/2308.07624.pdf) [Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)
 
 <p align="center">
   <img src="imgs/self-prompting-large-vision-models-for-few-shot-16e550f9.png" width="920">
@@ -8615,12 +8252,11 @@ TBD
 ---
 
 ### <a id="sam-meets-robotic-surgery-an-empirical-study-on-7a7cc75e">SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** A. Wang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.07156) [Original Link](https://arxiv.org/pdf/2308.07156.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_23) [Original Link](https://arxiv.org/pdf/2308.07156.pdf)
 
 <p align="center">
   <img src="imgs/sam-meets-robotic-surgery-an-empirical-study-on-7a7cc75e.png" width="920">
@@ -8637,12 +8273,11 @@ TBD
 ---
 
 ### <a id="cemb-sam-segment-anything-model-with-condition-e-751e92e5">CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** D. Shin et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.06957) [Original Link](https://arxiv.org/pdf/2308.06957.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_27) [Original Link](https://arxiv.org/pdf/2308.06957.pdf)
 
 <p align="center">
   <img src="imgs/cemb-sam-segment-anything-model-with-condition-e-751e92e5.png" width="920">
@@ -8659,12 +8294,11 @@ TBD
 ---
 
 ### <a id="polyp-sam-can-a-text-guided-sam-perform-better-f-9dc0febe">Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** R. Biswas  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.06623) [Original Link](https://arxiv.org/pdf/2308.06623.pdf) [Code](https://github.com/RisabBiswas/Polyp-SAM++)
+[Viewable Link](https://arxiv.org/abs/2308.06623) [Original Link](https://arxiv.org/pdf/2308.06623.pdf) [Code](https://github.com/RisabBiswas/Polyp-SAM++)
 
 <p align="center">
   <img src="imgs/polyp-sam-can-a-text-guided-sam-perform-better-f-9dc0febe.png" width="920">
@@ -8681,12 +8315,11 @@ TBD
 ---
 
 ### <a id="tonguesam-an-universal-tongue-segmentation-model-2fb6c794">TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)  
 > **Authors:** S. Cao et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.06444) [Original Link](https://arxiv.org/pdf/2308.06444.pdf) [Code](https://github.com/cshan-github/TongueSAM)
+[Viewable Link](https://ieeexplore.ieee.org/document/10385570/) [Original Link](https://arxiv.org/pdf/2308.06444.pdf) [Code](https://github.com/cshan-github/TongueSAM)
 
 <p align="center">
   <img src="imgs/tonguesam-an-universal-tongue-segmentation-model-2fb6c794.png" width="920">
@@ -8703,12 +8336,11 @@ TBD
 ---
 
 ### <a id="leverage-weakly-annotation-to-pixel-wise-annotat-c8a7ce25">Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Imaging 2024: Digital and Computational Pathology  
 > **Authors:** X. Li et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.05785) [Original Link](https://arxiv.org/pdf/2308.05785.pdf)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12933/3006577/Leverage-weekly-annotation-to-pixel-wise-annotation-via-zero-shot/10.1117/12.3006577.full) [Original Link](https://arxiv.org/pdf/2308.05785.pdf)
 
 <p align="center">
   <img src="imgs/leverage-weakly-annotation-to-pixel-wise-annotat-c8a7ce25.png" width="920">
@@ -8725,12 +8357,11 @@ TBD
 ---
 
 ### <a id="adaptivesam-towards-efficient-tuning-of-sam-for-c8f66ea9">AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2024  
 > **Authors:** JN. Paranjape et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.03726) [Original Link](https://arxiv.org/pdf/2308.03726.pdf) [Code](https://github.com/JayParanjape/biastuning)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-66958-3_14) [Original Link](https://arxiv.org/pdf/2308.03726.pdf) [Code](https://github.com/JayParanjape/biastuning)
 
 <p align="center">
   <img src="imgs/adaptivesam-towards-efficient-tuning-of-sam-for-c8f66ea9.png" width="920">
@@ -8747,12 +8378,11 @@ TBD
 ---
 
 ### <a id="push-the-boundary-of-sam-a-pseudo-label-correcti-62bfb52a">Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Z. Huang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2308.00883) [Original Link](https://arxiv.org/pdf/2308.00883.pdf)
+[Viewable Link](https://arxiv.org/abs/2308.00883) [Original Link](https://arxiv.org/pdf/2308.00883.pdf)
 
 <p align="center">
   <img src="imgs/push-the-boundary-of-sam-a-pseudo-label-correcti-62bfb52a.png" width="920">
@@ -8769,12 +8399,11 @@ TBD
 ---
 
 ### <a id="sam-path-a-segment-anything-model-for-semantic-s-645458ec">SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** J. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2307.09570) [Original Link](https://arxiv.org/pdf/2307.09570.pdf) [Code](https://github.com/cvlab-stonybrook/SAMPath)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_16) [Original Link](https://arxiv.org/pdf/2307.09570.pdf) [Code](https://github.com/cvlab-stonybrook/SAMPath)
 
 <p align="center">
   <img src="imgs/sam-path-a-segment-anything-model-for-semantic-s-645458ec.png" width="920">
@@ -8794,7 +8423,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** MS. Hossain et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://www.preprints.org/manuscript/202307.1213/v1)
 
@@ -8817,7 +8445,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** C. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2307.05617.pdf)
 
@@ -8836,12 +8463,11 @@ TBD
 ---
 
 ### <a id="sam-u-multi-box-prompts-triggered-uncertainty-es-676f2024">SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** G. Deng et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2307.04973) [Original Link](https://arxiv.org/pdf/2307.04973.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47425-5_33) [Original Link](https://arxiv.org/pdf/2307.04973.pdf)
 
 <p align="center">
   <img src="imgs/sam-u-multi-box-prompts-triggered-uncertainty-es-676f2024.png" width="920">
@@ -8858,12 +8484,11 @@ TBD
 ---
 
 ### <a id="empirical-analysis-of-a-segmentation-foundation-77ccd932">Empirical Analysis of a Segmentation Foundation Model in Prostate Imaging</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** H. Kim et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2307.03266) [Original Link](https://arxiv.org/pdf/2307.03266.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_14) [Original Link](https://arxiv.org/pdf/2307.03266.pdf)
 
 <p align="center">
   <img src="imgs/empirical-analysis-of-a-segmentation-foundation-77ccd932.png" width="920">
@@ -8880,12 +8505,11 @@ TBD
 ---
 
 ### <a id="cross-modality-attention-adapter-a-glioma-segmen-e1b7ed27">Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** X. Shi et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2307.01124) [Original Link](https://arxiv.org/pdf/2307.01124.pdf)
+[Viewable Link](https://arxiv.org/abs/2307.01124) [Original Link](https://arxiv.org/pdf/2307.01124.pdf)
 
 <p align="center">
   <img src="imgs/cross-modality-attention-adapter-a-glioma-segmen-e1b7ed27.png" width="920">
@@ -8902,12 +8526,11 @@ TBD
 ---
 
 ### <a id="all-in-sam-from-weak-annotation-to-pixel-wise-nu-03843459">All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Journal of Physics: Conference Series 2024  
 > **Authors:** C. Cui et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2307.00290) [Original Link](https://arxiv.org/pdf/2307.00290.pdf)
+[Viewable Link](https://iopscience.iop.org/article/10.1088/1742-6596/2722/1/012012) [Original Link](https://arxiv.org/pdf/2307.00290.pdf)
 
 <p align="center">
   <img src="imgs/all-in-sam-from-weak-annotation-to-pixel-wise-nu-03843459.png" width="920">
@@ -8924,12 +8547,11 @@ TBD
 ---
 
 ### <a id="utilizing-segment-anything-model-for-assessing-l-c85b1a12">Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** E. Kellener et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.15692) [Original Link](https://arxiv.org/pdf/2306.15692.pdf)
+[Viewable Link](https://arxiv.org/abs/2306.15692) [Original Link](https://arxiv.org/pdf/2306.15692.pdf)
 
 <p align="center">
   <img src="imgs/utilizing-segment-anything-model-for-assessing-l-c85b1a12.png" width="920">
@@ -8946,12 +8568,11 @@ TBD
 ---
 
 ### <a id="cellvit-vision-transformers-for-precise-cell-seg-f3f0911c">CellViT: Vision Transformers for Precise Cell Segmentation and Classification</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Image Analysis 2024  
 > **Authors:** F. Hörst et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.15350) [Original Link](https://arxiv.org/pdf/2306.15350.pdf) [Code](https://github.com/TIO-IKIM/CellViT)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841524000689) [Original Link](https://arxiv.org/pdf/2306.15350.pdf) [Code](https://github.com/TIO-IKIM/CellViT)
 
 <p align="center">
   <img src="imgs/cellvit-vision-transformers-for-precise-cell-seg-f3f0911c.png" width="920">
@@ -8971,7 +8592,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** W. Lei et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2306.14752.pdf) [Code](https://github.com/openmedlab/MedLSAM)
 
@@ -8990,12 +8610,11 @@ TBD
 ---
 
 ### <a id="how-to-efficiently-adapt-large-segmentation-mode-3db90257">How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** X. Hu et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.13731) [Original Link](https://arxiv.org/pdf/2306.13731.pdf) [Code](https://github.com/xhu248/AutoSAM)
+[Viewable Link](https://arxiv.org/abs/2306.13731) [Original Link](https://arxiv.org/pdf/2306.13731.pdf) [Code](https://github.com/xhu248/AutoSAM)
 
 <p align="center">
   <img src="imgs/how-to-efficiently-adapt-large-segmentation-mode-3db90257.png" width="920">
@@ -9015,7 +8634,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** S. Gong et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2306.13465.pdf) [Code](https://github.com/med-air/3DSAM-adapter)
 
@@ -9034,12 +8652,11 @@ TBD
 ---
 
 ### <a id="lvm-med-learning-large-scale-self-supervised-vis-273e08a6">LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching</a>
-> **Venue:** arXiv.org 2023  
+> **Venue:** Advances in Neural Information Processing Systems 36 2023  
 > **Authors:** DMH. Nguyen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.52202/075280-1212) [Original Link](https://arxiv.org/pdf/2306.11925.pdf) [Code](https://github.com/duyhominhnguyen/LVM-Med)
+[Viewable Link](http://www.proceedings.com/075280-1212.html) [Original Link](https://arxiv.org/pdf/2306.11925.pdf) [Code](https://github.com/duyhominhnguyen/LVM-Med)
 
 <p align="center">
   <img src="imgs/lvm-med-learning-large-scale-self-supervised-vis-273e08a6.png" width="920">
@@ -9056,12 +8673,11 @@ TBD
 ---
 
 ### <a id="ladder-fine-tuning-approach-for-sam-integrating-33cb440d">Ladder Fine-tuning approach for SAM integrating complementary network</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Procedia Computer Science 2024  
 > **Authors:** S. Chai et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.12737) [Original Link](https://arxiv.org/pdf/2306.12737.pdf) [Code](https://github.com/11yxk/SAM-LST)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1877050924024931) [Original Link](https://arxiv.org/pdf/2306.12737.pdf) [Code](https://github.com/11yxk/SAM-LST)
 
 <p align="center">
   <img src="imgs/ladder-fine-tuning-approach-for-sam-integrating-33cb440d.png" width="920">
@@ -9078,12 +8694,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-sam-for-radiation-oncolog-3bc6f5c7">Segment Anything Model (SAM) for Radiation Oncology</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** L. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.11730) [Original Link](https://arxiv.org/pdf/2306.11730.pdf)
+[Viewable Link](https://arxiv.org/abs/2306.11730) [Original Link](https://arxiv.org/pdf/2306.11730.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-sam-for-radiation-oncolog-3bc6f5c7.png" width="920">
@@ -9103,9 +8718,8 @@ TBD
 > **Venue:** BioScience Trends 2023  
 > **Authors:** G. Ning et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.5582/bst.2023.01119) [Original Link](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_pdf)
+[Viewable Link](https://www.jstage.jst.go.jp/article/bst/17/3/17_2023.01119/_article) [Original Link](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_pdf)
 
 <p align="center">
   <img src="imgs/the-potential-of-segment-anything-sam-for-univer-9e0de980.png" width="920">
@@ -9122,12 +8736,11 @@ TBD
 ---
 
 ### <a id="temporally-extended-prompts-optimization-for-sam-7cc38e10">Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)  
 > **Authors:** C. Shen et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.08958) [Original Link](https://arxiv.org/pdf/2306.08958.pdf)
+[Viewable Link](https://ieeexplore.ieee.org/document/10385291/) [Original Link](https://arxiv.org/pdf/2306.08958.pdf)
 
 <p align="center">
   <img src="imgs/temporally-extended-prompts-optimization-for-sam-7cc38e10.png" width="920">
@@ -9144,12 +8757,11 @@ TBD
 ---
 
 ### <a id="autosam-adapting-sam-to-medical-images-by-overlo-a9383cb7">AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** T. Shaharabany et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2306.06370) [Original Link](https://arxiv.org/pdf/2306.06370.pdf)
+[Viewable Link](https://arxiv.org/abs/2306.06370) [Original Link](https://arxiv.org/pdf/2306.06370.pdf)
 
 <p align="center">
   <img src="imgs/autosam-adapting-sam-to-medical-images-by-overlo-a9383cb7.png" width="920">
@@ -9169,7 +8781,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** Y. Gao et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2306.00499.pdf) [Code](https://github.com/yifangao112/DeSAM)
 
@@ -9188,12 +8799,11 @@ TBD
 ---
 
 ### <a id="iamsam-image-based-analysis-of-molecular-signatu-bfad9d42">IAMSAM: image-based analysis of molecular signatures using the Segment Anything Model</a>
-> **Venue:** Genome biology 2024  
+> **Venue:** Genome Biology 2024  
 > **Authors:** D. Lee et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1186/s13059-024-03380-x) [Original Link](https://www.biorxiv.org/content/biorxiv/early/2023/05/25/2023.05.25.542052.full.pdf) [Code](https://github.com/portrai-io/IAMSAM)
+[Viewable Link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03380-x) [Original Link](https://www.biorxiv.org/content/biorxiv/early/2023/05/25/2023.05.25.542052.full.pdf) [Code](https://github.com/portrai-io/IAMSAM)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
@@ -9211,12 +8821,11 @@ TBD
 ---
 
 ### <a id="breastsam-a-study-of-segment-anything-model-for-112e7382">BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** M. Hu et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2305.12447) [Original Link](https://arxiv.org/pdf/2305.12447.pdf)
+[Viewable Link](https://arxiv.org/abs/2305.12447) [Original Link](https://arxiv.org/pdf/2305.12447.pdf)
 
 <p align="center">
   <img src="imgs/breastsam-a-study-of-segment-anything-model-for-112e7382.png" width="920">
@@ -9236,7 +8845,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** J. Wu  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2305.10300.pdf) [Code](https://github.com/WuJunde/PromptUNet)
 
@@ -9255,12 +8863,11 @@ TBD
 ---
 
 ### <a id="polyp-sam-transfer-sam-for-polyp-segmentation-e80de684">Polyp-SAM: Transfer SAM for Polyp Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Imaging 2024: Computer-Aided Diagnosis  
 > **Authors:** Y. Li et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2305.00293) [Original Link](https://arxiv.org/pdf/2305.00293.pdf) [Code](https://github.com/ricklisz/Polyp-SAM)
+[Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/3006809/Polyp-SAM-transfer-SAM-for-polyp-segmentation/10.1117/12.3006809.full) [Original Link](https://arxiv.org/pdf/2305.00293.pdf) [Code](https://github.com/ricklisz/Polyp-SAM)
 
 <p align="center">
   <img src="imgs/polyp-sam-transfer-sam-for-polyp-segmentation-e80de684.png" width="920">
@@ -9280,7 +8887,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** C. Mattjie et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2305.00109.pdf)
 
@@ -9299,12 +8905,11 @@ TBD
 ---
 
 ### <a id="sam-on-medical-images-a-comprehensive-study-on-t-85b37784">SAM on Medical Images: A Comprehensive Study on Three Prompt Modes</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** D. Cheng et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2305.00035) [Original Link](https://arxiv.org/pdf/2305.00035.pdf)
+[Viewable Link](https://arxiv.org/abs/2305.00035) [Original Link](https://arxiv.org/pdf/2305.00035.pdf)
 
 <p align="center">
   <img src="imgs/sam-on-medical-images-a-comprehensive-study-on-t-85b37784.png" width="920">
@@ -9321,12 +8926,11 @@ TBD
 ---
 
 ### <a id="sam-meets-robotic-surgery-an-empirical-study-in-99a4667c">SAM Meets Robotic Surgery: An Empirical Study in Robustness Perspective</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** A. Wang et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.14674) [Original Link](https://arxiv.org/pdf/2304.14674.pdf)
+[Viewable Link](https://arxiv.org/abs/2304.14674) [Original Link](https://arxiv.org/pdf/2304.14674.pdf)
 
 <p align="center">
   <img src="imgs/sam-meets-robotic-surgery-an-empirical-study-in-99a4667c.png" width="920">
@@ -9343,12 +8947,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-for-medical-images-e7b667c2">Segment anything model for medical images?</a>
-> **Venue:** Medical Image Analysis 2023  
+> **Venue:** Medical Image Analysis 2024  
 > **Authors:** Y. Huang et al.  
 > **Keywords:** InteractiveMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.1016/j.media.2023.103061) [Original Link](https://arxiv.org/pdf/2304.14660.pdf)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841523003213) [Original Link](https://arxiv.org/pdf/2304.14660.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-for-medical-images-e7b667c2.png" width="920">
@@ -9365,12 +8968,11 @@ TBD
 ---
 
 ### <a id="skinsam-empowering-skin-cancer-segmentation-with-af706586">SkinSAM: Empowering Skin Cancer Segmentation with Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** M. Hu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.13973) [Original Link](https://arxiv.org/pdf/2304.13973.pdf)
+[Viewable Link](https://arxiv.org/abs/2304.13973) [Original Link](https://arxiv.org/pdf/2304.13973.pdf)
 
 <p align="center">
   <img src="imgs/skinsam-empowering-skin-cancer-segmentation-with-af706586.png" width="920">
@@ -9387,12 +8989,11 @@ TBD
 ---
 
 ### <a id="gazesam-what-you-see-is-what-you-segment-5e7dace5">GazeSAM: What You See is What You Segment</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** B. Wang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.13844) [Original Link](https://arxiv.org/pdf/2304.13844.pdf) [Code](https://github.com/ukaukaaaa/GazeSAM)
+[Viewable Link](https://arxiv.org/abs/2304.13844) [Original Link](https://arxiv.org/pdf/2304.13844.pdf) [Code](https://github.com/ukaukaaaa/GazeSAM)
 
 <p align="center">
   <img src="imgs/gazesam-what-you-see-is-what-you-segment-5e7dace5.png" width="920">
@@ -9409,12 +9010,11 @@ TBD
 ---
 
 ### <a id="customized-segment-anything-model-for-medical-im-2c6385da">Customized Segment Anything Model for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** 2025 44th Chinese Control Conference (CCC)  
 > **Authors:** K. Zhang and D. Liu  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.13785) [Original Link](https://arxiv.org/pdf/2304.13785.pdf) [Code](https://github.com/hitachinsk/SAMed)
+[Viewable Link](https://ieeexplore.ieee.org/document/11178681/) [Original Link](https://arxiv.org/pdf/2304.13785.pdf) [Code](https://github.com/hitachinsk/SAMed)
 
 <p align="center">
   <img src="imgs/customized-segment-anything-model-for-medical-im-2c6385da.png" width="920">
@@ -9431,12 +9031,11 @@ TBD
 ---
 
 ### <a id="learnable-ophthalmology-sam-c51c154b">Learnable Ophthalmology SAM</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Z. Qiu et al.  
 > **Keywords:** Few-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.13425) [Original Link](https://arxiv.org/pdf/2304.13425.pdf) [Code](https://github.com/Qsingle/LearnablePromptSAM)
+[Viewable Link](https://arxiv.org/abs/2304.13425) [Original Link](https://arxiv.org/pdf/2304.13425.pdf) [Code](https://github.com/Qsingle/LearnablePromptSAM)
 
 <p align="center">
   <img src="imgs/learnable-ophthalmology-sam-c51c154b.png" width="920">
@@ -9453,12 +9052,11 @@ TBD
 ---
 
 ### <a id="generalist-vision-foundation-models-for-medical-79bcfb1d">Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Diagnostics 2023  
 > **Authors:** P. Shi et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.12637) [Original Link](https://arxiv.org/pdf/2304.12637.pdf)
+[Viewable Link](https://www.mdpi.com/2075-4418/13/11/1947) [Original Link](https://arxiv.org/pdf/2304.12637.pdf)
 
 <p align="center">
   <img src="imgs/generalist-vision-foundation-models-for-medical-79bcfb1d.png" width="920">
@@ -9475,12 +9073,11 @@ TBD
 ---
 
 ### <a id="medical-sam-adapter-adapting-segment-anything-mo-596eb23c">Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Image Analysis 2025  
 > **Authors:** J. Wu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.12620) [Original Link](https://arxiv.org/pdf/2304.12620.pdf) [Code](https://github.com/WuJunde/Medical-SAM-Adapter)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841525000945) [Original Link](https://arxiv.org/pdf/2304.12620.pdf) [Code](https://github.com/WuJunde/Medical-SAM-Adapter)
 
 <p align="center">
   <img src="imgs/medical-sam-adapter-adapting-segment-anything-mo-596eb23c.png" width="920">
@@ -9497,12 +9094,11 @@ TBD
 ---
 
 ### <a id="segment-anything-in-medical-images-571280f8">Segment Anything in Medical Images</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Nature Communications 2024  
 > **Authors:** J. Ma and B. Wang  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.12306) [Original Link](https://arxiv.org/pdf/2304.12306.pdf) [Code](https://github.com/bowang-lab/MedSAM)
+[Viewable Link](https://www.nature.com/articles/s41467-024-44824-z) [Original Link](https://arxiv.org/pdf/2304.12306.pdf) [Code](https://github.com/bowang-lab/MedSAM)
 
 <p align="center">
   <img src="imgs/segment-anything-in-medical-images-571280f8.png" width="920">
@@ -9519,12 +9115,11 @@ TBD
 ---
 
 ### <a id="input-augmentation-with-sam-boosting-medical-ima-da1c6730">Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Lecture Notes in Computer Science 2023  
 > **Authors:** Y. Zhang et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.11332) [Original Link](https://arxiv.org/pdf/2304.11332.pdf)
+[Viewable Link](https://link.springer.com/10.1007/978-3-031-47401-9_13) [Original Link](https://arxiv.org/pdf/2304.11332.pdf)
 
 <p align="center">
   <img src="imgs/input-augmentation-with-sam-boosting-medical-ima-da1c6730.png" width="920">
@@ -9541,12 +9136,11 @@ TBD
 ---
 
 ### <a id="segment-anything-model-for-medical-image-analysi-27aff969">Segment Anything Model for Medical Image Analysis: an Experimental Study</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Medical Image Analysis 2023  
 > **Authors:** MA. Mazurowski et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.10517) [Original Link](https://arxiv.org/pdf/2304.10517.pdf) [Code](https://github.com/mazurowski-lab/segment-anything-medical)
+[Viewable Link](https://linkinghub.elsevier.com/retrieve/pii/S1361841523001780) [Original Link](https://arxiv.org/pdf/2304.10517.pdf) [Code](https://github.com/mazurowski-lab/segment-anything-medical)
 
 <p align="center">
   <img src="imgs/segment-anything-model-for-medical-image-analysi-27aff969.png" width="920">
@@ -9566,7 +9160,6 @@ TBD
 > **Venue:** 2023  
 > **Authors:** S. He et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
 [Viewable Link](https://arxiv.org/pdf/2304.09324.pdf)
 
@@ -9585,12 +9178,11 @@ TBD
 ---
 
 ### <a id="sam-fails-to-segment-anything-sam-adapter-adapti-3f0ab79d">SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** T. Chen et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.09148) [Original Link](https://arxiv.org/pdf/2304.09148.pdf) [Code](http://tianrun-chen.github.io/SAM-Adaptor/)
+[Viewable Link](https://arxiv.org/abs/2304.09148) [Original Link](https://arxiv.org/pdf/2304.09148.pdf) [Code](http://tianrun-chen.github.io/SAM-Adaptor/)
 
 <p align="center">
   <img src="imgs/sam-fails-to-segment-anything-sam-adapter-adapti-3f0ab79d.png" width="920">
@@ -9607,12 +9199,11 @@ TBD
 ---
 
 ### <a id="when-sam-meets-medical-images-an-investigation-o-b7a8dc2b">When SAM Meets Medical Images: An Investigation of Segment Anything Model (SAM) on Multi-phase Liver Tumor Segmentation</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** C. Hu and X. Li  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.08506) [Original Link](https://arxiv.org/pdf/2304.08506.pdf)
+[Viewable Link](https://arxiv.org/abs/2304.08506) [Original Link](https://arxiv.org/pdf/2304.08506.pdf)
 
 <p align="center">
   <img src="imgs/when-sam-meets-medical-images-an-investigation-o-b7a8dc2b.png" width="920">
@@ -9629,12 +9220,11 @@ TBD
 ---
 
 ### <a id="the-segment-anything-foundation-model-achieves-f-adaeacaf">The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** Strahlentherapie und Onkologie 2025  
 > **Authors:** F. Putz et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.07875) [Original Link](https://arxiv.org/pdf/2304.07875.pdf)
+[Viewable Link](https://link.springer.com/10.1007/s00066-024-02313-8) [Original Link](https://arxiv.org/pdf/2304.07875.pdf)
 
 <p align="center">
   <img src="imgs/the-segment-anything-foundation-model-achieves-f-adaeacaf.png" width="920">
@@ -9651,12 +9241,11 @@ TBD
 ---
 
 ### <a id="can-sam-segment-polyps-ba840d6d">Can SAM Segment Polyps?</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** T. Zhou et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.07583) [Original Link](https://arxiv.org/pdf/2304.07583.pdf) [Code](https://github.com/taozh2017/SAMPolyp)
+[Viewable Link](https://arxiv.org/abs/2304.07583) [Original Link](https://arxiv.org/pdf/2304.07583.pdf) [Code](https://github.com/taozh2017/SAMPolyp)
 
 <p align="center">
   <img src="imgs/can-sam-segment-polyps-ba840d6d.png" width="920">
@@ -9673,12 +9262,11 @@ TBD
 ---
 
 ### <a id="samm-segment-any-medical-model-a-3d-slicer-integ-f797a472">SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** Y. Liu et al.  
 > **Keywords:** OtherMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.05622) [Original Link](https://arxiv.org/pdf/2304.05622.pdf) [Code](https://github.com/bingogome/samm)
+[Viewable Link](https://arxiv.org/abs/2304.05622) [Original Link](https://arxiv.org/pdf/2304.05622.pdf) [Code](https://github.com/bingogome/samm)
 
 <p align="center">
   <img src="imgs/samm-segment-any-medical-model-a-3d-slicer-integ-f797a472.png" width="920">
@@ -9695,12 +9283,11 @@ TBD
 ---
 
 ### <a id="sam-md-zero-shot-medical-image-segmentation-capa-d27997b8">SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** S. Roy et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.05396) [Original Link](https://arxiv.org/pdf/2304.05396.pdf)
+[Viewable Link](https://arxiv.org/abs/2304.05396) [Original Link](https://arxiv.org/pdf/2304.05396.pdf)
 
 <p align="center">
   <img src="imgs/sam-md-zero-shot-medical-image-segmentation-capa-d27997b8.png" width="920">
@@ -9717,12 +9304,11 @@ TBD
 ---
 
 ### <a id="sam-vs-bet-a-comparative-study-for-brain-extract-917316c8">SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning</a>
-> **Venue:** arXiv (Cornell University) 2023  
+> **Venue:** arXiv.org 2023  
 > **Authors:** S. Mohapatra et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](http://arxiv.org/abs/2304.04738) [Original Link](https://arxiv.org/pdf/2304.04738.pdf)
+[Viewable Link](https://arxiv.org/abs/2304.04738) [Original Link](https://arxiv.org/pdf/2304.04738.pdf)
 
 <p align="center">
   <img src="imgs/sam-vs-bet-a-comparative-study-for-brain-extract-917316c8.png" width="920">
@@ -9742,9 +9328,8 @@ TBD
 > **Venue:** Electronic Imaging 2025  
 > **Authors:** R. Deng et al.  
 > **Keywords:** Zero-ShotMIS, SAM
-
 **Links**  
-[Viewable Link](https://doi.org/10.2352/ei.2025.37.14.coimg-132) [Original Link](https://arxiv.org/pdf/2304.04155.pdf)
+[Viewable Link](https://library.imaging.org/ei/articles/37/14/COIMG-132) [Original Link](https://arxiv.org/pdf/2304.04155.pdf)
 
 <p align="center">
   <img src="imgs/segment-anything-model-sam-for-digital-pathology-d6209219.png" width="920">
@@ -9759,6 +9344,10 @@ TBD
 [⬆ Back to Literature Table](#samzsmis)
 
 ---
+
+<!-- Preserved detail blocks not currently matched from origin.md -->
+
+<!-- Preserved detail blocks not currently matched from origin.md -->
 
 <!-- Preserved detail blocks not currently matched from origin.md -->
 
