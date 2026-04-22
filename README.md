@@ -38,27 +38,25 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 ### <div id="sam234zsmis">SAM2/3 4Zero-ShotMIS.</div>
 
-| Date   | Authors        | Venue      | Title | Code |
-| ------ | -------------- | ---------- | ----- | ---- |
-| 202511 | H. Buyukpatpat et al. | Journal of Imaging Informatics in Medicine 2025 | A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/10.1007/s10278-025-01778-y) [(details)](#a-comparative-evaluation-of-zero-shot-performanc-64e730af) | None |
-| 202511 | S. Chakrabarty et al. | arXiv.org 2025 | Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](https://arxiv.org/abs/2511.21926) [(details)](#comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129) | None |
-| 202511 | M. Shokri et al. | 34th ACM International Conference on Information and Knowledge Management 2025 | Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://dl.acm.org/doi/10.1145/3746252.3760872) [(details)](#zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2) | None |
-| 202511 | X. Yao et al. | arXiv.org 2025 | Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://arxiv.org/abs/2511.05731) [(details)](#towards-better-ultrasound-video-segmentation-fou-27091b1b) | None |
-| 202508 | M. Fernandez et al. | 2025 IEEE International Conference on Image Processing (ICIP) | SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/document/11084376/) [(details)](#sam-2-driven-self-training-for-mammogram-segment-a7b605d7) | [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM) |
-| 202508 | J. He et al. | IEEE Transactions on Biomedical Engineering 2026 | Training-Free Breast Ultrasound Image Segmentation With Retrieval-Based SAM2 [(paper)](https://ieeexplore.ieee.org/document/11113315/) [(details)](#training-free-breast-ultrasound-image-segmentati-816e6d33) | None |
-| 202504 | Y. Yamagishi et al. | JMIR AI 2025 | Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109) [(details)](#using-segment-anything-model-2-for-zero-shot-3d-406bff6d) | None |
-| 202503 | H. Zu et al. | arXiv.org 2025 | Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/abs/2503.04826) [(details)](#rethinking-few-shot-medical-image-segmentation-b-e1f08ac9) | None |
-| 202502 | B. Xie et al. | arXiv.org 2025 | RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2502.02741) [(details)](#rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca) | None |
-| 202501 | X. He et al. | arXiv.org 2025 | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67) | None |
-| 202408 | Y. He et al. | arXiv.org 2024 | A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/abs/2408.11210) [(details)](#a-short-review-and-evaluation-of-sam2-s-performa-d5027d82) | [Code](https://github.com/Project-MONAI/VISTA) |
-| 202408 | Y. Yamagishi et al. | arXiv.org 2024 | Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/abs/2408.06170) [(details)](#zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501) | None |
-| 202408 | M. Mansoori et al. | 2025 IEEE 5th International Conference on Human-Machine Systems (ICHMS) | Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://ieeexplore.ieee.org/document/11154309/) [(details)](#polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c) | [Code](https://github.com/sajjad-sh33/Polyp-SAM-2) |
-| 202408 | AS. Yu et al. | Medical Imaging 2025: Imaging Informatics | Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13411/3047346/Novel-adaptation-of-video-segmentation-to-3D-MRI--efficient/10.1117/12.3047346.full) [(details)](#novel-adaptation-of-video-segmentation-to-3d-mri-24039159) | None |
-| 202408 | J. Yu et al. | Lecture Notes in Computer Science 2026 | SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-13961-0_18) [(details)](#sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b) | None |
-| 202408 | S. Sengupta et al. | Medical Imaging 2025: Image Processing | Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047370/Is-SAM-2-better-than-SAM-in-medical-image-segmentation/10.1117/12.3047370.full) [(details)](#is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e) | None |
-| 202408 | Y. Shen et al. | Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions, and Modeling | Performance and nonadversarial robustness of the segment anything model 2 in surgical video segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/3047383/Performance-and-nonadversarial-robustness-of-the-segment-anything-model-2/10.1117/12.3047383.full) [(details)](#performance-and-nonadversarial-robustness-of-the-cfdbb3ed) | None |
-| 202408 | C. Shen et al. | arXiv.org 2024 | Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2408.02635) [(details)](#interactive-3d-medical-image-segmentation-with-s-bfc855bf) | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D) |
-| 202408 | A. Lou et al. | Medical Imaging 2025: Image Processing | Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047479/Zero-shot-surgical-tool-segmentation-in-monocular-video-using-Segment/10.1117/12.3047479.full) [(details)](#zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32) | [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video) |
+| Date   | Authors               | Venue                                                                              | Title                                                                                                                                                                                                                                                                                                                                                                         | Code                                                           |
+| ------ | --------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 202511 | H. Buyukpatpat et al. | Journal of Imaging Informatics in Medicine 2025 (SCI  ❌)                                    | A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation [(paper)](https://link.springer.com/10.1007/s10278-025-01778-y) [(details)](#a-comparative-evaluation-of-zero-shot-performanc-64e730af)                                                                                                                       | None                                                           |
+| 202511 | S. Chakrabarty et al. | MIDL 2026 (CCF  ❌)                                                                      | Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data [(paper)](https://arxiv.org/abs/2511.21926) [(details)](#comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129)                                                                                                                                                                                   | None                                                           |
+| 202511 | M. Shokri et al.      | 34th ACM International Conference on Information and Knowledge Management 2025 (CCF B)     | Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2 [(paper)](https://dl.acm.org/doi/10.1145/3746252.3760872) [(details)](#zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2)                                                                                                                                                                    | None                                                           |
+| 202511 | X. Yao et al.         | arXiv.org 2025                                                                     | Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective [(paper)](https://arxiv.org/abs/2511.05731) [(details)](#towards-better-ultrasound-video-segmentation-fou-27091b1b)                                                                                                                                | None                                                           |
+| 202508 | M. Fernandez et al.   | 2025 IEEE International Conference on Image Processing (ICIP, CCF C)                      | SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video [(paper)](https://ieeexplore.ieee.org/document/11084376/) [(details)](#sam-2-driven-self-training-for-mammogram-segment-a7b605d7)                                                                                                                                           | [Code](https://github.com/MauricioFernandezM/Self-TrainingSAM) |
+| 202508 | J. He et al.          | IEEE Transactions on Biomedical Engineering 2026   (Q2)                                | Training-Free Breast Ultrasound Image Segmentation With Retrieval-Based SAM2 [(paper)](https://ieeexplore.ieee.org/document/11113315/) [(details)](#training-free-breast-ultrasound-image-segmentati-816e6d33)                                                                                                                                                                | None                                                           |
+| 202504 | Y. Yamagishi et al.   | JMIR AI 2025  (JCR Q3)                                                                     | Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation [(paper)](https://ai.jmir.org/2025/1/e72109) [(details)](#using-segment-anything-model-2-for-zero-shot-3d-406bff6d)                                           | None                                                           |
+| 202503 | H. Zu et al.          | arXiv.org 2025                                                                     | Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching [(paper)](https://arxiv.org/abs/2503.04826) [(details)](#rethinking-few-shot-medical-image-segmentation-b-e1f08ac9)                                                                                                                        | None                                                           |
+| 202502 | B. Xie et al.         | arXiv.org 2025                                                                     | RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2502.02741) [(details)](#rfmedsam-2-automatic-prompt-refinement-for-enhan-8b6b56ca)                                                                                                                                                     | None                                                           |
+| 202408 | Y. He et al.(Daguang Xu)          | arXiv.org 2024                                                                     | A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation [(paper)](https://arxiv.org/abs/2408.11210) [(details)](#a-short-review-and-evaluation-of-sam2-s-performa-d5027d82)                                                                                                                                                                           | [Code](https://github.com/Project-MONAI/VISTA)                 |
+| 202408 | Y. Yamagishi et al.   | arXiv.org 2024                                                                     | Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging [(paper)](https://arxiv.org/abs/2408.06170) [(details)](#zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501)                                                                                                     | None                                                           |
+| 202408 | M. Mansoori et al.    | 2025 IEEE 5th International Conference on Human-Machine Systems (ICHMS)            | Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection [(paper)](https://ieeexplore.ieee.org/document/11154309/) [(details)](#polyp-sam-2-advancing-zero-shot-polyp-segmentati-cb1cf69c)                                                                                                                                                          | [Code](https://github.com/sajjad-sh33/Polyp-SAM-2)             |
+| 202408 | AS. Yu et al.         | arXiv.org 2024                                          | Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13411/3047346/Novel-adaptation-of-video-segmentation-to-3D-MRI--efficient/10.1117/12.3047346.full) [(details)](#novel-adaptation-of-video-segmentation-to-3d-mri-24039159)                      | None                                                           |
+| 202408 | J. Yu et al.          | Lecture Notes in Computer Science 2026 (Efficient Medical Artificial Intelligence)                                             | SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation [(paper)](https://link.springer.com/10.1007/978-3-032-13961-0_18) [(details)](#sam-2-in-robotic-surgery-an-empirical-evaluation-cb73ba9b)                                                                                                                  | None                                                           |
+| 202408 | S. Sengupta et al.    | arXiv.org 2024                                             | Is SAM 2 Better than SAM in Medical Image Segmentation? [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047370/Is-SAM-2-better-than-SAM-in-medical-image-segmentation/10.1117/12.3047370.full) [(details)](#is-sam-2-better-than-sam-in-medical-image-segmen-7cc5ed0e)                                                                     | None                                                           |
+| 202408 | Y. Shen et al.        | Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions, and Modeling | Performance and nonadversarial robustness of the segment anything model 2 in surgical video segmentation [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13408/3047383/Performance-and-nonadversarial-robustness-of-the-segment-anything-model-2/10.1117/12.3047383.full) [(details)](#performance-and-nonadversarial-robustness-of-the-cfdbb3ed) | None                                                           |
+| 202408 | A. Lou et al.         | Medical Imaging 2025: Image Processing                                             | Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2 [(paper)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047479/Zero-shot-surgical-tool-segmentation-in-monocular-video-using-Segment/10.1117/12.3047479.full) [(details)](#zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32)                       | [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)      |
 >Updating continuously ...
 
 ### <div id="sam234fsmis">SAM2/3 4Few-ShotMIS.</div>
@@ -66,6 +64,7 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
 | 202408 | L. Zhao et al. | IEEE Transactions on Neural Networks and Learning Systems 2025 | Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models [(paper)](https://ieeexplore.ieee.org/document/11021654/) [(details)](#retrieval-augmented-few-shot-medical-image-segme-ec75cd75) | None |
+| 202501 | X. He et al.          | arXiv.org 2025                                                                     | Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation [(paper)](https://arxiv.org/abs/2501.09138) [(details)](#few-shot-adaptation-of-training-free-foundation-8b31dd67)                                                                                                                                                                    | None                                                           |
 >Updating continuously ...
 
 ### <div id="sam234iwmis">SAM2/3 4InteractiveMIS.</div>
@@ -73,9 +72,10 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 | Date   | Authors        | Venue      | Title | Code |
 | ------ | -------------- | ---------- | ----- | ---- |
 | 202504 | J. Ma et al. | arXiv.org 2025 | MedSAM2: Segment Anything in 3D Medical Images and Videos [(paper)](https://arxiv.org/abs/2504.03600) [(details)](#medsam2-segment-anything-in-3d-medical-images-an-9bde8144) | [Code](https://github.com/bowang-lab/MedSAM2) |
-| 202502 | X. Wang et al. | 2025 | Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501) [(details)](#proxy-prompt-endowing-sam-sam2with-auto-interact-8f0cff77) | None |
+| 202502 | X. Wang et al. | arXiv.org 2025 | Proxy Prompt: Endowing SAM & SAM2with Auto-Interactive-Prompt for Medical Segmentation [(paper)](https://arxiv.org/pdf/2502.03501) [(details)](#proxy-prompt-endowing-sam-sam2with-auto-interact-8f0cff77) | None |
 | 202408 | J. Zhu et al. | arXiv.org 2024 | Medical SAM 2: Segment medical images as video via Segment Anything Model 2 [(paper)](https://arxiv.org/abs/2408.00874) [(details)](#medical-sam-2-segment-medical-images-as-video-vi-c5d7ee91) | [Code](https://github.com/MedicineToken/Medical-SAM2) |
-| 202408 | H. Dong et al. | IEEE Transactions on Biomedical Engineering 2026 | Segment Anything Model 2: An Application to 2D and 3D Medical Images [(paper)](https://ieeexplore.ieee.org/document/11347005/) [(details)](#segment-anything-model-2-an-application-to-2d-an-91bc686c) | None |
+| 202408 | H. Dong et al. | IEEE Transactions on Biomedical Engineering 2026 | Segment Anything Model 2: An Application to 2D and 3D Medical Images [(paper)](https://ieeexplore.ieee.org/document/11347005/) [(details)](#segment-anything-model-2-an-application-to-2d-an-91bc686c) | [Code](https://github.com/mazurowski-lab/segment-anything2-medical-evaluation/tree/main) |
+| 202408 | C. Shen et al.        | arXiv.org 2024                                                                     | Interactive 3D Medical Image Segmentation with SAM 2 [(paper)](https://arxiv.org/abs/2408.02635) [(details)](#interactive-3d-medical-image-segmentation-with-s-bfc855bf)                                                                                                                                                                                                      | [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)        |
 >Updating continuously ...
 
 ### <div id="sam234others">SAM2/3 4OtherMIS.</div>
@@ -517,30 +517,9 @@ Segment Anything Model (SAM) uses vision transformer-based image encoder to extr
 
 ## <div id="articledetails">Article Details</div>
 
-### <a id="a-comparative-evaluation-of-zero-shot-performanc-64e730af">A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation</a>
-> **Venue:** Journal of Imaging Informatics in Medicine 2025  
-> **Authors:** H. Buyukpatpat et al.  
-> **Keywords:** Zero-ShotMIS, SAM2/3
-**Links**  
-[Viewable Link](https://link.springer.com/10.1007/s10278-025-01778-y) [Original Link](https://link.springer.com/article/10.1007/s10278-025-01778-y)
-
-<p align="center">
-  <!-- Add image to imgs/ and uncomment the img tag below. -->
-  <!-- <img src="imgs/your-image.png" width="720"> -->
-</p>
-
-**Abstract**  
-Lung diseases require accurate and early diagnosis to ensure effective treatment planning and close monitoring of disease progression. High-resolution computed tomography (HRCT) provides detailed visualization of lung structures, while automated lung segmentation in HRCT images supports the diagnostic process and improves clinical accuracy. This study presents a comprehensive evaluation of the segmentation performance of Segment Anything Model (SAM), SAM2, Medical SAM (MedSAM), and MedSAM2 models within a zero-shot learning framework, using the MedGIFT database as the experimental benchmark. Notably, no retraining or fine-tuning was applied to the models, thereby enabling an objective assessment of segmentation performance as a function of prompt types. In the conducted experiments, bounding box (BB) prompts were automatically derived from the ground truth masks, while point-based prompts were generated with positive-only, negative-only, and combined strategies. The number of points varied between 1 and 10, with selections made both randomly and in a balanced manner across lung regions. Experimental findings revealed that, contrary to initial expectations, earlier model versions (SAM and MedSAM) outperformed their newer counterparts (SAM2 and MedSAM2) in BB-based segmentation tasks. Regarding point-based prompts, SAM and SAM2 exhibited complementary strengths: SAM2 achieved higher accuracy with fewer input points, whereas SAM demonstrated superior performance with more densely labeled scenarios. Disease-specific analysis showed point-based prompting was most effective in tuberculosis, while BB-based prompts performed poorly; pulmonary fibrosis had the lowest overall segmentation performance. The highest Dice obtained were 96.076% for SAM, 92.912% for SAM2, 94.326% for MedSAM, and 84.979% for MedSAM2. These results underscore the importance of selecting an appropriate model and prompting strategy based on labeling density and disease characteristics. This study presents the first systematic evaluation of the SAM model family for computed tomography lung segmentation on the MedGIFT database, demonstrating their potential as flexible and robust tools for clinical use. Moreover, this study highlights prompt selection as a key determinant of SAM-based segmentation performance in clinical lung imaging.
-
-**Summary**  
-TBD
-
-[⬆ Back to Literature Table](#sam234zsmis)
-
----
 
 ### <a id="comparing-sam-2-and-sam-3-for-zero-shot-segmenta-3fd0d129">Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data</a>
-> **Venue:** arXiv.org 2025  
+> **Venue:** MIDL 2026  (CCF  ❌)  
 > **Authors:** S. Chakrabarty et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
 **Links**  
@@ -582,7 +561,7 @@ TBD
 ---
 
 ### <a id="zero-shot-stroke-lesion-segmentation-via-cam-gui-43ac53a2">Zero-shot Stroke Lesion Segmentation via CAM-guided Prompting of MedSAM2</a>
-> **Venue:** 34th ACM International Conference on Information and Knowledge Management 2025  
+> **Venue:** 34th ACM International Conference on Information and Knowledge Management 2025  (CIKM, CCF B)
 > **Authors:** M. Shokri et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
 **Links**  
@@ -647,7 +626,7 @@ TBD
 ---
 
 ### <a id="sam-2-driven-self-training-for-mammogram-segment-a7b605d7">SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video</a>
-> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP)  
+> **Venue:** 2025 IEEE International Conference on Image Processing (ICIP, CCF C)   
 > **Authors:** M. Fernandez et al.  
 > **Keywords:** Zero-ShotMIS, SAM2/3
 **Links**  
@@ -942,7 +921,7 @@ TBD
 Medical image and video segmentation is a critical task for precision medicine, which has witnessed considerable progress in developing task or modality-specific and generalist models for 2D images. However, there have been limited studies on building general-purpose models for 3D images and videos with comprehensive user studies. Here, we present MedSAM2, a promptable segmentation foundation model for 3D image and video segmentation. The model is developed by fine-tuning the Segment Anything Model 2 on a large medical dataset with over 455,000 3D image-mask pairs and 76,000 frames, outperforming previous models across a wide range of organs, lesions, and imaging modalities. Furthermore, we implement a human-in-the-loop pipeline to facilitate the creation of large-scale datasets resulting in, to the best of our knowledge, the most extensive user study to date, involving the annotation of 5,000 CT lesions, 3,984 liver MRI lesions, and 251,550 echocardiogram video frames, demonstrating that MedSAM2 can reduce manual costs by more than 85%. MedSAM2 is also integrated into widely used platforms with user-friendly interfaces for local and cloud deployment, making it a practical tool for supporting efficient, scalable, and high-quality segmentation in both research and healthcare environments.
 
 **Summary**  
-TBD
+这相工作还是很好的，提供了基于记忆的方案，并能够适配 3d 数据。不过 3d 分割能力还是需要加强。未能充分考虑多器官的情况。代码可以用。
 
 [⬆ Back to Literature Table](#sam234iwmis)
 
@@ -1022,7 +1001,7 @@ TBD
 [Viewable Link](https://arxiv.org/abs/2503.04826) [Original Link](https://arxiv.org/pdf/2503.04826)
 
 <p align="center">
-  <img src="imgs/rethinking-few-shot-medical-image-segmentation-b-e1f08ac9.png" width="920">
+  <img src="imgs/2026-04-22-20-33-56.png" width="920">
 </p>
 
 **Abstract**  
@@ -1105,15 +1084,20 @@ TBD
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2501.09138) [Original Link](https://arxiv.org/pdf/2501.09138)
 
+
 <p align="center">
-  <img src="imgs/few-shot-adaptation-of-training-free-foundation-8b31dd67.png" width="920">
+  <img src="imgs/2026-04-22-20-47-27.png" width="920">
+</p>
+
+<p align="center">
+  <img src="imgs/2026-04-22-20-44-50.png" width="920">
 </p>
 
 **Abstract**  
 Vision foundation models have achieved remarkable progress across various image analysis tasks. In the image segmentation task, foundation models like the Segment Anything Model (SAM) enable generalizable zero-shot segmentation through user-provided prompts. However, SAM primarily trained on natural images, lacks the domain-specific expertise of medical imaging. This limitation poses challenges when applying SAM to medical image segmentation, including the need for extensive fine-tuning on specialized medical datasets and a dependency on manual prompts, which are both labor-intensive and require intervention from medical experts. This work introduces the Few-shot Adaptation of Training-frEe SAM (FATE-SAM), a novel method designed to adapt the advanced Segment Anything Model 2 (SAM2) for 3D medical image segmentation. FATE-SAM reassembles pre-trained modules of SAM2 to enable few-shot adaptation, leveraging a small number of support examples to capture anatomical knowledge and perform prompt-free segmentation, without requiring model fine-tuning. To handle the volumetric nature of medical images, we incorporate a Volumetric Consistency mechanism that enhances spatial coherence across 3D slices. We evaluate FATE-SAM on multiple medical imaging datasets and compare it with supervised learning methods, zero-shot SAM approaches, and fine-tuned medical SAM methods. Results show that FATE-SAM delivers robust and accurate segmentation while eliminating the need for large annotated datasets and expert intervention. FATE-SAM provides a practical, efficient solution for medical image segmentation, making it more accessible for clinical applications.
 
 **Summary**  
-TBD
+和 TNNLS 的那篇文章很像，Training free 的方法，都是检索出已标注的数据，来形成记忆，让 SAM2 记住，然后再去对新数据进行分割。
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1191,14 +1175,14 @@ TBD
 [Viewable Link](https://ieeexplore.ieee.org/document/11021654/) [Original Link](https://arxiv.org/pdf/2408.08813)
 
 <p align="center">
-  <img src="imgs/retrieval-augmented-few-shot-medical-image-segme-ec75cd75.png" width="920">
+  <img src="imgs/2026-04-22-19-52-14.png" width="920">
 </p>
 
 **Abstract**  
 Medical image segmentation is crucial for clinical decision-making, but the scarcity of annotated data presents significant challenges. Few-shot segmentation (FSS) methods show promise but often require training on the target domain and struggle to generalize across different modalities. Similarly, adapting foundation models like the Segment Anything Model (SAM) for medical imaging has limitations, including the need for finetuning and domain-specific adaptation. To address these issues, we propose a novel method that adapts DINOv2 and Segment Anything Model 2 (SAM 2) for retrieval-augmented few-shot medical image segmentation. Our approach uses DINOv2's feature as query to retrieve similar samples from limited annotated data, which are then encoded as memories and stored in memory bank. With the memory attention mechanism of SAM 2, the model leverages these memories as conditions to generate accurate segmentation of the target image. We evaluated our framework on three medical image segmentation tasks, demonstrating superior performance and generalizability across various modalities without the need for any retraining or finetuning. Overall, this method offers a practical and effective solution for few-shot medical image segmentation and holds significant potential as a valuable annotation tool in clinical applications.
 
 **Summary**  
-TBD
+这篇工作提供了一种 Training free 的方式，来解决受限标注条件下MIS的问题，核心买点就是利用了 SAM2 的记忆。我愿称之为“过目不忘“。原本 SAM2 的记忆是基于视频训练出来的，具备前后帧相似性的记忆，也就是“过目不忘“的能力，而这篇文章就考虑，在少量已标注数据上，让 SAM2 过目不忘对应的标注，然后再利用检索的方式，利用 DINOv2 把这些数据都进行编码，得到对应的 embedding，这样一旦有新数据进来，就先从已标注库中检索相似编码的样本，然后拿着这些样本的记忆去推理新样本，这样新样本就得到了分割结果。
 
 [⬆ Back to Literature Table](#sam234fsmis)
 
@@ -1232,15 +1216,12 @@ TBD
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2408.11210) [Original Link](https://arxiv.org/pdf/2408.11210) [Code](https://github.com/Project-MONAI/VISTA)
 
-<p align="center">
-  <img src="imgs/a-short-review-and-evaluation-of-sam2-s-performa-d5027d82.png" width="920">
-</p>
 
 **Abstract**  
 Since the release of Segment Anything 2 (SAM2), the medical imaging community has been actively evaluating its performance for 3D medical image segmentation. However, different studies have employed varying evaluation pipelines, resulting in conflicting outcomes that obscure a clear understanding of SAM2's capabilities and potential applications. We shortly review existing benchmarks and point out that the SAM2 paper clearly outlines a zero-shot evaluation pipeline, which simulates user clicks iteratively for up to eight iterations. We reproduced this interactive annotation simulation on 3D CT datasets and provided the results and code~\url{https://github.com/Project-MONAI/VISTA}. Our findings reveal that directly applying SAM2 on 3D medical imaging in a zero-shot manner is far from satisfactory. It is prone to generating false positives when foreground objects disappear, and annotating more slices cannot fully offset this tendency. For smaller single-connected objects like kidney and aorta, SAM2 performs reasonably well but for most organs it is still far behind state-of-the-art 3D annotation methods. More research and innovation are needed for 3D medical imaging community to use SAM2 correctly.
 
 **Summary**  
-TBD
+文章验证了 SAM2 还有很大的研究空间。然后顺带宣传了一下 VISTA3D。很强。
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1295,9 +1276,6 @@ TBD
 **Links**  
 [Viewable Link](https://arxiv.org/abs/2408.06170) [Original Link](https://arxiv.org/pdf/2408.06170)
 
-<p align="center">
-  <img src="imgs/zero-shot-3d-segmentation-of-abdominal-organs-in-3ba96501.png" width="920">
-</p>
 
 **Abstract**  
 Objectives: To evaluate the zero-shot performance of Segment Anything Model 2 (SAM 2) in 3D segmentation of abdominal organs in CT scans, and to investigate the effects of prompt settings on segmentation results. Materials and Methods: In this retrospective study, we used a subset of the TotalSegmentator CT dataset from eight institutions to assess SAM 2's ability to segment eight abdominal organs. Segmentation was initiated from three different z-coordinate levels (caudal, mid, and cranial levels) of each organ. Performance was measured using the Dice similarity coefficient (DSC). We also analyzed the impact of "negative prompts," which explicitly exclude certain regions from the segmentation process, on accuracy. Results: 123 patients (mean age, 60.7 \pm 15.5 years; 63 men, 60 women) were evaluated. As a zero-shot approach, larger organs with clear boundaries demonstrated high segmentation performance, with mean DSCs as follows: liver 0.821 \pm 0.192, right kidney 0.862 \pm 0.212, left kidney 0.870 \pm 0.154, and spleen 0.891 \pm 0.131. Smaller organs showed lower performance: gallbladder 0.531 \pm 0.291, pancreas 0.361 \pm 0.197, and adrenal glands, right 0.203 \pm 0.222, left 0.308 \pm 0.234. The initial slice for segmentation and the use of negative prompts significantly influenced the results. By removing negative prompts from the input, the DSCs significantly decreased for six organs. Conclusion: SAM 2 demonstrated promising zero-shot performance in segmenting certain abdominal organs in CT scans, particularly larger organs. Performance was significantly influenced by input negative prompts and initial slice selection, highlighting the importance of optimizing these factors.
@@ -1321,7 +1299,7 @@ TBD
 </p>
 
 **Abstract**  
-Polyp segmentation plays a crucial role in the early detection and diagnosis of colorectal cancer. However, obtaining accurate segmentations often requires labor-intensive annotations and specialized models. Recently, Meta AI Research released a general Segment Anything Model 2 (SAM 2), which has demonstrated promising performance in several segmentation tasks. In this manuscript, we evaluate the performance of SAM 2 in segmenting polyps under various prompted settings. We hope this report will provide insights to advance the field of polyp segmentation and promote more interesting work in the future. This project is publicly available at https://github.com/ sajjad-sh33/Polyp-SAM-2.
+Polyp segmentation plays a crucial role in the early detection and diagnosis of colorectal cancer. However, obtaining accurate segmentations often requires labor-intensive annotations and specialized models. Recently, Meta AI Research released a general Segment Anything Model 2 (SAM 2), which has demonstrated promising performance in several segmentation tasks. In this manuscript, we evaluate the performance of SAM 2 in segmenting polyps under various prompted settings. We hope this report will provide insights to advance the field of polyp segmentation and promote more interesting work in the future. This project is publicly available at https://github.com/sajjad-sh33/Polyp-SAM-2.
 
 **Summary**  
 TBD
@@ -1338,7 +1316,7 @@ TBD
 [Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13411/3047346/Novel-adaptation-of-video-segmentation-to-3D-MRI--efficient/10.1117/12.3047346.full) [Original Link](https://arxiv.org/pdf/2408.04762)
 
 <p align="center">
-  <img src="imgs/novel-adaptation-of-video-segmentation-to-3d-mri-24039159.png" width="920">
+  <img src="imgs/2026-04-22-20-57-20.png" width="920">
 </p>
 
 **Abstract**  
@@ -1366,7 +1344,7 @@ TBD
 The recent Segment Anything Model (SAM) 2 has demonstrated remarkable foundational competence in semantic segmentation, with its memory mechanism and mask decoder further addressing challenges in video tracking and object occlusion, thereby achieving superior results in interactive segmentation for both images and videos. Building upon our previous empirical studies, we further explore the zero-shot segmentation performance of SAM 2 in robot-assisted surgery based on prompts, alongside its robustness against real-world corruption. For static images, we employ two forms of prompts: 1-point and bounding box, while for video sequences, the 1-point prompt is applied to the initial frame. Through extensive experimentation on the MICCAI EndoVis 2017 and EndoVis 2018 benchmarks, SAM 2, when utilizing bounding box prompts, outperforms state-of-the-art (SOTA) methods in comparative evaluations. The results with point prompts also exhibit a substantial enhancement over SAM's capabilities, nearing or even surpassing existing unprompted SOTA methodologies. Besides, SAM 2 demonstrates improved inference speed and less performance degradation against various image corruption. Although slightly unsatisfactory results remain in specific edges or regions, SAM 2's robust adaptability to 1-point prompts underscores its potential for downstream surgical tasks with limited prompt requirements.
 
 **Summary**  
-TBD
+机器人辅助手术视频分割。
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1408,7 +1386,9 @@ TBD
 The Segment Anything Model (SAM) has demonstrated impressive performance in zero-shot promptable segmentation on natural images. The recently released Segment Anything Model 2 (SAM 2) claims to outperform SAM on images and extends the model's capabilities to video segmentation. Evaluating the performance of this new model in medical image segmentation, specifically in a zero-shot promptable manner, is crucial. In this work, we conducted extensive studies using multiple datasets from various imaging modalities to compare the performance of SAM and SAM 2. We employed two point-prompt strategies: (i) multiple positive prompts where one prompt is placed near the centroid of the target structure, while the remaining prompts are randomly placed within the structure, and (ii) combined positive and negative prompts where one positive prompt is placed near the centroid of the target structure, and two negative prompts are positioned outside the structure, maximizing the distance from the positive prompt and from each other. The evaluation encompassed 24 unique organ-modality combinations, including abdominal structures, cardiac structures, fetal head images, skin lesions and polyp images across 11 publicly available MRI, CT, ultrasound, dermoscopy, and endoscopy datasets. Preliminary results based on 2D images indicate that while SAM 2 may perform slightly better in a few cases, it does not generally surpass SAM for medical image segmentation. Notably, SAM 2 performs worse than SAM in lower contrast imaging modalities, such as CT and ultrasound. However, for MRI images, SAM 2 performs on par with or better than SAM. Like SAM, SAM 2 also suffers from over-segmentation issues, particularly when the boundaries of the target organ are fuzzy.
 
 **Summary**  
-TBD
+在这项工作中，进行了一项系统性的评估研究，以比较SAM和SAM 2的性能。在未来的研究中，将使用3D医学图像和生物成像的时间间隔视频进行更深入的分析。主要观察结果是:
+- SAM 2在CT、超声成像方面的表现较差，但在MRI成像方面表现略好。它在皮肤镜检查、内窥镜检查方面的表现与SAM相似。这表明SAM 2对于低对比度医学成像方式来说是一个相对较差的选择。
+- 借助负面提示，在大多数情况下，SAM 2的表现要么与SAM非常相似，要么优于SAM。
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1429,7 +1409,7 @@ TBD
 Fully supervised deep learning (DL) models for surgical video segmentation have been shown to struggle with non-adversarial, real-world corruptions of image quality including smoke, bleeding, and low illumination. Foundation models for image segmentation, such as the segment anything model (SAM) that focuses on interactive prompt-based segmentation, move away from semantic classes and thus can be trained on larger and more diverse data, which offers outstanding zero-shot generalization with appropriate user prompts. Recently, building upon this success, SAM-2 has been proposed to further extend the zero-shot interactive segmentation capabilities from independent frame-by-frame to video segmentation. In this paper, we present a first experimental study evaluating SAM-2’s performance on surgical video data. Leveraging the SegSTRONG-C MICCAI EndoVIS 2024 sub-challenge dataset, we assess SAM-2’s effectiveness on uncorrupted endoscopic sequences and evaluate its non-adversarial robustness on videos with corrupted image quality simulating smoke, bleeding, and low brightness conditions under various prompt strategies. Our experiments demonstrate that SAM-2, in zeroshot manner, can achieve competitive or even superior performance compared to fully-supervised deep learning models on surgical video data, including under non-adversarial corruptions of image quality. Additionally, SAM- 2 consistently outperforms the original SAM and its medical variants across all conditions. Finally, frame-sparse prompting can consistently outperform frame-wise prompting for SAM-2, suggesting that allowing SAM-2 to leverage its temporal modeling capabilities leads to more coherent and accurate segmentation compared to frequent prompting.
 
 **Summary**  
-TBD
+研究 SAM2 在手术视频上鲁棒性，关注在内窥镜。
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1506,16 +1486,16 @@ TBD
 [Viewable Link](https://arxiv.org/abs/2408.02635) [Original Link](https://arxiv.org/pdf/2408.02635) [Code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)
 
 <p align="center">
-  <img src="imgs/interactive-3d-medical-image-segmentation-with-s-bfc855bf.png" width="920">
+  <img src="imgs/2026-04-22-21-13-16.png" width="920">
 </p>
 
 **Abstract**  
 Interactive medical image segmentation (IMIS) has shown significant potential in enhancing segmentation accuracy by integrating iterative feedback from medical professionals. However, the limited availability of enough 3D medical data restricts the generalization and robustness of most IMIS methods. The Segment Anything Model (SAM), though effective for 2D images, requires expensive semi-auto slice-by-slice annotations for 3D medical images. In this paper, we explore the zero-shot capabilities of SAM 2, the next-generation Meta SAM model trained on videos, for 3D medical image segmentation. By treating sequential 2D slices of 3D images as video frames, SAM 2 can fully automatically propagate annotations from a single frame to the entire 3D volume. We propose a practical pipeline for using SAM 2 in 3D medical image segmentation and present key findings highlighting its efficiency and potential for further optimization. Concretely, numerical experiments on the BraTS2020 and the medical segmentation decathlon datasets demonstrate that SAM 2 still has a gap with supervised methods but can narrow the gap in specific settings and organ types, significantly reducing the annotation burden on medical professionals. Our code will be open-sourced and available at https://github.com/Chuyun-Shen/SAM_2_Medical_3D.
 
 **Summary**  
-TBD
+验证 SAM2 在 3d 医学图像中的分割能力，还有进步的空间。
 
-[⬆ Back to Literature Table](#sam234zsmis)
+[⬆ Back to Literature Table](#sam234iwmis)
 
 ---
 
@@ -1527,14 +1507,14 @@ TBD
 [Viewable Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/3047479/Zero-shot-surgical-tool-segmentation-in-monocular-video-using-Segment/10.1117/12.3047479.full) [Original Link](https://arxiv.org/pdf/2408.01648) [Code](https://github.com/AngeLouCN/SAM-2_Surgical_Video)
 
 <p align="center">
-  <img src="imgs/zero-shot-surgical-tool-segmentation-in-monocula-3a1aef32.png" width="920">
+  <img src="imgs/2026-04-22-21-17-42.png" width="920">
 </p>
 
 **Abstract**  
 The Segment Anything Model 2 (SAM 2) is the latest generation foundation model for image and video segmentation. Trained on the expansive Segment Anything Video (SA-V) dataset, which comprises 35.5 million masks across 50.9K videos, SAM 2 advances its predecessor's capabilities by supporting zero-shot segmentation through various prompts (e.g., points, boxes, and masks). Its robust zero-shot performance and efficient memory usage make SAM 2 particularly appealing for surgical tool segmentation in videos, especially given the scarcity of labeled data and the diversity of surgical procedures. In this study, we evaluate the zero-shot video segmentation performance of the SAM 2 model across different types of surgeries, including endoscopy and microscopy. We also assess its performance on videos featuring single and multiple tools of varying lengths to demonstrate SAM 2's applicability and effectiveness in the surgical domain. We found that: 1) SAM 2 demonstrates a strong capability for segmenting various surgical videos; 2) When new tools enter the scene, additional prompts are necessary to maintain segmentation accuracy; and 3) Specific challenges inherent to surgical videos can impact the robustness of SAM 2.
 
 **Summary**  
-TBD
+手术视频
 
 [⬆ Back to Literature Table](#sam234zsmis)
 
@@ -1569,14 +1549,20 @@ TBD
 [Viewable Link](https://ieeexplore.ieee.org/document/11347005/) [Original Link](https://arxiv.org/pdf/2408.00756)
 
 <p align="center">
-  <img src="imgs/segment-anything-model-2-an-application-to-2d-an-91bc686c.png" width="920">
+  <img src="imgs/2026-04-22-19-18-32.png" width="920">
 </p>
 
 **Abstract**  
 Segment Anything Model (SAM) has gained significant attention because of its ability to segment a variety of objects in images upon providing a prompt. Recently developed SAM 2 has extended this ability to video segmentation, and by substituting the third spatial dimension in 3D images for the time dimension in videos, it opens an opportunity to apply SAM 2 to 3D medical images. In this paper, we extensively evaluate SAM 2's ability to segment both 2D and 3D medical images using 80 prompt strategies across 21 medical imaging datasets, including 2D modalities (X-ray and ultrasound), 3D modalities (magnetic resonance imaging, computed tomography, and positron emission tomography), and surgical videos. We find that in the 2D setting, SAM 2 performs similarly to SAM, while in the 3D setting we observe that: (1) selecting the first mask is more effective than choosing the one with the highest confidence, (2) prompting the slice with the largest object appears is the most cost-effective strategy when only one slice is prompted, (3) box prompts result in higher performance than point prompts at a slightly higher annotation cost, (4) bidirectional propagation outperforms front-to-end propagation, (5) interactive annotation is rarely effective, (6) SAM 2, without fine-tuning, achieves 3D IoU from 0.32 with a single point prompt to 0.51 with a ground truth mask on one slice, and exceeds 0.8 on certain datasets when using box or ground-truth prompts, a level that begins to approach clinical usefulness. These findings demonstrate that SAM 2's ability to segment 3D medical images can be improved with our proposed strategies over the default ones, providing practical guidance for using SAM 2 for prompt-based 3D medical image segmentation.
 
 **Summary**  
-TBD
+这是一项很有意义的工作，作者们对 SAM2 在 3d 医学图像上进行了尝试，并得到了很有价值的参考。结论是：
+- 在选择哪一帧的提示上，选择类别中心切片作为提示时，效果最好；当可以选择多帧作为提示时，效果要比单帧要好。
+- 提示方面，box 形式的提示，要比 point 形式要好。
+- 与从头到尾的传播方式相比，从中间有注释的切片开始双向传播，是一种更有效的方式。
+- 交互式分割，只有在人工标注新切片时（就是能提供 mask 级别提示），才会有效果。
+- SAM 2 在 3d 上最佳性能，是对于整个 volume，同时提供 point、box 和 mask。
+
 
 [⬆ Back to Literature Table](#sam234iwmis)
 
