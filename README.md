@@ -547,7 +547,7 @@ TBD
 [Viewable Link](https://arxiv.org/abs/2511.19046) [Original Link](https://arxiv.org/pdf/2511.19046) [Code](https://github.com/Joey-S-Liu/MedSAM3)
 
 <p align="center">
-  <img src="imgs/medsam3-delving-into-segment-anything-with-medic-54988e2e.png" width="920">
+  <img src="imgs/2026-04-23-10-18-33.png" width="920">
 </p>
 
 **Abstract**  
@@ -808,14 +808,14 @@ TBD
 [Viewable Link](https://dl.acm.org/doi/10.1145/3746027.3755108) [Original Link](https://arxiv.org/pdf/2506.23121) [Code](https://github.com/YU-deep/CRISP_SAM2.git)
 
 <p align="center">
-  <img src="imgs/crisp-sam2-sam2-with-cross-modal-interaction-and-aed849b6.png" width="920">
+  <img src="imgs/2026-04-23-10-20-41.png" width="920">
 </p>
 
 **Abstract**  
 Multi-organ medical segmentation is a crucial component of medical image processing, essential for doctors to make accurate diagnoses and develop effective treatment plans. Despite significant progress in this field, current multi-organ segmentation models often suffer from inaccurate details, dependence on geometric prompts and loss of spatial information. Addressing these challenges, we introduce a novel model named CRISP-SAM2 with CRoss-modal Interaction and Semantic Prompting based on SAM2. This model represents a promising approach to multi-organ medical segmentation guided by textual descriptions of organs. Our method begins by converting visual and textual inputs into cross-modal contextualized semantics using a progressive cross-attention interaction mechanism. These semantics are then injected into the image encoder to enhance the detailed understanding of visual information. To eliminate reliance on geometric prompts, we use a semantic prompting strategy, replacing the original prompt encoder to sharpen the perception of challenging targets. In addition, a similarity-sorting self-updating strategy for memory and a mask-refining process is applied to further adapt to medical imaging and enhance localized details. Comparative experiments conducted on seven public datasets indicate that CRISP-SAM2 outperforms existing models. Extensive analysis also demonstrates the effectiveness of our method, thereby confirming its superior performance, especially in addressing the limitations mentioned earlier. Our code is available at: https://github.com/YU-deep/CRISP_SAM2.git.
 
 **Summary**  
-TBD
+文章将 SAM2 进一步改进，引入文本信息，与视觉特征形成跨模态数据，从而提升上下文语义理解。
 
 [⬆ Back to Literature Table](#sam234others)
 
@@ -871,7 +871,7 @@ TBD
 [Viewable Link](https://ieeexplore.ieee.org/document/11224387/) [Original Link](https://arxiv.org/pdf/2505.01854)
 
 <p align="center">
-  <img src="imgs/accelerating-volumetric-medical-image-annotation-c4ec9531.png" width="920">
+  <img src="imgs/2026-04-23-10-32-53.png" width="920">
 </p>
 
 **Abstract**  
@@ -973,14 +973,14 @@ TBD
 
 ### <a id="self-prompting-driven-sam2-for-3d-medical-image-cd20683a">Self-Prompting Driven SAM2 for 3D Medical Image Segmentation</a>
 > **Venue:** ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
-> **Authors:** S. Wei et al.  
+> **Authors:** S. Wei et al.  (Yan Wang)   
 > **Keywords:** OtherMIS, SAM2/3
 **Links**  
 [Viewable Link](https://ieeexplore.ieee.org/document/10889344/) [Original Link](https://ieeexplore.ieee.org/document/10889344)
 
 <p align="center">
   <!-- Add image to imgs/ and uncomment the img tag below. -->
-  <!-- <img src="imgs/your-image.png" width="720"> -->
+  <img src="imgs/2026-04-23-10-30-03.png" width="720">
 </p>
 
 **Abstract**  
@@ -1133,7 +1133,7 @@ TBD
 [Viewable Link](https://ieeexplore.ieee.org/document/10887638/) [Original Link](https://arxiv.org/pdf/2409.09484) [Code](https://github.com/sajjad-sh33/YOLO_SAM2)
 
 <p align="center">
-  <img src="imgs/self-prompting-polyp-segmentation-in-colonoscopy-15431981.png" width="920">
+  <img src="imgs/2026-04-23-10-41-26.png" width="920">
 </p>
 
 **Abstract**  
@@ -1154,7 +1154,7 @@ TBD
 [Viewable Link](https://ieeexplore.ieee.org/document/10888853/) [Original Link](https://arxiv.org/pdf/2409.09286) [Code](https://github.com/ShellRedia/SAM-OCTA2)
 
 <p align="center">
-  <img src="imgs/sam-octa2-layer-sequence-octa-segmentation-with-8df9f75d.png" width="920">
+  <img src="imgs/2026-04-23-10-49-13.png" width="920">
 </p>
 
 **Abstract**  
